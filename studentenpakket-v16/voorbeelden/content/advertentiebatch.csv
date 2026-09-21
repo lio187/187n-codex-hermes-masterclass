@@ -1,0 +1,7 @@
+variant,concept,hook,beeld,actie,formaat,status
+A1,Gemak,Dit ontvang je de eerste keer.,Starter in beeld; daarna refill.,Lees de productuitleg.,9:16,CONCEPT_NIET_GETEST
+A2,Gemak,Wat komt er bij de volgende levering?,Starter in beeld; daarna refill.,Lees de productuitleg.,9:16,CONCEPT_NIET_GETEST
+B1,Duidelijkheid,Starter en refill naast elkaar.,Twee gelabelde conceptcomposities.,Bekijk het verschil.,9:16,CONCEPT_NIET_GETEST
+B2,Duidelijkheid,"Eerste aankoop, volgende levering.",Twee gelabelde conceptcomposities.,Bekijk het verschil.,9:16,CONCEPT_NIET_GETEST
+C1,Controle,Waar controleer je jouw interval?,Conceptaccountscherm; geen echte UI-claim.,Lees de voorwaarden.,9:16,CONCEPT_NIET_GETEST
+C2,Controle,Wat wil je weten voor je kiest?,Conceptaccountscherm; geen echte UI-claim.,Lees de voorwaarden.,9:16,CONCEPT_NIET_GETEST

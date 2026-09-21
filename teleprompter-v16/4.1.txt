@@ -1,0 +1,9 @@
+Stel, je hebt net een sterke advertentiebatch gemaakt. De research klopte, de beelden zaten goed en jouw feedback is verwerkt. Die manier van werken wil je de volgende keer opnieuw kunnen gebruiken.
+
+We laten Codex daar een skill van maken. Geef de opdracht, de gebruikte inputs, de goede output en jouw correcties mee. Je kunt ook je scherm opnemen terwijl je laat zien hoe jij het werk aanpakt.
+
+De skill moet uitleggen hoe je van een nieuw product naar diezelfde soort output komt. Dus welke informatie is nodig, welke stappen volgen en waar beoordeel je het resultaat? De specifieke productnaam hoort in de opdracht, zodat je de skill ook voor een ander merk kunt gebruiken.
+
+Daarna proberen we hem met een tweede product. Dat is het moment waarop je ziet of je een bruikbare workflow hebt bewaard. Mist hij iets dat jij de eerste keer mondeling had uitgelegd, dan voegen we dat toe.
+
+Tijd om dit te bouwen. Ik ga mijn eigen werkwijze omzetten naar een herbruikbare skill. Kijk even mee; ik vertel onderweg waarom ik iets doe.

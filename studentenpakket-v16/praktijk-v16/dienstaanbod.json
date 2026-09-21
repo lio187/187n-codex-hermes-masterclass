@@ -1,0 +1,27 @@
+{
+  "label": "FICTIEF OEFENAANBOD",
+  "project": "demo-dienst",
+  "currency": "EUR",
+  "tax": "Prijzen exclusief btw; geen fiscale berekening in deze oefening",
+  "items": [
+    {
+      "id": "intake",
+      "name": "Intake en bouwbrief",
+      "unit_price": 250
+    },
+    {
+      "id": "workflow",
+      "name": "Eén afgebakende workflow",
+      "unit_price": 750
+    }
+  ],
+  "included": "Eén revisieronde",
+  "availability": null,
+  "required_input": [
+    "bedrijf",
+    "gewenste workflow",
+    "aantal workflows",
+    "contactvoorkeur"
+  ],
+  "booking_authorization": null
+}

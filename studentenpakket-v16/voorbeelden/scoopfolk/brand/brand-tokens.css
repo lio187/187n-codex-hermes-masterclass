@@ -1,0 +1,13 @@
+:root {
+  --sf-plum: #281733;
+  --sf-pink: #FF2787;
+  --sf-purple: #7042E8;
+  --sf-lilac: #E7DBFF;
+  --sf-cream: #FFF9F3;
+  --sf-black: #000000;
+  --sf-white: #FFFFFF;
+  --sf-font-body: Arial, Helvetica, sans-serif;
+  --sf-font-display: "Arial Rounded MT Bold", Arial, sans-serif;
+  --sf-radius-card: 24px;
+  --sf-radius-button: 999px;
+}

@@ -1,0 +1,9 @@
+Wil je jouw product echt laten binnenkomen? Dan kun je een aparte experience bouwen waarin het product tijdens het scrollen wordt uitgelegd. Dat gaan we hier doen met de MotionSites-route.
+
+Pak één product en één verhaal. Bijvoorbeeld hoe de verpakking opengaat, hoe je het gebruikt en waar het in je dagelijkse routine past. We maken daar een volgorde van beelden of een geschikt 3D-asset voor. Tijdens het scrollen loopt dat verhaal mee.
+
+Geef de agent duidelijk de scènes mee. Eerst het product groot in beeld, daarna een detail, vervolgens het gebruik en aan het eind de koopactie. Laat de tekst op de beweging aansluiten. Je wilt dat iemand het product beter begrijpt terwijl hij door de pagina gaat.
+
+We openen de preview en sturen de timing bij. Blijft de tekst lang genoeg staan? Komt het product op het juiste moment in beeld? Voelt de overgang goed op mobiel? Soms werkt een eenvoudiger beeld daar beter dan dezelfde zware animatie.
+
+Je hebt nu de basis. Ik ga het productverhaal met scroll en beweging uitwerken, zoals ik dat zelf voor dit project zou doen.

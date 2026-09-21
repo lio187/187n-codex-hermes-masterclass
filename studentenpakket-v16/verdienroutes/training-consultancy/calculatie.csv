@@ -1,0 +1,4 @@
+scenario,periode,eenheid,omzet_eur,uren,interne_uurkosten_eur,overige_bekende_kosten_eur,bekende_kosten_eur,bijdrage_eur,status
+normaal,bouw,1 workshop + voorbereiding,950,8,50,25,425,525,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+hoog_volume,bouw,1 workshop + voorbereiding,950,12.0,50,37.5,637.5,312.5,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+extra_herstel,bouw,1 workshop + voorbereiding,950,16,50,50,850,100,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING

@@ -1,0 +1,3 @@
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N23 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor video-analyse-vergelijking.md. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Je productvideo afmaken in Palmier Pro en DaVinci Resolve. Neem je gekozen resultaat mee.

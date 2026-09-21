@@ -1,0 +1,28 @@
+{
+  "status": "TESTDATA",
+  "bedrijf": "187N oefenklant",
+  "project": "Klantportal",
+  "intake": [
+    "doel",
+    "huidige werkwijze",
+    "bronnen",
+    "contactpersoon"
+  ],
+  "fases": [
+    "Intake",
+    "Research",
+    "Build",
+    "Review",
+    "Oplevering"
+  ],
+  "rollen": [
+    "klant",
+    "beheerder"
+  ],
+  "acceptatie": [
+    "klant ziet alleen eigen project",
+    "lege status heeft uitleg",
+    "voortgang blijft na herladen",
+    "mobiel formulier bruikbaar"
+  ]
+}

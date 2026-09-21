@@ -1,0 +1,5 @@
+model:
+  provider: openai-codex
+  default: gpt-6-astra
+agent:
+  bot_mode_protocol: true

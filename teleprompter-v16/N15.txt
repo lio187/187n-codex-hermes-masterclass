@@ -1,0 +1,9 @@
+Je agent ziet iets dat beter kan aan je website. Dan wil je dat hij daar een duidelijke bouwopdracht van maakt en die doorgeeft aan je codingagent. Dat gaan we nu op een kopie van onze store doen.
+
+Hermes beschrijft het probleem, wijst de juiste bestanden aan en zegt welk resultaat we verwachten. Codex krijgt die opdracht met onze merkcontext. We gebruiken de beschikbare, gecontroleerde delegatieroute. Als die koppeling op jouw computer nog ontbreekt, staat dezelfde overdracht als bestand klaar voor handmatig gebruik.
+
+Ik laat bijvoorbeeld een bundelvergelijking toevoegen op basis van de bevestigde productgegevens. Codex bouwt op een eigen werkversie en levert terug wat gewijzigd is en hoe het is gecontroleerd. Hermes bekijkt daarna of de opdracht echt is opgelost.
+
+Het eindpunt is de werkende preview. We klikken de vergelijking door en bekijken de mobiele versie. Je krijgt beide opdrachten mee: de overdracht naar de builder en de beoordeling van het resultaat. Daarmee kun je dit voor allerlei terugkerende verbeteringen opzetten.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.

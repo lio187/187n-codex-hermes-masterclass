@@ -1,0 +1,17 @@
+{
+  "status": "CONCEPT_NIET_GEPUBLICEERD",
+  "account": null,
+  "budget": null,
+  "authorization": null,
+  "landing_page": null,
+  "assets": [],
+  "copy_variants": [],
+  "measurement_period": null,
+  "platform_ids": [],
+  "requirements": [
+    "Gekozen account",
+    "Goedgekeurde assets",
+    "Bevestigde productclaims",
+    "Expliciete publicatie- en budgetkeuze"
+  ]
+}

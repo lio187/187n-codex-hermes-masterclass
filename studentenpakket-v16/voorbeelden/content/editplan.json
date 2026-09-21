@@ -1,0 +1,42 @@
+{
+  "status": "PLAN_NIET_UITGEVOERD",
+  "duration_seconds": 30,
+  "sources": [
+    {
+      "id": "shot1",
+      "path": "media/shot1.mp4"
+    },
+    {
+      "id": "shot2",
+      "path": "media/shot2.mp4"
+    },
+    {
+      "id": "shot3",
+      "path": "media/shot3.mp4"
+    }
+  ],
+  "clips": [
+    {
+      "source": "shot1",
+      "in": 0,
+      "duration": 5
+    },
+    {
+      "source": "shot2",
+      "in": 0,
+      "duration": 9
+    },
+    {
+      "source": "shot3",
+      "in": 0,
+      "duration": 9
+    },
+    {
+      "source": "shot1",
+      "in": 5,
+      "duration": 7
+    }
+  ],
+  "caption": "CURSUSCONCEPT",
+  "execution": "Geen runner meegeleverd; controleer eigen lokale bestanden en voer alleen gereviewde edits uit."
+}

@@ -1,0 +1,3 @@
+Alles om hier zelf mee verder te gaan staat bij les 4.1. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Bouw een editor die jouw stijl kan herhalen. Neem je gekozen resultaat mee.

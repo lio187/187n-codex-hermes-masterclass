@@ -1,0 +1,7 @@
+scenario,periode,eenheid,omzet_eur,uren,interne_uurkosten_eur,overige_bekende_kosten_eur,bekende_kosten_eur,bijdrage_eur,status
+normaal,bouw,1 intakeworkflow,1500,14,50,25,725,775,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+normaal,maand,1 intakeworkflow,150,1.5,50,25,100.0,50.0,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+hoog_volume,bouw,1 intakeworkflow,1500,21.0,50,37.5,1087.5,412.5,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+hoog_volume,maand,1 intakeworkflow,150,2.25,50,37.5,150.0,0.0,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+extra_herstel,bouw,1 intakeworkflow,1500,28,50,50,1450,50,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+extra_herstel,maand,1 intakeworkflow,150,3.0,50,50,200.0,-50.0,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING

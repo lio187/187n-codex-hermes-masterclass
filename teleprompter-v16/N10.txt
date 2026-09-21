@@ -1,0 +1,9 @@
+Je bent lekker aan het bouwen en je chat wordt steeds voller. Dan wil je kunnen doorpakken zonder opnieuw uit te leggen waar alles staat. We gaan onze build expres halverwege onderbreken.
+
+Codex bewaart het plan, de bevindingen en de actuele voortgang in drie korte bestanden. Het plan zegt wat we willen maken. De bevindingen bewaren de keuzes die tijdens het werk duidelijk werden. In de voortgang staat wat werkelijk af is en welke stap nog openstaat.
+
+We doen dit op een kopie van onze storefront. Ik laat één onderdeel afmaken en controleer het resultaat. Daarna sluiten we de sessie en starten we opnieuw met die bestanden. De nieuwe sessie moet eerst kijken wat er echt in de build staat. Een vinkje in een plan is geen vervanging voor de werkende pagina.
+
+Ik voeg ook één fout toe aan de voortgang: iets dat nog openstaat krijgt bewust de status af. Dan zien we of de agent het controleert. Dat is precies waarom deze aanpak handig is bij grotere klantprojecten: je houdt het werk overdraagbaar én je kunt aantonen waar je staat.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.

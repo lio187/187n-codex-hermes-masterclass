@@ -1,0 +1,9 @@
+Een workflow kan tien keer goed gaan en de elfde keer mist er een bestand. Dan wil je weten wat er gebeurd is en waar je verder kunt. We gaan dat nu oefenen op onze contentroutine.
+
+De opdracht bestaat uit input lezen, content voorbereiden en het resultaat bewaren. We geven iedere run een eigen nummer. Bij een fout leggen we vast welke stap af is en welke nog niet. Daardoor hoeft de agent bij herstel niet blind de hele opdracht opnieuw te doen.
+
+Ik haal zo expres een oefenasset weg. De agent moet duidelijk aangeven wat hij mist. Daarna zetten we die terug en laten we hem verdergaan. Vervolgens sturen we dezelfde opdracht opnieuw. Hij moet herkennen dat deze batch al is verwerkt en niet nog een tweede identieke batch opleveren.
+
+Dit is ook de plek waar je grenzen voor herhalen bepaalt. Een tijdelijke leesfout kun je nog eens proberen. Een mislukte externe actie moet je eerst controleren: misschien is die actie toch uitgevoerd. In de demo blijft alles lokaal, zodat we fout, herstel en dubbele opdracht zichtbaar kunnen vergelijken.
+
+Tijd om dit echt te doen. Ik pak mijn project erbij en laat je zien welke keuzes ik onderweg maak.

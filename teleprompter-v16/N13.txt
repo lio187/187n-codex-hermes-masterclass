@@ -1,0 +1,9 @@
+Als je 's ochtends je agent opent, wil je weten waar je vandaag iets mee moet. We gaan een briefing maken die je helpt kiezen wat je als eerste oppakt.
+
+We gebruiken orders, supportvragen en de contentplanning van onze oefenbrand. Hermes kijkt naar dezelfde periode en zet de opvallende dingen bij elkaar. Een omzetgetal zonder periode heb je weinig aan. Een supportprobleem zonder de bijbehorende tickets ook. Daarom laat hij zien welke gegevens hij gebruikt.
+
+Daarna moet hij prioriteiten voorstellen. Bijvoorbeeld: meerdere klanten vragen hetzelfde over verzending, dus we passen de uitleg op de productpagina aan. Of er ontbreekt een asset voor een contentitem dat vandaag klaar moet zijn. Dat wordt een concrete opdracht met de bron erbij.
+
+Ik wil maximaal drie acties bovenaan, maar je kunt de onderliggende gegevens gewoon openen. We voeren de briefing eerst handmatig uit. Daarna veranderen we een oefenbestand en draaien we hem opnieuw. Je moet het verschil terugzien voordat we er later een vaste routine van maken.
+
+Oké, ik ga je nu laten zien hoe ik dit zelf aanpak. Pak het lesbestand erbij en kijk mee.

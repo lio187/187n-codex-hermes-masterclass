@@ -1,0 +1,11 @@
+We hebben nu een complete store. Dan wil je weten welke keuzes beter werken voor jouw bezoekers. Daar maken we gerichte experimenten voor.
+
+Pak één belangrijke keuze. Bijvoorbeeld de volgorde van de productuitleg of de manier waarop je starterset wordt gepresenteerd. Laat Codex een tweede versie maken die dezelfde brand gebruikt, maar die keuze anders uitvoert.
+
+In Shopify kijken we naar de beschikbare Rollouts-route en wat onze winkel daarmee ondersteunt. We bepalen vooraf wat we vergelijken en welk resultaat we willen meten. Een klik op de koopknop is iets anders dan een afgeronde bestelling.
+
+We laten de varianten niet op tien punten tegelijk verschillen als we één vraag willen beantwoorden. Dan kun je achteraf veel beter begrijpen waar het resultaat vandaan komt.
+
+Tijdens de test houd je ook de ervaring van de klant in de gaten. Een variant die per ongeluk een verkeerde prijs laat zien, zetten we niet door omdat de grafiek toevallig omhooggaat.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan twee varianten maken voor één duidelijke test. Ik laat je zien welke keuzes ik maak.

@@ -1,0 +1,4 @@
+bedrijf,signaal,bron,historie,afgemeld,besluit,status
+Bureau Voorbeeld A,relevante vacature,FICTIEVE_BRON_GEEN_URL,gecontroleerd,nee,GESCHIKT,OEFENING
+Bureau Voorbeeld B,relevante intakevraag,FICTIEVE_BRON_GEEN_URL,gecontroleerd,ja,UITSLUITEN,OEFENING
+Bureau Voorbeeld C,projectgroei,FICTIEVE_BRON_GEEN_URL,onbekend,nee,HANDMATIG_CONTROLEREN,OEFENING

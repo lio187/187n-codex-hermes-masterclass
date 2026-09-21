@@ -1,0 +1,9 @@
+We hebben een probleem gekozen. Nu gaan we iets bouwen waarmee iemand kan ervaren hoe jouw oplossing werkt.
+
+Ik pak de probleembrief en bepaal één complete gebruikersroute. Voor een retourhulp kan dat zijn: vraag ontvangen, relevante orderinformatie gebruiken en een passend conceptantwoord voorbereiden. We kiezen wat de eerste versie echt doet en welke koppelingen we nog met herkenbare oefendata testen.
+
+Codex bouwt de demo en een landingspagina die precies uitlegt wat er mogelijk is. Je hoeft het product niet groter te presenteren dan het is. Een duidelijke werkende route is genoeg om een gesprek te voeren over bruikbaarheid en ontbrekende onderdelen.
+
+Daarna proberen we de demo zelf met meerdere situaties. Een normale vraag, ontbrekende informatie en een geval dat de hulp niet kan afhandelen. We bewaren wat werkt en wat nog moet veranderen. Je houdt een prototype over dat je kunt laten zien, plus gerichte vragen waarmee je kunt onderzoeken of je de juiste oplossing bouwt.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.

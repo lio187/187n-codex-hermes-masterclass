@@ -1,0 +1,305 @@
+{
+  "note": "Local research snapshot and user-supplied identity V1. Only private workspace path prefixes redacted in Markdown; no source URLs removed.",
+  "files": [
+    {
+      "source": "exports/scoopfolk-brand-v1/brandbook.pdf",
+      "target": "voorbeelden/scoopfolk/brand/brandbook.pdf",
+      "source_sha256": "3bb50a6c0946abb78958b8af642549fbdaa2412e703a701d2a7a9bf31d44bcde",
+      "copy_sha256": "3bb50a6c0946abb78958b8af642549fbdaa2412e703a701d2a7a9bf31d44bcde"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/brandbook-overview.png",
+      "target": "voorbeelden/scoopfolk/brand/brandbook-overview.png",
+      "source_sha256": "0f6c802c3f42dd7d21611f469eaef746ae9198fc2beef693d79f1ac3fda91ffc",
+      "copy_sha256": "0f6c802c3f42dd7d21611f469eaef746ae9198fc2beef693d79f1ac3fda91ffc"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/brand-tokens.json",
+      "target": "voorbeelden/scoopfolk/brand/brand-tokens.json",
+      "source_sha256": "a251a92ab46abd24465db6379a1bf36023c86d390822ca78b8011d3805d0f0fb",
+      "copy_sha256": "a251a92ab46abd24465db6379a1bf36023c86d390822ca78b8011d3805d0f0fb"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/brand-tokens.css",
+      "target": "voorbeelden/scoopfolk/brand/brand-tokens.css",
+      "source_sha256": "fec54a224e5cfa874a5c5981455b2374038c94412e7c5124c35841ac50670a15",
+      "copy_sha256": "fec54a224e5cfa874a5c5981455b2374038c94412e7c5124c35841ac50670a15"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/README.md",
+      "target": "voorbeelden/scoopfolk/brand/README.md",
+      "source_sha256": "8cd8a97a163a9fbd99f92d0532edba3a675a0f73a830e32171958943a79a901f",
+      "copy_sha256": "8cd8a97a163a9fbd99f92d0532edba3a675a0f73a830e32171958943a79a901f"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/images/packaging-concept.png",
+      "target": "voorbeelden/scoopfolk/brand/images/packaging-concept.png",
+      "source_sha256": "4f4af08aef66133811dc0dfdb1ba58facd0b275a2f7c4f3bf06b5787d0394c2e",
+      "copy_sha256": "4f4af08aef66133811dc0dfdb1ba58facd0b275a2f7c4f3bf06b5787d0394c2e"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-symbol-cream.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-symbol-cream.png",
+      "source_sha256": "b7640e5e71e9d1d20f1936b23785b283ccb9fd6992a3cd0551d9fca95e403e09",
+      "copy_sha256": "b7640e5e71e9d1d20f1936b23785b283ccb9fd6992a3cd0551d9fca95e403e09"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-wordmark-pink.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-pink.png",
+      "source_sha256": "1051ae4a112cf1e7b4c1cbf42bb911825d4ceb552a54e8c320a4c1a46b968db4",
+      "copy_sha256": "1051ae4a112cf1e7b4c1cbf42bb911825d4ceb552a54e8c320a4c1a46b968db4"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-lockup.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-lockup.png",
+      "source_sha256": "379f6bb70cdc268e678f23c54812b1352281fee38984cd92d6b5615ed8e3fd07",
+      "copy_sha256": "379f6bb70cdc268e678f23c54812b1352281fee38984cd92d6b5615ed8e3fd07"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-symbol-white.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-symbol-white.png",
+      "source_sha256": "3328c926816805bfdb22285b6e660c5811ed5bdf7b11929da91887956d8e8827",
+      "copy_sha256": "3328c926816805bfdb22285b6e660c5811ed5bdf7b11929da91887956d8e8827"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-symbol-plum.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-symbol-plum.svg",
+      "source_sha256": "80fa91f1b070d2fe2106ec285b63e6704c68e8d885bcb9d4f60d87e5e5b0d0c7",
+      "copy_sha256": "80fa91f1b070d2fe2106ec285b63e6704c68e8d885bcb9d4f60d87e5e5b0d0c7"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-wordmark-black.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-black.png",
+      "source_sha256": "246084086112e9d87ee5b8ef1732994efccb3065a317bd47ffd3a330db437911",
+      "copy_sha256": "246084086112e9d87ee5b8ef1732994efccb3065a317bd47ffd3a330db437911"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-wordmark-black.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-black.svg",
+      "source_sha256": "098c4d029240d4bf2f6be08b6a63e1e68016fa021ac1fb47e339ef25ae8e2cc1",
+      "copy_sha256": "098c4d029240d4bf2f6be08b6a63e1e68016fa021ac1fb47e339ef25ae8e2cc1"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-lockup.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-lockup.svg",
+      "source_sha256": "5e6a802a52d485c11679e204b568f5b866211459583e8b7c999253b10b2862c2",
+      "copy_sha256": "5e6a802a52d485c11679e204b568f5b866211459583e8b7c999253b10b2862c2"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-symbol-plum.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-symbol-plum.png",
+      "source_sha256": "f9874fabd68106d31f35666214e839a11be25d33d59e7c566b51a1c45362a6c3",
+      "copy_sha256": "f9874fabd68106d31f35666214e839a11be25d33d59e7c566b51a1c45362a6c3"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-symbol-white.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-symbol-white.svg",
+      "source_sha256": "887bf478f2cfcc0acf195ad66df8071ffb857c910fee37a5fe561fe3de5615e4",
+      "copy_sha256": "887bf478f2cfcc0acf195ad66df8071ffb857c910fee37a5fe561fe3de5615e4"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-wordmark-pink.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-pink.svg",
+      "source_sha256": "5111b8ea7db3e1dd91610a6554f7cce025de26b102e1a42f54b851dd0825fa73",
+      "copy_sha256": "5111b8ea7db3e1dd91610a6554f7cce025de26b102e1a42f54b851dd0825fa73"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-symbol-cream.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-symbol-cream.svg",
+      "source_sha256": "0379940dd9d77e216e2e95d0bebccfe7c87c2ec026107793b621e5341829f3a7",
+      "copy_sha256": "0379940dd9d77e216e2e95d0bebccfe7c87c2ec026107793b621e5341829f3a7"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-wordmark-purple.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-purple.png",
+      "source_sha256": "989b4dfa9b70f850e3d01f725c246c24859399efbc2acc1a161642ce87434ad9",
+      "copy_sha256": "989b4dfa9b70f850e3d01f725c246c24859399efbc2acc1a161642ce87434ad9"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-wordmark-cream.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-cream.png",
+      "source_sha256": "10655fa8691e0d4c115a0a851f0dc08e23974825a5b94fbaa63d517406b94be3",
+      "copy_sha256": "10655fa8691e0d4c115a0a851f0dc08e23974825a5b94fbaa63d517406b94be3"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-avatar.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-avatar.png",
+      "source_sha256": "2fb4f27f6e84b7d334ce804cf801f36295e9aee88bb9372dfcb25f1e31e00a02",
+      "copy_sha256": "2fb4f27f6e84b7d334ce804cf801f36295e9aee88bb9372dfcb25f1e31e00a02"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-symbol-purple.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-symbol-purple.png",
+      "source_sha256": "60bd3163d6257a583ff75feac8f212efd8218f1671da5557a2034a5cb94873ed",
+      "copy_sha256": "60bd3163d6257a583ff75feac8f212efd8218f1671da5557a2034a5cb94873ed"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-symbol-black.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-symbol-black.png",
+      "source_sha256": "957b1768195ffd469dbe81ab4cec5a1ab26b116b6073ce8b315743f1a1e1f63a",
+      "copy_sha256": "957b1768195ffd469dbe81ab4cec5a1ab26b116b6073ce8b315743f1a1e1f63a"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-symbol-pink.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-symbol-pink.svg",
+      "source_sha256": "a54f888264a7de7c00bb592caadd7cb80334d29825221db61a916e275cb9cae6",
+      "copy_sha256": "a54f888264a7de7c00bb592caadd7cb80334d29825221db61a916e275cb9cae6"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-wordmark-white.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-white.png",
+      "source_sha256": "7672119fde287c30dc3a2964183175a15477bfac53e01f2188db2413484add73",
+      "copy_sha256": "7672119fde287c30dc3a2964183175a15477bfac53e01f2188db2413484add73"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-wordmark-plum.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-plum.png",
+      "source_sha256": "82dca65d43262fa0543f809534416549dfcc5ba9e3f50a63f282f0e3ee9003b8",
+      "copy_sha256": "82dca65d43262fa0543f809534416549dfcc5ba9e3f50a63f282f0e3ee9003b8"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-wordmark-plum.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-plum.svg",
+      "source_sha256": "012f2ca57ac52fdd529bfc0f27412c6a78bb0109a98af0454d539ca14bc1b43c",
+      "copy_sha256": "012f2ca57ac52fdd529bfc0f27412c6a78bb0109a98af0454d539ca14bc1b43c"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-wordmark-white.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-white.svg",
+      "source_sha256": "52a5ea2f5540617672dc64ebd0da118749d5db9c85c194bdc81b5dab7876f3bd",
+      "copy_sha256": "52a5ea2f5540617672dc64ebd0da118749d5db9c85c194bdc81b5dab7876f3bd"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-symbol-pink.png",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-symbol-pink.png",
+      "source_sha256": "a68c331a1f8b77007b1f61a5f7a2f64ca2dbb8393f7f36c548bd89c670c33365",
+      "copy_sha256": "a68c331a1f8b77007b1f61a5f7a2f64ca2dbb8393f7f36c548bd89c670c33365"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-symbol-black.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-symbol-black.svg",
+      "source_sha256": "5e6e66b04eb39491d03999a1a0b5edcabffcefcd26deff0af36326680f2afec3",
+      "copy_sha256": "5e6e66b04eb39491d03999a1a0b5edcabffcefcd26deff0af36326680f2afec3"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-symbol-purple.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-symbol-purple.svg",
+      "source_sha256": "719f6c9d922c07706fa066c8498f391b88290e0437b8efd454adc66f2b51c40f",
+      "copy_sha256": "719f6c9d922c07706fa066c8498f391b88290e0437b8efd454adc66f2b51c40f"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-avatar.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-avatar.svg",
+      "source_sha256": "c7b7cec56dd2a7003a65958cbe55ad79dcd227d5af16dc4073788fb8e8fae4a6",
+      "copy_sha256": "c7b7cec56dd2a7003a65958cbe55ad79dcd227d5af16dc4073788fb8e8fae4a6"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-wordmark-cream.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-cream.svg",
+      "source_sha256": "470c5c1d6e3aee4b7703f3b74e27b61de7a51f204b8dc1d546c1bba7c57a8146",
+      "copy_sha256": "470c5c1d6e3aee4b7703f3b74e27b61de7a51f204b8dc1d546c1bba7c57a8146"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/logos/scoopfolk-wordmark-purple.svg",
+      "target": "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-purple.svg",
+      "source_sha256": "3eee4713390810168d26e83a63b2bbb3d6ba57d7142e8e704c016e98e7df2a0b",
+      "copy_sha256": "3eee4713390810168d26e83a63b2bbb3d6ba57d7142e8e704c016e98e7df2a0b"
+    },
+    {
+      "source": "docs/colorful-daily-fiber/claude-project-instructions.md",
+      "target": "voorbeelden/scoopfolk/research/docs/colorful-daily-fiber/claude-project-instructions.md",
+      "source_sha256": "6e99c53d5b2f2ac948aed40f414060340699396ef470535ec61b5b58a514605e",
+      "copy_sha256": "6e99c53d5b2f2ac948aed40f414060340699396ef470535ec61b5b58a514605e"
+    },
+    {
+      "source": "docs/colorful-daily-fiber/project-knowledge.md",
+      "target": "voorbeelden/scoopfolk/research/docs/colorful-daily-fiber/project-knowledge.md",
+      "source_sha256": "6408f265b8b69a8599b142b0aba45af357a5f405d5bb690375c37e7c2cef023d",
+      "copy_sha256": "6408f265b8b69a8599b142b0aba45af357a5f405d5bb690375c37e7c2cef023d"
+    },
+    {
+      "source": "docs/colorful-daily-fiber/deepresearch.md",
+      "target": "voorbeelden/scoopfolk/research/docs/colorful-daily-fiber/deepresearch.md",
+      "source_sha256": "c7f2881b547e2e57ca199c8049c757fe5e93ac5c7067bc1f12021c652f9dd355",
+      "copy_sha256": "c7f2881b547e2e57ca199c8049c757fe5e93ac5c7067bc1f12021c652f9dd355"
+    },
+    {
+      "source": "docs/colorful-daily-fiber/necessary-beliefs.md",
+      "target": "voorbeelden/scoopfolk/research/docs/colorful-daily-fiber/necessary-beliefs.md",
+      "source_sha256": "1076f51f3f6e80a923238b8ebe87515485dcf912aede3612d2ef9d0cb5380310",
+      "copy_sha256": "1076f51f3f6e80a923238b8ebe87515485dcf912aede3612d2ef9d0cb5380310"
+    },
+    {
+      "source": "docs/colorful-daily-fiber/offerbrief.md",
+      "target": "voorbeelden/scoopfolk/research/docs/colorful-daily-fiber/offerbrief.md",
+      "source_sha256": "546481da599806f0bb66a05b3b8e981b0e7a6638be6af5d9923e15083cef9365",
+      "copy_sha256": "546481da599806f0bb66a05b3b8e981b0e7a6638be6af5d9923e15083cef9365"
+    },
+    {
+      "source": "docs/colorful-daily-fiber/avatar-sheet.md",
+      "target": "voorbeelden/scoopfolk/research/docs/colorful-daily-fiber/avatar-sheet.md",
+      "source_sha256": "32793c1f35d54dfe25467df9b15385a9e559b5604ac868227882668aa1d49f6a",
+      "copy_sha256": "32793c1f35d54dfe25467df9b15385a9e559b5604ac868227882668aa1d49f6a"
+    },
+    {
+      "source": "docs/COLORFUL-DAILY-FIBER-BRAND-BRIEF.md",
+      "target": "voorbeelden/scoopfolk/research/docs/COLORFUL-DAILY-FIBER-BRAND-BRIEF.md",
+      "source_sha256": "9dd75b0079844d9e9a4bf8d6a694eee021545eb656e7e5abfeafe3d29e0c483a",
+      "copy_sha256": "9dd75b0079844d9e9a4bf8d6a694eee021545eb656e7e5abfeafe3d29e0c483a"
+    },
+    {
+      "source": "docs/METHODS-AND-COVERAGE.md",
+      "target": "voorbeelden/scoopfolk/research/docs/METHODS-AND-COVERAGE.md",
+      "source_sha256": "c0b0ec8dadf3db572984ac2a4e3f8ed50dfaca3a9b8ec4ed510ea7ef7d6e4912",
+      "copy_sha256": "c0b0ec8dadf3db572984ac2a4e3f8ed50dfaca3a9b8ec4ed510ea7ef7d6e4912"
+    },
+    {
+      "source": "exports/unit-economics.csv",
+      "target": "voorbeelden/scoopfolk/research/exports/unit-economics.csv",
+      "source_sha256": "19ba37ca76d8185835204d10c639c3ef1ff32c6a4f32303951c8deca49497788",
+      "copy_sha256": "19ba37ca76d8185835204d10c639c3ef1ff32c6a4f32303951c8deca49497788"
+    },
+    {
+      "source": "exports/brands.csv",
+      "target": "voorbeelden/scoopfolk/research/exports/brands.csv",
+      "source_sha256": "ef04d87b67e9b45780c4906cd0c71cf5848ee69bc4bff626727835fe4141aae0",
+      "copy_sha256": "ef04d87b67e9b45780c4906cd0c71cf5848ee69bc4bff626727835fe4141aae0"
+    },
+    {
+      "source": "exports/customer-discussions.csv",
+      "target": "voorbeelden/scoopfolk/research/exports/customer-discussions.csv",
+      "source_sha256": "3f4dca0cf1b1d2113f8e5e78a23704c3e7d98b1d8b120c641de38e550fa7375c",
+      "copy_sha256": "3f4dca0cf1b1d2113f8e5e78a23704c3e7d98b1d8b120c641de38e550fa7375c"
+    },
+    {
+      "source": "docs/OPPORTUNITY-BRIEFS.md",
+      "target": "voorbeelden/scoopfolk/research/docs/OPPORTUNITY-BRIEFS.md",
+      "source_sha256": "d9806deccf644666721c4759de53d72fdf585c836c83722c2b813e5b098b6dbd",
+      "copy_sha256": "d9806deccf644666721c4759de53d72fdf585c836c83722c2b813e5b098b6dbd"
+    },
+    {
+      "source": "docs/RESEARCH-REPORT.md",
+      "target": "voorbeelden/scoopfolk/research/docs/RESEARCH-REPORT.md",
+      "source_sha256": "c68a7e21ff4ec59260b060665681df105daaef84557b4ce9decfa6340397ec35",
+      "copy_sha256": "c68a7e21ff4ec59260b060665681df105daaef84557b4ce9decfa6340397ec35"
+    },
+    {
+      "source": "sources/colorful-daily-fiber/quote-ledger.json",
+      "target": "voorbeelden/scoopfolk/research/sources/colorful-daily-fiber/quote-ledger.json",
+      "source_sha256": "3e019d67c047d9404b74b5cbb8e256c4439c3ea02dad5f6aaae331a412293bff",
+      "copy_sha256": "3e019d67c047d9404b74b5cbb8e256c4439c3ea02dad5f6aaae331a412293bff"
+    },
+    {
+      "source": "exports/scoopfolk-brand-v1/README.md",
+      "target": "voorbeelden/scoopfolk/research/exports/scoopfolk-brand-v1/README.md",
+      "source_sha256": "8cd8a97a163a9fbd99f92d0532edba3a675a0f73a830e32171958943a79a901f",
+      "copy_sha256": "8cd8a97a163a9fbd99f92d0532edba3a675a0f73a830e32171958943a79a901f"
+    },
+    {
+      "source": "docs/colorful-daily-fiber/NAMING-SHORTLIST.md",
+      "target": "voorbeelden/scoopfolk/research/docs/colorful-daily-fiber/NAMING-SHORTLIST.md",
+      "source_sha256": "2052bc72592187e4c996424130b6abd6ebe7fde3390e136ce1de136bb1b38acc",
+      "copy_sha256": "48d57e46e23aa37f793a816f367fb8b1d351b22009183948e6cc17cff3f7dca0"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Oké, nu gaan we Codex echt aan het werk zetten. We maken een eerste visuele richting voor onze storefront. Ik geef hem de brandcase, een sterke reference en de homepagecopy die we net hebben gemaakt.
+
+Zeg precies wat je wilt zien. Een producthero die meteen binnenkomt. Grote beelden. Duidelijke typografie. Een productverhaal dat je door de pagina trekt. En een mobiele versie die net zo goed voelt als desktop. Dat is een opdracht waar hij iets mee kan.
+
+Bij zo'n build laat ik eerst de aanpak zien. Welke onderdelen gaat hij maken? Welke beelden gebruikt hij? Zodra die richting klopt, laat ik hem bouwen en open ik de preview.
+
+Dan ga ik feedback geven zoals ik dat bij een designer zou doen. Dit product moet groter. Hier zit te veel tekst. Die achtergrond voelt te druk. Ik stuur een screenshot en wijs aan wat ik bedoel. Eén gerichte ronde kan de hele pagina beter maken.
+
+Je hoeft de code daarvoor niet zelf uit te pluizen. Jij bepaalt hoe jouw merk eruit moet zien en Codex voert de aanpassingen uit. Bewaar de eerste versie even. Dan kun je naast elkaar zien wat die feedback heeft gedaan.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan mijn eerste storefront laten bouwen en hardop feedback geven. Ik laat je zien welke keuzes ik maak.

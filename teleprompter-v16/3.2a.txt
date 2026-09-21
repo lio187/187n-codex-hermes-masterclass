@@ -1,0 +1,11 @@
+Kijk, dit is onze hero in de Shopify-preview. Nu wil ik het beeld en de headline kunnen veranderen zonder dat ik de hele section opnieuw laat bouwen.
+
+We laten Codex de instellingen voor deze section toevoegen. De titel, de tekst, de knop en de afbeelding. Daarna openen we de theme editor en veranderen we die onderdelen daar. Je ziet direct wat dat met de pagina doet.
+
+Voor onderdelen die zich herhalen gebruiken we blocks. Denk aan productvoordelen of vragen in een FAQ. Dan kun je er eentje toevoegen, verwijderen of verplaatsen. Die vrijheid wil je ook als je dit theme voor een klant bouwt.
+
+We zetten vervolgens een tweede campagnepagina neer met dezelfde bouwstenen. Andere volgorde, andere beelden, dezelfde brand. Nu merk je waarom we dit netjes hebben opgezet: je kunt doorbouwen zonder steeds vanaf nul te beginnen.
+
+Laat de productinformatie uit Shopify komen. Waar extra productuitleg nodig is, kunnen we daarvoor passende metafields gebruiken. Dan blijft de content bij het product en werkt het template ook voor een ander artikel.
+
+Oké, ik ga nu de sections in de theme editor aanpassen. Kijk mee hoe ik dit zelf aanpak.

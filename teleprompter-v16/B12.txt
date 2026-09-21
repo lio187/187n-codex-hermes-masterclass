@@ -1,0 +1,9 @@
+Je hebt een workshop of bedrijfsdocument. Met OpenMAIC onderzoeken we hoe je daar een interactieve les van maakt.
+
+We pakken een openbaar oefendocument en kiezen wat iemand ermee moet leren. Laat de tool de uitleg, slides en een paar vragen voorbereiden. De beschikbare functies hangen af van de providers die je hebt ingericht.
+
+Open de les alsof je een deelnemer bent. Snap je wat je moet doen? Kloppen de vragen met de bron? Geef expres een fout antwoord en kijk of de uitleg helpt om het wel te begrijpen.
+
+Daarna voegen we een echte opdracht toe. De deelnemer past de uitleg toe op zijn eigen werk en levert iets op. Dat maakt de les bruikbaar in de training-route uit de hoofdcursus.
+
+Tijd om dit te bouwen. Ik ga de interactieve les maken en zelf doorlopen. Kijk even mee; ik vertel onderweg waarom ik iets doe.

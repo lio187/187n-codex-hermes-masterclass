@@ -1,0 +1,9 @@
+Je hebt een werkende workflow gebouwd. Nu gaan we zorgen dat iemand anders er echt mee kan werken, zonder dat jij er steeds naast zit.
+
+We maken een opleverpakket met het profiel, de gebruikte skills, de projectkennis en drie eerste opdrachten. Daarbij staat welke verbindingen de klant zelf nodig heeft en welke onderdelen we daadwerkelijk hebben getest. Je eigen accounts en persoonlijke geheugen horen niet in die overdracht.
+
+Daarna doen we de belangrijkste proef: we openen het pakket in een schone oefenmap en voeren een eerste klantopdracht uit. We volgen de startinstructie letterlijk. Als een bestand ontbreekt of er nog ergens een pad van jouw computer staat, herstellen we dat in het pakket.
+
+We spreken ook af hoe wijzigingen worden bijgehouden. Wie past het aanbod aan? Wie kijkt naar fouten? Hoe komt een verbeterde skill bij de klant terecht? Dat maakt je oplevering bruikbaar na de eerste demo. Je kunt dit als basis gebruiken voor een eenmalige build of voor doorlopend beheer, met een duidelijke beschrijving van het werk dat je levert.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.

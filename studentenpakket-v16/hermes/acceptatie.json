@@ -1,0 +1,166 @@
+{
+  "version": "8.1.0",
+  "profiles": {
+    "orchestrator": {
+      "status": "NOT_RUN",
+      "profile": "cursus-orchestrator",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "researcher": {
+      "status": "NOT_RUN",
+      "profile": "cursus-researcher",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "strategist": {
+      "status": "NOT_RUN",
+      "profile": "cursus-strategist",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "builder": {
+      "status": "NOT_RUN",
+      "profile": "cursus-builder",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "reviewer": {
+      "status": "NOT_RUN",
+      "profile": "cursus-reviewer",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "website-builder": {
+      "status": "NOT_RUN",
+      "profile": "cursus-website-builder",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "brand-designer": {
+      "status": "NOT_RUN",
+      "profile": "cursus-brand-designer",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "content": {
+      "status": "NOT_RUN",
+      "profile": "cursus-content",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "visual": {
+      "status": "NOT_RUN",
+      "profile": "cursus-visual",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "ecommerce": {
+      "status": "NOT_RUN",
+      "profile": "cursus-ecommerce",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "email": {
+      "status": "NOT_RUN",
+      "profile": "cursus-email",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "customer-service": {
+      "status": "NOT_RUN",
+      "profile": "cursus-customer-service",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "operations": {
+      "status": "NOT_RUN",
+      "profile": "cursus-operations",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "analytics": {
+      "status": "NOT_RUN",
+      "profile": "cursus-analytics",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    },
+    "sales": {
+      "status": "NOT_RUN",
+      "profile": "cursus-sales",
+      "runtime_session_id": null,
+      "first_output": null,
+      "feedback": null,
+      "second_output": null,
+      "holdout_output": null,
+      "review": null
+    }
+  },
+  "handoff": {
+    "status": "NOT_RUN",
+    "delivery_id": null
+  },
+  "scheduled_run": {
+    "status": "NOT_RUN",
+    "job_id": null
+  },
+  "restart_test": {
+    "status": "NOT_RUN"
+  }
+}

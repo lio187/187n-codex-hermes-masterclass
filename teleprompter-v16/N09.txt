@@ -1,0 +1,9 @@
+Je hoeft niet al te weten hoe je iets moet bouwen om een goede opdracht te geven. Je moet wel duidelijk krijgen wat het eindresultaat voor jouw business moet doen. Daar gaan we Codex bij gebruiken.
+
+Ik begin zo gewoon met een idee voor onze webshop. Bijvoorbeeld een productkeuzehulp die iemand naar de juiste bundel brengt. Codex moet vragen stellen over het assortiment, de verschillen en de manier waarop iemand kiest. Eén gerichte vraag tegelijk, zodat je niet meteen een heel technisch document hoeft in te vullen.
+
+Van die antwoorden maken we de bouwopdracht. Welke pagina zien we, welke gegevens gebruikt de keuzehulp en wanneer is de uitkomst goed? Een aanbeveling moet gebaseerd zijn op echte productinformatie. Als we een producteigenschap nog niet weten, laten we die open.
+
+Daarna laat ik Codex de eerste versie bouwen. Je ziet meteen welke keuzes we goed hebben uitgewerkt en waar we nog iets moeten aanscherpen. Pak jouw eigen idee erbij. Je coachprompt in deze les helpt je dezelfde vragen voor jouw product of dienst te beantwoorden.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.

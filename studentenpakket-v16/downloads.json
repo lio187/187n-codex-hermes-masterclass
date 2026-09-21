@@ -1,0 +1,988 @@
+[
+  {
+    "lesson": "0.1",
+    "files": [
+      "lessen/0.1.md",
+      "START-HIER.md",
+      "context/merkdossier.md",
+      "hermes/team-opdracht.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "0.2",
+    "files": [
+      "lessen/0.2.md",
+      "start/TOOLSTACK.md",
+      "start/INSTALLATIE.md"
+    ]
+  },
+  {
+    "lesson": "0.3",
+    "files": [
+      "lessen/0.3.md",
+      "start/INSTALLATIE.md",
+      "START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "0.4",
+    "files": [
+      "lessen/0.4.md",
+      "AGENTS.md",
+      "context/bedrijf.md",
+      "context/merkstem.md",
+      "context/merkdossier.md"
+    ]
+  },
+  {
+    "lesson": "0.5",
+    "files": [
+      "lessen/0.5.md",
+      "AGENTS.md",
+      "context/bedrijf.md"
+    ]
+  },
+  {
+    "lesson": "0.6",
+    "files": [
+      "lessen/0.6.md",
+      "case/portal-intake.json",
+      "context/DESIGN.md"
+    ]
+  },
+  {
+    "lesson": "0.7",
+    "files": [
+      "lessen/0.7.md",
+      "start/TOOLSTACK.md",
+      "start/INSTALLATIE.md"
+    ]
+  },
+  {
+    "lesson": "0.8",
+    "files": [
+      "lessen/0.8.md",
+      "AGENTS.md",
+      "start/INSTALLATIE.md",
+      "hermes/START.md"
+    ]
+  },
+  {
+    "lesson": "8.1",
+    "files": [
+      "lessen/8.1.md",
+      "start/INSTALLATIE.md",
+      "hermes/START.md",
+      "start/TOOLSTACK.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "8.2",
+    "files": [
+      "lessen/8.2.md",
+      "hermes/START.md",
+      "hermes/team.json",
+      "hermes/TEAM.md",
+      "context/merkdossier.md",
+      "hermes/profiles/orchestrator/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "8.4",
+    "files": [
+      "lessen/8.4.md",
+      "hermes/START.md",
+      "hermes/team-opdracht.md",
+      "hermes/profiles/orchestrator/SOUL.md",
+      "templates/handoff.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/researcher/SOUL.md",
+      "hermes/profiles/reviewer/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "8.6",
+    "files": [
+      "lessen/8.6.md",
+      "hermes/START.md",
+      "hermes/team.json",
+      "hermes/TEAM.md",
+      "hermes/profiles/orchestrator/SOUL.md",
+      "context/merkdossier.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "1.1",
+    "files": [
+      "lessen/1.1.md",
+      "context/bedrijf.md",
+      "context/merkdossier.md",
+      "skills/deep-research/SKILL.md",
+      "templates/research.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/researcher/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "1.2",
+    "files": [
+      "lessen/1.2.md",
+      "herstelpunten/research.md",
+      "templates/necessary-beliefs.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/researcher/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md",
+      "ads/RESEARCH-PROMPT.md",
+      "ads/FRAMEWORKS.md"
+    ]
+  },
+  {
+    "lesson": "1.3",
+    "files": [
+      "lessen/1.3.md",
+      "templates/avatar-sheet.md",
+      "templates/offerbrief.md",
+      "context/merkdossier.md",
+      "herstelpunten/research.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/strategist/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "1.4",
+    "files": [
+      "lessen/1.4.md",
+      "context/merkstem.md",
+      "templates/project-knowledge.md",
+      "context/bedrijf.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/brand-designer/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md",
+      "voorbeelden/scoopfolk/brand/brandbook.pdf",
+      "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-plum.svg"
+    ]
+  },
+  {
+    "lesson": "2.1",
+    "files": [
+      "lessen/2.1.md",
+      "context/DESIGN.md",
+      "case/portal-intake.json",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/brand-designer/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "2.2",
+    "files": [
+      "lessen/2.2.md",
+      "context/DESIGN.md",
+      "context/merkstem.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/brand-designer/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md",
+      "voorbeelden/scoopfolk/brand/brandbook.pdf",
+      "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-plum.svg"
+    ]
+  },
+  {
+    "lesson": "2.3",
+    "files": [
+      "lessen/2.3.md",
+      "case/portal-intake.json",
+      "context/DESIGN.md",
+      "AGENTS.md",
+      "verdienroutes/websites/START-HIER.md",
+      "verdienroutes/websites/prompt.md",
+      "verdienroutes/websites/aanbod.md",
+      "verdienroutes/websites/oplevering.md",
+      "verdienroutes/crm-automations/START-HIER.md",
+      "verdienroutes/crm-automations/prompt.md",
+      "verdienroutes/crm-automations/aanbod.md",
+      "verdienroutes/crm-automations/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/website-builder/SOUL.md",
+      "builds/studio/index.html"
+    ]
+  },
+  {
+    "lesson": "2.4",
+    "files": [
+      "lessen/2.4.md",
+      "context/merkdossier.md",
+      "context/DESIGN.md",
+      "context/assets.csv",
+      "verdienroutes/websites/START-HIER.md",
+      "verdienroutes/websites/prompt.md",
+      "verdienroutes/websites/aanbod.md",
+      "verdienroutes/websites/oplevering.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/website-builder/SOUL.md",
+      "builds/scroll/index.html"
+    ]
+  },
+  {
+    "lesson": "2.5",
+    "files": [
+      "lessen/2.5.md",
+      "case/portal-intake.json",
+      "start/INSTALLATIE.md",
+      "verdienroutes/websites/START-HIER.md",
+      "verdienroutes/websites/prompt.md",
+      "verdienroutes/websites/aanbod.md",
+      "verdienroutes/websites/oplevering.md",
+      "verdienroutes/micro-saas/START-HIER.md",
+      "verdienroutes/micro-saas/prompt.md",
+      "verdienroutes/micro-saas/aanbod.md",
+      "verdienroutes/micro-saas/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/website-builder/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "2.6",
+    "files": [
+      "lessen/2.6.md",
+      "verdienroutes/micro-saas/START-HIER.md",
+      "verdienroutes/micro-saas/voorbeeld.md",
+      "builds/studio/app.js",
+      "voorbeelden/saas/briefings.json",
+      "voorbeelden/saas/pilot.md",
+      "voorbeelden/saas/product-checklist.md",
+      "verdienroutes/micro-saas/prompt.md",
+      "verdienroutes/micro-saas/aanbod.md",
+      "verdienroutes/micro-saas/oplevering.md",
+      "hermes/profiles/website-builder/SOUL.md",
+      "hermes/TEAM.md",
+      "context/merkdossier.md",
+      "hermes/profiles/builder/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "3.1",
+    "files": [
+      "lessen/3.1.md",
+      "context/merkdossier.md",
+      "case/producten.csv",
+      "templates/offerbrief.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/strategist/SOUL.md",
+      "hermes/profiles/ecommerce/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "3.2",
+    "files": [
+      "lessen/3.2.md",
+      "context/merkdossier.md",
+      "case/producten.csv",
+      "context/DESIGN.md",
+      "ecom/SHOPIFY-WERKBOEK.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/ecommerce/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "3.3",
+    "files": [
+      "lessen/3.3.md",
+      "ecom/SHOPIFY-WERKBOEK.md",
+      "ecom/FLOW-MATRIX.csv",
+      "context/merkdossier.md",
+      "context/merkstem.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/email/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "3.4",
+    "files": [
+      "lessen/3.4.md",
+      "case/support-tickets.json",
+      "case/orders.csv",
+      "context/merkdossier.md",
+      "ecom/SHOPIFY-WERKBOEK.md",
+      "verdienroutes/supportbots/START-HIER.md",
+      "verdienroutes/supportbots/prompt.md",
+      "verdienroutes/supportbots/aanbod.md",
+      "verdienroutes/supportbots/oplevering.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/customer-service/SOUL.md",
+      "hermes/profiles/operations/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "3.5",
+    "files": [
+      "lessen/3.5.md",
+      "case/abonnementen.csv",
+      "case/orders.csv",
+      "case/producten.csv",
+      "ecom/METRICS.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/analytics/SOUL.md",
+      "voorbeelden/analytics/abonnementen.csv",
+      "voorbeelden/analytics/orders.csv",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "3.6",
+    "files": [
+      "lessen/3.6.md",
+      "templates/experiment.md",
+      "ecom/SHOPIFY-WERKBOEK.md",
+      "context/merkdossier.md",
+      "context/DESIGN.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/ecommerce/SOUL.md",
+      "hermes/profiles/analytics/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md",
+      "ads/QA-EN-FEEDBACK.md",
+      "ads/VARIANTMATRIX.csv"
+    ]
+  },
+  {
+    "lesson": "4.1",
+    "files": [
+      "lessen/4.1.md",
+      "case/video-editbrief.md",
+      "context/editing-feedback.md",
+      "skills/skill-maker/SKILL.md",
+      "verdienroutes/digitale-pakketten/START-HIER.md",
+      "verdienroutes/digitale-pakketten/prompt.md",
+      "verdienroutes/digitale-pakketten/aanbod.md",
+      "verdienroutes/digitale-pakketten/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/builder/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "4.2",
+    "files": [
+      "lessen/4.2.md",
+      "skills/skill-maker/SKILL.md",
+      "templates/research.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/builder/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "4.3",
+    "files": [
+      "lessen/4.3.md",
+      "case/support-tickets.json",
+      "templates/handoff.md",
+      "verdienroutes/crm-automations/START-HIER.md",
+      "verdienroutes/crm-automations/prompt.md",
+      "verdienroutes/crm-automations/aanbod.md",
+      "verdienroutes/crm-automations/oplevering.md",
+      "verdienroutes/supportbots/START-HIER.md",
+      "verdienroutes/supportbots/prompt.md",
+      "verdienroutes/supportbots/aanbod.md",
+      "verdienroutes/supportbots/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/builder/SOUL.md",
+      "hermes/profiles/reviewer/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "4.4",
+    "files": [
+      "lessen/4.4.md",
+      "start/INSTALLATIE.md",
+      "skills/skill-maker/SKILL.md",
+      "verdienroutes/digitale-pakketten/START-HIER.md",
+      "verdienroutes/digitale-pakketten/prompt.md",
+      "verdienroutes/digitale-pakketten/aanbod.md",
+      "verdienroutes/digitale-pakketten/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/reviewer/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "4.5",
+    "files": [
+      "lessen/4.5.md",
+      "verdienroutes/digitale-pakketten/START-HIER.md",
+      "verdienroutes/digitale-pakketten/voorbeeld.md",
+      "templates/briefing.md",
+      "skills/briefing-review/SKILL.md",
+      "voorbeelden/saas/briefings.json",
+      "verdienroutes/digitale-pakketten/prompt.md",
+      "verdienroutes/digitale-pakketten/aanbod.md",
+      "verdienroutes/digitale-pakketten/oplevering.md",
+      "hermes/profiles/builder/SOUL.md",
+      "hermes/TEAM.md",
+      "context/merkdossier.md",
+      "hermes/profiles/sales/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "5.1",
+    "files": [
+      "lessen/5.1.md",
+      "context/DESIGN.md",
+      "context/merkstem.md",
+      "context/assets.csv",
+      "verdienroutes/productfotografie-ugc/START-HIER.md",
+      "verdienroutes/productfotografie-ugc/prompt.md",
+      "verdienroutes/productfotografie-ugc/aanbod.md",
+      "verdienroutes/productfotografie-ugc/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/brand-designer/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md",
+      "voorbeelden/scoopfolk/brand/brandbook.pdf",
+      "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-plum.svg"
+    ]
+  },
+  {
+    "lesson": "5.2",
+    "files": [
+      "lessen/5.2.md",
+      "context/merkdossier.md",
+      "context/DESIGN.md",
+      "context/assets.csv",
+      "verdienroutes/productfotografie-ugc/START-HIER.md",
+      "verdienroutes/productfotografie-ugc/prompt.md",
+      "verdienroutes/productfotografie-ugc/aanbod.md",
+      "verdienroutes/productfotografie-ugc/oplevering.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/visual/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md",
+      "voorbeelden/scoopfolk/brand/brandbook.pdf",
+      "voorbeelden/scoopfolk/brand/logos/scoopfolk-wordmark-plum.svg",
+      "ads/PRODUCT-PRODUCTIE-PROMPT.md",
+      "ads/3D-PRODUCTFILM.md"
+    ]
+  },
+  {
+    "lesson": "5.3",
+    "files": [
+      "lessen/5.3.md",
+      "case/video-editbrief.md",
+      "context/editing-feedback.md",
+      "skills/video-review/SKILL.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/content/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "5.4",
+    "files": [
+      "lessen/5.4.md",
+      "case/video-editbrief.md",
+      "context/editing-feedback.md",
+      "start/INSTALLATIE.md",
+      "verdienroutes/productfotografie-ugc/START-HIER.md",
+      "verdienroutes/productfotografie-ugc/prompt.md",
+      "verdienroutes/productfotografie-ugc/aanbod.md",
+      "verdienroutes/productfotografie-ugc/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/content/SOUL.md",
+      "voorbeelden/content/editplan.json",
+      "voorbeelden/content/assetrechten.csv",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "5.5",
+    "files": [
+      "lessen/5.5.md",
+      "context/merkdossier.md",
+      "context/merkstem.md",
+      "case/video-editbrief.md",
+      "verdienroutes/contentbureau/START-HIER.md",
+      "verdienroutes/contentbureau/prompt.md",
+      "verdienroutes/contentbureau/aanbod.md",
+      "verdienroutes/contentbureau/oplevering.md",
+      "verdienroutes/advertentiecreatives/START-HIER.md",
+      "verdienroutes/advertentiecreatives/prompt.md",
+      "verdienroutes/advertentiecreatives/aanbod.md",
+      "verdienroutes/advertentiecreatives/oplevering.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/content/SOUL.md",
+      "hermes/profiles/visual/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "5.6",
+    "files": [
+      "lessen/5.6.md",
+      "verdienroutes/productfotografie-ugc/START-HIER.md",
+      "verdienroutes/productfotografie-ugc/voorbeeld.md",
+      "voorbeelden/assets/contact-sheet.html",
+      "voorbeelden/assets/oefenmerk-concept.svg",
+      "voorbeelden/content/ugc-script.md",
+      "voorbeelden/content/editplan.json",
+      "verdienroutes/productfotografie-ugc/prompt.md",
+      "verdienroutes/productfotografie-ugc/aanbod.md",
+      "verdienroutes/productfotografie-ugc/oplevering.md",
+      "hermes/profiles/visual/SOUL.md",
+      "hermes/TEAM.md",
+      "context/merkdossier.md",
+      "hermes/profiles/content/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md",
+      "ads/PRODUCT-PRODUCTIE-PROMPT.md",
+      "ads/SERVICE-PRODUCTIE-PROMPT.md",
+      "ads/QA-EN-FEEDBACK.md"
+    ]
+  },
+  {
+    "lesson": "5.7",
+    "files": [
+      "lessen/5.7.md",
+      "verdienroutes/advertentiecreatives/START-HIER.md",
+      "verdienroutes/advertentiecreatives/voorbeeld.md",
+      "voorbeelden/content/advertentiebatch.csv",
+      "voorbeelden/content/creative-brief.md",
+      "voorbeelden/assets/oefenmerk-concept.svg",
+      "verdienroutes/advertentiecreatives/prompt.md",
+      "verdienroutes/advertentiecreatives/aanbod.md",
+      "verdienroutes/advertentiecreatives/oplevering.md",
+      "hermes/profiles/content/SOUL.md",
+      "hermes/TEAM.md",
+      "context/merkdossier.md",
+      "hermes/profiles/sales/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md",
+      "ads/START-HIER.md",
+      "ads/FRAMEWORKS.md",
+      "ads/RESEARCH-PROMPT.md",
+      "ads/PRODUCT-PRODUCTIE-PROMPT.md",
+      "ads/SERVICE-PRODUCTIE-PROMPT.md",
+      "ads/SCOOPFOLK-OEFENING.md",
+      "ads/VARIANTMATRIX.csv",
+      "ads/QA-EN-FEEDBACK.md",
+      "ads/3D-PRODUCTFILM.md",
+      "ads/BRON-EN-KEUZES.md"
+    ]
+  },
+  {
+    "lesson": "5.8",
+    "files": [
+      "lessen/5.8.md",
+      "verdienroutes/contentbureau/START-HIER.md",
+      "verdienroutes/contentbureau/voorbeeld.md",
+      "voorbeelden/content/maandplanning.csv",
+      "voorbeelden/content/reel.md",
+      "voorbeelden/content/carrousel.md",
+      "verdienroutes/contentbureau/prompt.md",
+      "verdienroutes/contentbureau/aanbod.md",
+      "verdienroutes/contentbureau/oplevering.md",
+      "hermes/profiles/content/SOUL.md",
+      "hermes/TEAM.md",
+      "context/merkdossier.md",
+      "hermes/profiles/sales/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md",
+      "ads/QA-EN-FEEDBACK.md",
+      "ads/VARIANTMATRIX.csv"
+    ]
+  },
+  {
+    "lesson": "6.1",
+    "files": [
+      "lessen/6.1.md",
+      "case/seo.csv",
+      "skills/seo-review/SKILL.md",
+      "context/bedrijf.md",
+      "verdienroutes/seo/START-HIER.md",
+      "verdienroutes/seo/prompt.md",
+      "verdienroutes/seo/aanbod.md",
+      "verdienroutes/seo/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/researcher/SOUL.md",
+      "voorbeelden/seo/zoekdata.csv"
+    ]
+  },
+  {
+    "lesson": "6.2",
+    "files": [
+      "lessen/6.2.md",
+      "case/seo.csv",
+      "context/merkdossier.md",
+      "templates/research.md",
+      "skills/seo-review/SKILL.md",
+      "verdienroutes/seo/START-HIER.md",
+      "verdienroutes/seo/prompt.md",
+      "verdienroutes/seo/aanbod.md",
+      "verdienroutes/seo/oplevering.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/content/SOUL.md",
+      "voorbeelden/seo/zoekdata.csv"
+    ]
+  },
+  {
+    "lesson": "6.3",
+    "files": [
+      "lessen/6.3.md",
+      "skills/seo-review/SKILL.md",
+      "context/bedrijf.md",
+      "case/seo.csv",
+      "context/merkdossier.md",
+      "verdienroutes/seo/START-HIER.md",
+      "verdienroutes/seo/prompt.md",
+      "verdienroutes/seo/aanbod.md",
+      "verdienroutes/seo/oplevering.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/content/SOUL.md",
+      "voorbeelden/seo/zoekdata.csv"
+    ]
+  },
+  {
+    "lesson": "7.1",
+    "files": [
+      "lessen/7.1.md",
+      "case/leads.csv",
+      "case/lead-bewijs.md",
+      "context/bedrijf.md",
+      "skills/outreach-review/SKILL.md",
+      "verdienroutes/leadgeneratie/START-HIER.md",
+      "verdienroutes/leadgeneratie/prompt.md",
+      "verdienroutes/leadgeneratie/aanbod.md",
+      "verdienroutes/leadgeneratie/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/researcher/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "7.2",
+    "files": [
+      "lessen/7.2.md",
+      "case/leads.csv",
+      "case/lead-bewijs.md",
+      "skills/outreach-review/SKILL.md",
+      "verdienroutes/leadgeneratie/START-HIER.md",
+      "verdienroutes/leadgeneratie/prompt.md",
+      "verdienroutes/leadgeneratie/aanbod.md",
+      "verdienroutes/leadgeneratie/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/sales/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "7.3",
+    "files": [
+      "lessen/7.3.md",
+      "context/bedrijf.md",
+      "context/merkstem.md",
+      "case/lead-bewijs.md",
+      "verdienroutes/leadgeneratie/START-HIER.md",
+      "verdienroutes/leadgeneratie/prompt.md",
+      "verdienroutes/leadgeneratie/aanbod.md",
+      "verdienroutes/leadgeneratie/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/sales/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "7.4",
+    "files": [
+      "lessen/7.4.md",
+      "skills/outreach-review/SKILL.md",
+      "context/bedrijf.md",
+      "case/leads.csv",
+      "case/lead-bewijs.md",
+      "verdienroutes/leadgeneratie/START-HIER.md",
+      "verdienroutes/leadgeneratie/prompt.md",
+      "verdienroutes/leadgeneratie/aanbod.md",
+      "verdienroutes/leadgeneratie/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/sales/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "8.3",
+    "files": [
+      "lessen/8.3.md",
+      "templates/project-knowledge.md",
+      "context/bedrijf.md",
+      "hermes/START.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/orchestrator/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "8.5",
+    "files": [
+      "lessen/8.5.md",
+      "hermes/team-opdracht.md",
+      "templates/handoff.md",
+      "context/merkdossier.md",
+      "case/seo.csv",
+      "hermes/TEAM.md",
+      "hermes/profiles/orchestrator/SOUL.md",
+      "hermes/profiles/reviewer/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "8.7",
+    "files": [
+      "lessen/8.7.md",
+      "hermes/routine.md",
+      "hermes/team-opdracht.md",
+      "templates/modelmeting.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/orchestrator/SOUL.md",
+      "hermes/profiles/operations/SOUL.md",
+      "hermes/profiles/analytics/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "8.8",
+    "files": [
+      "lessen/8.8.md",
+      "hermes/START.md",
+      "hermes/routine.md",
+      "templates/project-knowledge.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/orchestrator/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  },
+  {
+    "lesson": "9.1",
+    "files": [
+      "lessen/9.1.md",
+      "templates/modelmeting.md",
+      "context/bedrijf.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/orchestrator/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "9.2",
+    "files": [
+      "lessen/9.2.md",
+      "templates/handoff.md",
+      "templates/modelmeting.md",
+      "start/INSTALLATIE.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/builder/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "9.3",
+    "files": [
+      "lessen/9.3.md",
+      "templates/modelmeting.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/reviewer/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "10.1",
+    "files": [
+      "lessen/10.1.md",
+      "context/bedrijf.md",
+      "templates/offerbrief.md",
+      "verdienroutes/training-consultancy/START-HIER.md",
+      "verdienroutes/training-consultancy/prompt.md",
+      "verdienroutes/training-consultancy/aanbod.md",
+      "verdienroutes/training-consultancy/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/sales/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "10.2",
+    "files": [
+      "lessen/10.2.md",
+      "templates/call-analyse.md",
+      "templates/offerbrief.md",
+      "verdienroutes/training-consultancy/START-HIER.md",
+      "verdienroutes/training-consultancy/prompt.md",
+      "verdienroutes/training-consultancy/aanbod.md",
+      "verdienroutes/training-consultancy/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/sales/SOUL.md",
+      "voorbeelden/call-rollenspel.md"
+    ]
+  },
+  {
+    "lesson": "10.3",
+    "files": [
+      "lessen/10.3.md",
+      "templates/voorstel.md",
+      "templates/offerbrief.md",
+      "case/portal-intake.json",
+      "verdienroutes/websites/START-HIER.md",
+      "verdienroutes/websites/prompt.md",
+      "verdienroutes/websites/aanbod.md",
+      "verdienroutes/websites/oplevering.md",
+      "verdienroutes/white-label/START-HIER.md",
+      "verdienroutes/white-label/prompt.md",
+      "verdienroutes/white-label/aanbod.md",
+      "verdienroutes/white-label/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/sales/SOUL.md",
+      "hermes/profiles/website-builder/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "10.4",
+    "files": [
+      "lessen/10.4.md",
+      "templates/voorstel.md",
+      "templates/calculatie.csv",
+      "templates/modelmeting.md",
+      "verdienroutes/contentbureau/START-HIER.md",
+      "verdienroutes/contentbureau/prompt.md",
+      "verdienroutes/contentbureau/aanbod.md",
+      "verdienroutes/contentbureau/oplevering.md",
+      "verdienroutes/micro-saas/START-HIER.md",
+      "verdienroutes/micro-saas/prompt.md",
+      "verdienroutes/micro-saas/aanbod.md",
+      "verdienroutes/micro-saas/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/sales/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "10.5",
+    "files": [
+      "lessen/10.5.md",
+      "templates/voorstel.md",
+      "templates/oplevering.md",
+      "hermes/routine.md",
+      "verdienroutes/white-label/START-HIER.md",
+      "verdienroutes/white-label/prompt.md",
+      "verdienroutes/white-label/aanbod.md",
+      "verdienroutes/white-label/oplevering.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/sales/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "10.6",
+    "files": [
+      "lessen/10.6.md",
+      "verdienroutes/crm-automations/START-HIER.md",
+      "verdienroutes/crm-automations/voorbeeld.md",
+      "builds/studio/app.js",
+      "voorbeelden/crm/events.json",
+      "voorbeelden/crm/workflow.md",
+      "verdienroutes/crm-automations/prompt.md",
+      "verdienroutes/crm-automations/aanbod.md",
+      "verdienroutes/crm-automations/oplevering.md",
+      "hermes/profiles/builder/SOUL.md",
+      "hermes/TEAM.md",
+      "context/merkdossier.md",
+      "hermes/profiles/operations/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "10.7",
+    "files": [
+      "lessen/10.7.md",
+      "verdienroutes/supportbots/START-HIER.md",
+      "verdienroutes/supportbots/voorbeeld.md",
+      "voorbeelden/support/kennisbank.json",
+      "voorbeelden/support/testvragen.json",
+      "voorbeelden/support/antwoorden.md",
+      "verdienroutes/supportbots/prompt.md",
+      "verdienroutes/supportbots/aanbod.md",
+      "verdienroutes/supportbots/oplevering.md",
+      "hermes/profiles/customer-service/SOUL.md",
+      "hermes/TEAM.md",
+      "context/merkdossier.md",
+      "hermes/profiles/builder/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "10.8",
+    "files": [
+      "lessen/10.8.md",
+      "verdienroutes/training-consultancy/START-HIER.md",
+      "verdienroutes/training-consultancy/voorbeeld.md",
+      "voorbeelden/training/workshop.md",
+      "voorbeelden/training/audit.md",
+      "voorbeelden/training/actieplan.md",
+      "verdienroutes/training-consultancy/prompt.md",
+      "verdienroutes/training-consultancy/aanbod.md",
+      "verdienroutes/training-consultancy/oplevering.md",
+      "hermes/profiles/sales/SOUL.md",
+      "hermes/TEAM.md",
+      "context/merkdossier.md"
+    ]
+  },
+  {
+    "lesson": "10.9",
+    "files": [
+      "lessen/10.9.md",
+      "verdienroutes/white-label/START-HIER.md",
+      "verdienroutes/white-label/voorbeeld.md",
+      "voorbeelden/white-label/briefing.md",
+      "voorbeelden/white-label/overdracht.md",
+      "builds/studio/index.html",
+      "verdienroutes/white-label/prompt.md",
+      "verdienroutes/white-label/aanbod.md",
+      "verdienroutes/white-label/oplevering.md",
+      "hermes/profiles/sales/SOUL.md",
+      "hermes/TEAM.md",
+      "context/merkdossier.md",
+      "hermes/profiles/website-builder/SOUL.md"
+    ]
+  },
+  {
+    "lesson": "11.1",
+    "files": [
+      "lessen/11.1.md",
+      "hermes/team-opdracht.md",
+      "hermes/routine.md",
+      "context/bedrijf.md",
+      "templates/handoff.md",
+      "context/merkdossier.md",
+      "hermes/TEAM.md",
+      "hermes/profiles/orchestrator/SOUL.md",
+      "hermes/profiles/reviewer/SOUL.md",
+      "voorbeelden/scoopfolk/START-HIER.md"
+    ]
+  }
+]

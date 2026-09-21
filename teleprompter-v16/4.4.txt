@@ -1,0 +1,9 @@
+Je hoeft niet iedere tool zelf te bouwen. Op GitHub staan projecten waarmee je sterke dingen kunt maken. In het bonusblok pakken we er een hele serie bij, van God’s Eye tot video- en kennisbanktools.
+
+Voor we zo'n project op onze machine draaien, bekijken we wat we binnenhalen. We gebruiken NVIDIA SkillSpector en een bronreview. Codex kan helpen de bevindingen uit te leggen: welke installatiecode draait er, welke verbindingen maakt het project en welke toegang vraagt het?
+
+We leggen de exacte versie vast die we beoordelen. Daarna richten we de goedgekeurde versie in een eigen projectomgeving in en doen we de demo. Zo kun je later ook terugvinden welke versie bij jouw werkende build hoorde.
+
+Als er een melding is, onderzoeken we die. Soms hoort de functie bij wat de tool moet doen, soms is er een probleem dat eerst opgelost moet worden. Dat besluit bewaren we bij het project.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan de bron en scan van het gekozen project erbij pakken. Ik laat je zien welke keuzes ik maak.

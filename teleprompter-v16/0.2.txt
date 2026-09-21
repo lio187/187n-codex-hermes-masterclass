@@ -1,0 +1,9 @@
+We beginnen met Codex. Dit is waar we onze webshop en de workflows gaan bouwen. Je hoeft niet zelf al die code te kunnen schrijven. Je moet wel kunnen uitleggen wat je wilt maken en herkennen of het resultaat goed is. Dat gaan we vandaag samen doen.
+
+Open de officiële downloadpagina van Codex, installeer de app voor jouw computer en log in. Heb je hem al staan, open hem dan gewoon. Download daarna de projectmap onder deze video en pak hem uit. Open die hele map als project in Codex.
+
+Je ziet nu onze bestanden. De skills, de merkvoorbeelden en de opdrachten. Daar gaat Codex mee werken. Selecteer het model dat je voor deze build in jouw account beschikbaar hebt. Bij een grote bouwopdracht geven we het model ruimte om na te denken. Voor een kleine aanpassing hoeft dat niet iedere keer maximaal.
+
+We geven meteen de eerste opdracht: lees de startinstructies en laat zien welke onderdelen klaarstaan om een eigen brand te bouwen. Je krijgt dan geen willekeurig nieuw project. We beginnen met de werkplek die ik voor je heb voorbereid.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan Codex openen en onze projectmap erbij pakken. Ik laat je zien welke keuzes ik maak.

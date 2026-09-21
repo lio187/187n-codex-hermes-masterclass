@@ -1,0 +1,11 @@
+Kijk naar onze gekozen richting. Nu wil ik dat iedere pagina voelt alsof die door hetzelfde team is gemaakt. De homepage, de productpagina en straks ook de campagnepagina.
+
+We gebruiken onze references uit onder andere Refero en getdesign.md om de stijl scherp te krijgen. Daarna laat ik Codex een DESIGN.md maken voor dit project. Daarin staan de kleuren, fonts, spacing, knoppen en beeldstijl die we hebben gekozen.
+
+Je hoeft dat bestand niet zelf helemaal te schrijven. Laat Codex het afleiden uit het brandbook en de gekozen preview. Kijk vervolgens naar een paar echte onderdelen: een headline, een productkaart en een aankoopknop. Voelt dat als één merk?
+
+Bij Scoopfolk hebben we al een duidelijke identiteit. We gebruiken de bestaande kleuren en logo's als basis. Ga jij voor een andere brand, dan verandert jouw designbestand mee.
+
+Dat is straks handig wanneer we een nieuwe pagina laten bouwen. Je geeft de opdracht en Codex heeft de visuele afspraken al. Je hoeft niet iedere keer te corrigeren dat de knoppen ineens een andere kleur hebben.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan de designkeuzes in onze preview uitwerken. Ik laat je zien welke keuzes ik maak.

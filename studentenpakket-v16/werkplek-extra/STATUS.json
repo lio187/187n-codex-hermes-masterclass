@@ -1,0 +1,98 @@
+{
+  "21st-cli-use": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "impeccable-design-polish": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "design-consultation": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "design-language": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "color-expert": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "web-design-guidelines": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "motion-design": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "frontend-skill": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "21st-ui-explore": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "21st-ai": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "21st-ui-build": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "design-md": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "21st-design-sync": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "brand-extract": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "reference-design-contract": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "frontend-design": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "design-review": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "brandkit": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "brand-guidelines": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "design-kit": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "21st-ui-review": {
+    "status": "CAUTION_REVIEWED_LOCAL_SNAPSHOT",
+    "reason": "Source reviewed; external services/dependencies need own authorization and version review."
+  },
+  "design-brief": {
+    "status": "SOURCE_ONLY",
+    "reason": "Incomplete deterministic analysis; preserved for inspection, not install/load."
+  },
+  "21st-registry": {
+    "status": "SOURCE_ONLY",
+    "reason": "Incomplete deterministic analysis; preserved for inspection, not install/load."
+  },
+  "motion-design-bank": {
+    "status": "SOURCE_ONLY",
+    "reason": "Incomplete deterministic analysis; preserved for inspection, not install/load."
+  }
+}

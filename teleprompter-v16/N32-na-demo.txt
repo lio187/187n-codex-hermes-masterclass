@@ -1,0 +1,3 @@
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N32 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor chatassistent-review.md. Open de AI-coachprompt in Codex en Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Bouw een voorstel- en afspraakworkflow. Neem je gekozen resultaat mee.

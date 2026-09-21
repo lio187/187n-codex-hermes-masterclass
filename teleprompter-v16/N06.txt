@@ -1,0 +1,9 @@
+We gaan nu wisselen van agent terwijl we aan hetzelfde project blijven werken. In Codex hebben we iets gebouwd. Hermes gaat daarmee verder. Vervolgens komen we terug in een nieuwe Codex-chat en gebruiken we de bijgewerkte keuzes.
+
+Wat we daarvoor nodig hebben, staat in onze projectmap: de actuele build, de gekozen richting en een korte voortgangsnotitie. In die notitie staat waar het echte resultaat staat, wat af is en welke opdracht hierna komt. Je geeft de volgende agent dat startpunt mee.
+
+Ik laat Hermes een contentbrief maken op basis van ons huidige aanbod. Daarna wijzig ik één bevestigde keuze via de Librarian. In een nieuwe Codex-chat vragen we een vervolg dat rekening houdt met die wijziging. We openen de bestanden naast elkaar, zodat je zelf kunt zien of het klopt.
+
+Je hoeft dus geen eindeloze chat over te dragen. Je wilt dat iedere agent de juiste bestanden leest voordat hij verdergaat. Dit werkt alleen als je projectpad en de actuele versie duidelijk zijn. Daarom leggen we die nu één keer goed vast.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.

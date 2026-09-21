@@ -1,0 +1,9 @@
+Je kunt binnen een grotere workflow ook werk aan een andere modelroute geven. In deze les pakken we de DeepAstra-route met DeepSeek erbij zoals die in het cursusmateriaal staat.
+
+Kies een afgebakende taak die je goed kunt beoordelen. Bijvoorbeeld een bestaande producttekst omzetten naar drie afgesproken formaten of een set openbare onderzoeksnotities structureren.
+
+Geef die route de benodigde input en een duidelijk resultaat. Daarna bekijk je de output met dezelfde criteria als bij je hoofdmodel. Past het bij de brand? Is de informatie behouden? Hoeveel moet je nog herstellen?
+
+De belangrijkste bouwbeslissingen blijven bij de agent die het project overziet. Die kan het uitvoerwerk gebruiken en verder verwerken. Zo houd je een grotere opdracht bij elkaar.
+
+Je hebt nu de basis. Ik ga een gerichte taak via de tweede modelroute uitvoeren, zoals ik dat zelf voor dit project zou doen.

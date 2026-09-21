@@ -1,0 +1,9 @@
+De workflows die je vandaag bouwt, kun je ook in een product stoppen. Denk aan een creative workspace voor webshops: een klant kiest zijn product, voegt references toe en krijgt een campagnepakket om te beoordelen.
+
+We pakken onze eigen advertentieworkflow als basis. Die hebben we straks zelf gebruikt. Nu ontwerpen we de app eromheen. De klant ziet zijn producten, campagnes en gemaakte assets. Hij kan een concept openen, feedback geven en een versie goedkeuren.
+
+Laat Codex eerst die complete ervaring bouwen voor één klantproject. Daarna voegen we accounts en opslag toe. De generatiekosten horen bij het product: hoeveel batches kan iemand maken en wat kost het jou om die te leveren?
+
+We houden de eerste versie gericht. Eén type klant, één duidelijk resultaat. Je hoeft er niet meteen een platform met vijftig functies van te maken. Laat een echte gebruiker met de pilot werken en kijk waar die vastloopt.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan van onze workflow een creative-workspace maken. Ik laat je zien welke keuzes ik maak.

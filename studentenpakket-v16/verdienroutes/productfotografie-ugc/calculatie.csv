@@ -1,0 +1,4 @@
+scenario,periode,eenheid,omzet_eur,uren,interne_uurkosten_eur,overige_bekende_kosten_eur,bekende_kosten_eur,bijdrage_eur,status
+normaal,bouw,6 visuals + 1 videoscript,800,8,50,60,460,340,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+hoog_volume,bouw,6 visuals + 1 videoscript,800,12.0,50,90.0,690.0,110.0,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+extra_herstel,bouw,6 visuals + 1 videoscript,800,16,50,120,920,-120,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "dienst-prijs",
+    "project": "demo-dienst",
+    "date": "2026-09-10",
+    "key": "bundelprijs",
+    "value": "250 EUR",
+    "status": "confirmed",
+    "source": "FICTIEF: dienstaanbod"
+  }
+]

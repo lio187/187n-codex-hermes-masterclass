@@ -1,0 +1,4 @@
+concept,price_per_shipment,cadence_days,revenue_per_30_days,assumed_cogs,assumed_shipping_fulfillment,assumed_processing,assumed_refund_reserve,contribution_per_shipment,contribution_margin_pct,assumed_second_order_survival,assumed_third_order_survival,expected_90day_contribution_before_cac,status
+Unflavored daily fiber,29,30,29.0,6,5,1.141,0.87,15.989,55.1,0.65,0.45,33.58,"Scenario only; no supplier quotes, CAC or retention measured"
+Creatine for women returning to strength training,36,60,18.0,8,5,1.344,1.08,20.576,57.2,0.65,0.45,33.95,"Scenario only; no supplier quotes, CAC or retention measured"
+Light-tasting unsweetened hydration,34,45,22.67,7.5,5,1.286,1.02,19.194,56.5,0.65,0.45,31.67,"Scenario only; no supplier quotes, CAC or retention measured"

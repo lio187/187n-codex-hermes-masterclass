@@ -1,0 +1,8 @@
+flow,bronmoment,uitsluiten,controle,status
+marketingwelkom,Shopify Messaging marketinginschrijving,afgemeld of dubbel event,een welkom na bevestigde inschrijving,ACCOUNTTEST_NODIG
+orderbevestiging,Shopify ordermelding,dubbel bericht of onjuiste betaalstatus,inhoud totaal en status correct,ACCOUNTTEST_NODIG
+cart,Shopify Messaging verlaten checkout,reeds gekocht afgemeld of geen passende toestemming,aankoop tijdens wachttijd onderdrukt mail,ACCOUNTTEST_NODIG
+refill,Shopify Subscriptions bevestigde volgende datum,paused cancelled skipped of bestaand bericht,datum bedrag en eenmalige verzending,EVENT_NOG_VERIFIEREN
+winback,Shopify Messaging passend klantsegment,actief abonnement afmelding recente aankoop,geen bericht naar uitgesloten klant,FILTERS_NOG_VERIFIEREN
+payment_failed,Shopify Subscriptions mislukte betaalpoging,geslaagde latere poging of beëindigd contract,retrybeleid en geen dubbele agentretry,ACCOUNTTEST_NODIG
+refund,Shopify bevestigde refund,niet-bevestigde refund of duplicaat,juist terugbetaald bedrag zonder opzegclaim,ACCOUNTTEST_NODIG

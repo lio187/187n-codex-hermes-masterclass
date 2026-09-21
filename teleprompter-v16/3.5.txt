@@ -1,0 +1,11 @@
+Een mooie omzetgrafiek is leuk, maar ik wil weten wat er overblijft. Daarom laten we de analyse-workflow onze webshopcijfers omzetten naar iets waar je op kunt sturen.
+
+We geven de orderexport en de kosten mee. Productkosten, verzending, betaalfees en advertenties waar die beschikbaar zijn. Daarna laat je omzet, refunds en marge naast elkaar zetten. Ontbreken kosten, vul ze dan aan voordat je conclusies trekt.
+
+Heb je abonnementen, dan kijken we ook naar terugkerende omzet en churn. Hoeveel klanten blijven? Wat zeggen ze op? En welke periode vergelijken we eigenlijk? Je wilt geen verschillende definities door elkaar trekken.
+
+Laat Codex een dashboard maken met de kerncijfers en een korte uitleg. Ik wil zien welke producten bijdragen, waar kosten oplopen en welke vraag we als eerste moeten uitzoeken.
+
+We openen vervolgens één product en rekenen het even terug. Dat houdt de analyse dicht bij de echte business. Daarna kiezen we een concrete verbetering: een aanbod aanpassen, een bundel anders samenstellen of een campagne verder onderzoeken.
+
+Oké, ik ga nu de cijfers erbij pakken en laten zien waar ik op zou sturen. Kijk mee hoe ik dit zelf aanpak.

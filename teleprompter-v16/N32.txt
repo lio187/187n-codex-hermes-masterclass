@@ -1,0 +1,9 @@
+Je klant wil meestal gewoon een opdracht kunnen geven. Daarom bouwen we nu een assistent met een eenvoudige chat als ingang naar een concrete bedrijfsworkflow.
+
+We nemen een aanvraag voor een dienst. De assistent vraagt wat hij nog nodig heeft, gebruikt de bevestigde informatie uit het klantproject en maakt een conceptvoorstel. Terwijl hij werkt, geeft hij kort aan wat de status is. Zo weet de gebruiker of hij nog iets moet aanleveren of dat het voorstel wordt voorbereid.
+
+We bouwen eerst de route in een oefenomgeving. Daarna kiezen we de chatkoppeling die beschikbaar is voor jouw project. De achterliggende workflow blijft dezelfde: vraag begrijpen, ontbrekende informatie ophalen, het werk uitvoeren en het resultaat tonen.
+
+Ik test zo ook een aanvraag die buiten het aanbod valt. De agent moet daar helder op reageren in plaats van een dienst of prijs te verzinnen. Het interessante aan deze demo is dat je klant al die losse tools niet hoeft te begrijpen. Die ziet de aanvraag, de voortgang en het voorstel dat hij kan beoordelen.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.

@@ -1,0 +1,9 @@
+De beste keuze hangt af van het werk dat je wilt afmaken. We gaan daarom een paar echte taken naast elkaar leggen: productgegevens ordenen, een campagnebrief schrijven en een stuk van onze build aanpassen.
+
+Voor iedere taak bewaren we dezelfde input en dezelfde oplevercheck. Daarna vergelijken we de beschikbare modellen en instellingen. We meten hoeveel tijd het kost, wat het gebruik kost en hoeveel correctiewerk nodig is. Een goedkoop eerste antwoord kan alsnog veel tijd kosten als je het drie keer moet herstellen.
+
+We kijken ook naar wat je agent allemaal meekrijgt. Welke skills heeft hij voor deze opdracht nodig? Welke terminaloutput helpt hem verder? Bewaar de volledige logs, maar geef hem de relevante fouten en resultaten in zijn werkcontext. De genoemde RTK- en skillselectie-aanpakken bekijken we als mogelijke hulpmiddelen, met versiecontrole vóór installatie.
+
+Als je computer geschikt is, kun je dezelfde eenvoudige taak ook lokaal proberen. We beloven geen vaste snelheid voor iedere machine. Aan het eind kies je per taak een route op basis van je eigen meting. Die keuzes kun je direct gebruiken voor je dagelijkse Hermes-routines.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.

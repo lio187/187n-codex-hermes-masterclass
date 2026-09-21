@@ -1,0 +1,2258 @@
+1. We bouwen jouw brand. Van A tot Z. [les 0.1]
+[BESTAANDE LES · V16]
+
+Vandaag bouwen we een complete DTC-brand. Met een killer Shopify-store, je eigen content en agents die het werk daarna blijven oppakken. Ik laat je zien hoe ik dit zelf aanpak met Scoopfolk. En jij krijgt de bestanden waarmee je het voor jouw eigen product of dienstverlening kunt doen.
+
+We gaan zelf bouwen in Codex. We zetten ons ontwerp in Shopify Liquid, maken de branding en produceren de content die erbij hoort. Hermes installeren we al vroeg. Daarmee bouwen we ook je Second Brain: een plek waar je agents jouw research, keuzes en feedback terug kunnen vinden.
+
+Je krijgt de agentprofielen, de designskills, de workflows en alle lesbestanden mee. Onder de video staat de toegang tot het pakket. Open dat project en doe mee. Zet je telefoon even op vliegtuigmodus, pak je eigen idee erbij en geef jezelf de ruimte om dit echt te bouwen.
+
+Ik ben Leon en ik run 187N. Ik bouw creative agents, Mission Controls, AI-agents en automatiseringen voor bedrijven en DTC-merken. Ook voor beursgenoteerde enterprises die miljarden aan omzet draaien. Daar adviseer ik over governance, security en AI-infrastructuur, en geef ik leiding aan teams.
+
+Mijn vorige bedrijf heb ik van nul naar 19,5 miljoen euro geschaald met AI-performance marketing. Met leadcampagnes op Meta, op een ROAS van 95. Dus je leert dit niet van iemand die op elke hype springt.
+
+Vandaag neem ik je mee in die manier van werken. Je ziet eerst de uitleg en daarna laat ik live zien wat ik zelf zou doen. Vervolgens kun je met het bestand van die les en Codex of Hermes als je AI-coach verder aan jouw eigen project.
+
+We beginnen met iets dat je meteen kunt zien: de eerste versie van jouw brand. Daarna bouwen we hem stap voor stap uit tot een store en een team waarmee je echt werk kunt verzetten.
+
+Oké, ik ga je nu laten zien hoe ik dit zelf aanpak. Pak het lesbestand erbij en kijk mee.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 0.1 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Codex installeren en jouw project openen. Neem je gekozen resultaat mee.
+
+2. Codex installeren en jouw project openen [les 0.2]
+[BESTAANDE LES · V16]
+
+We beginnen met Codex. Dit is waar we onze webshop en de workflows gaan bouwen. Je hoeft niet zelf al die code te kunnen schrijven. Je moet wel kunnen uitleggen wat je wilt maken en herkennen of het resultaat goed is. Dat gaan we vandaag samen doen.
+
+Open de officiële downloadpagina van Codex, installeer de app voor jouw computer en log in. Heb je hem al staan, open hem dan gewoon. Download daarna de projectmap onder deze video en pak hem uit. Open die hele map als project in Codex.
+
+Je ziet nu onze bestanden. De skills, de merkvoorbeelden en de opdrachten. Daar gaat Codex mee werken. Selecteer het model dat je voor deze build in jouw account beschikbaar hebt. Bij een grote bouwopdracht geven we het model ruimte om na te denken. Voor een kleine aanpassing hoeft dat niet iedere keer maximaal.
+
+We geven meteen de eerste opdracht: lees de startinstructies en laat zien welke onderdelen klaarstaan om een eigen brand te bouwen. Je krijgt dan geen willekeurig nieuw project. We beginnen met de werkplek die ik voor je heb voorbereid.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan Codex openen en onze projectmap erbij pakken. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 0.2 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Alles wat je krijgt meteen kunnen gebruiken. Neem je gekozen resultaat mee.
+
+3. Alles wat je krijgt meteen kunnen gebruiken [les 0.3]
+[BESTAANDE LES · V16]
+
+Dit is het pakket waar we vandaag mee werken. Je hoeft niet zelf op zoek naar vijftien losse agentprompts of ergens een halve workflow bij elkaar te verzamelen. De profielen, skills en voorbeelden zitten erbij.
+
+Ik laat je even zien waar de belangrijke onderdelen staan. Bij de merkcase vind je Scoopfolk: het brandbook, de logo's en de research. Bij de skills staan de workflows waarmee we websites, content, e-mail en de rest gaan maken. Hermes installeren we direct na de eerste build. We beginnen met je Librarian; verderop zetten we de gespecialiseerde profielen aan het werk.
+
+Je werkt in je eigen projectmap. Daar zet je straks ook je eigen productfoto's, je aanbod en voorbeelden van jouw stijl in. Heb je al een bedrijf? Gebruik dat. Begin je vanaf nul? Bouw eerst met de cursuscase mee en vervang daarna het merk door je eigen idee.
+
+Bij elke les staat de prompt die ik gebruik en wat je daarvoor nodig hebt. Je hoeft die prompt niet blind over te typen. Lees hem, vul jouw gegevens in en geef hem aan Codex. De output bewaren we bij dit project, zodat we die in de volgende stap kunnen gebruiken.
+
+Tijd om dit te bouwen. Ik ga door de bestanden lopen die jij straks zelf gaat gebruiken. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 0.3. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Codex jouw business en jouw stem leren. Neem je gekozen resultaat mee.
+
+4. Codex jouw business en jouw stem leren [les 0.4]
+[BESTAANDE LES · V16]
+
+Voordat je Codex loslaat op je merk, moet hij weten wat jij verkoopt en hoe jij klinkt. Anders krijg je die standaard AI-teksten die je bij honderd andere bedrijven ook ziet. Daar gaan we dus meteen iets aan doen.
+
+Geef hem je product, je doelgroep en een stuk tekst waarvan jij zegt: zo praat ik. Dat mag een voice memo zijn die je hebt uitgeschreven, een goede salespagina of een bericht dat je zelf hebt geschreven. Ik gebruik mijn eigen uitleg over 187N. Jij gebruikt jouw woorden.
+
+Daarna laat je Codex jou interviewen. Wat verkoop je? Waarom kopen mensen het? Wat maakt het anders? Stel die vragen één voor één. Dan kun jij gewoon normaal antwoorden en bouwt Codex daar jouw bedrijfscontext van.
+
+Die informatie bewaren we in dit project. De werkafspraken komen in AGENTS.md. Je merk, aanbod en tone of voice krijgen hun eigen plek. Dat betekent dat we straks bij een productpagina, advertentie of e-mail op hetzelfde verhaal voortbouwen.
+
+Nu geven we hem een echte opdracht: schrijf de bovenkant van onze homepage. Wat ziet iemand als eerste? Wat beloven we? Waarom zou die persoon verder kijken? Lees het hardop. Klinkt het als jouw merk? Als jij een zin nooit zou zeggen, spreek dan jouw versie in en laat Codex die gebruiken.
+
+Je hebt nu de basis. Ik ga mijn eigen uitleg aan Codex geven en kijken wat hij ermee maakt, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 0.4 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Een grote build sturen zonder alles opnieuw uit te leggen. Neem je gekozen resultaat mee.
+
+5. Een grote build sturen zonder alles opnieuw uit te leggen [les 0.5]
+[BESTAANDE LES · V16]
+
+We gaan vandaag veel meer maken dan één pagina. Daarom wil je dat Codex onthoudt welk merk we bouwen en welke keuzes jij al hebt gemaakt.
+
+Ik houd de webshopbuild bij elkaar in één project. Research krijgt een eigen gesprek, het bouwen ook, en voor een nieuwe contentbatch start ik weer een gerichte opdracht. Die gesprekken gebruiken dezelfde projectbestanden. Zo kan de content-workflow met de echte brandregels werken die we net hebben gekozen.
+
+Aan het eind van een grote stap vraag ik Codex om de stand van zaken te bewaren. Wat is af? Welke versie gebruiken we? Wat gaan we hierna maken? Als ik morgen terugkom, kan ik vanaf daar verder.
+
+Dat is ook handig als je een andere modelkeuze wilt proberen. Je geeft het model het doel en de bestaande build mee. Je hoeft niet heel je verhaal opnieuw te vertellen. Voor een moeilijke Liquid-migratie kies je een sterke redeneerstand. Voor tien captionvarianten kun je een lichtere route vergelijken.
+
+Oké, ik ga nu in een nieuwe chat verder bouwen op de keuzes die al staan. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 0.5 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Van jouw idee naar een dikke eerste build. Neem je gekozen resultaat mee.
+
+6. Van jouw idee naar een dikke eerste build [les 0.6]
+[BESTAANDE LES · V16]
+
+Oké, nu gaan we Codex echt aan het werk zetten. We maken een eerste visuele richting voor onze storefront. Ik geef hem de brandcase, een sterke reference en de homepagecopy die we net hebben gemaakt.
+
+Zeg precies wat je wilt zien. Een producthero die meteen binnenkomt. Grote beelden. Duidelijke typografie. Een productverhaal dat je door de pagina trekt. En een mobiele versie die net zo goed voelt als desktop. Dat is een opdracht waar hij iets mee kan.
+
+Bij zo'n build laat ik eerst de aanpak zien. Welke onderdelen gaat hij maken? Welke beelden gebruikt hij? Zodra die richting klopt, laat ik hem bouwen en open ik de preview.
+
+Dan ga ik feedback geven zoals ik dat bij een designer zou doen. Dit product moet groter. Hier zit te veel tekst. Die achtergrond voelt te druk. Ik stuur een screenshot en wijs aan wat ik bedoel. Eén gerichte ronde kan de hele pagina beter maken.
+
+Je hoeft de code daarvoor niet zelf uit te pluizen. Jij bepaalt hoe jouw merk eruit moet zien en Codex voert de aanpassingen uit. Bewaar de eerste versie even. Dan kun je naast elkaar zien wat die feedback heeft gedaan.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan mijn eerste storefront laten bouwen en hardop feedback geven. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 0.6. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Hermes installeren en je eerste projectopdracht uitvoeren. Neem je gekozen resultaat mee.
+
+7. Hermes installeren en je eerste projectopdracht uitvoeren [les 8.1]
+[BESTAANDE LES · V16]
+
+Je eerste build staat. Nu zetten we Hermes ernaast, zodat je vanaf het begin met je eigen agents en je Second Brain kunt werken.
+
+Ga naar de officiële Hermes-pagina van Nous Research en open de download voor Hermes Desktop. Installeer de passende versie voor jouw systeem via de gecontroleerde route uit het lesbestand. Open de app en kies je beschikbare modelverbinding.
+
+Daarna wijzen we dezelfde projectmap aan die je net in Codex hebt gebruikt. Ik geef Hermes één concrete opdracht: bekijk de huidige projectbestanden, leg vast welke brand we bouwen en wijs aan waar de eerste preview staat. Hij moet de bestanden werkelijk lezen en aangeven wat nog ontbreekt.
+
+Je krijgt de profielen en skills van mij mee. We beginnen met de Librarian en bouwen je kennisomgeving op. De gespecialiseerde agents zetten we verderop in voor campagnes, klantwerk en terugkerende opdrachten. Zo kun je vandaag al leren hoe Codex en Hermes samen op hetzelfde project werken.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 8.1 uit het pakket en geef het aan Codex of Hermes. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Bouw jouw Second Brain met Hermes en Obsidian. Neem je gekozen resultaat mee.
+
+8. Bouw jouw Second Brain met Hermes en Obsidian [les N01]
+[NIEUW V16]
+
+Je hebt straks research, advertenties, klantgesprekken en je hele brand op je computer staan. Daar wil je op doorbouwen. Daarom zetten we nu meteen je Second Brain neer. Alles wat we vandaag leren en maken, krijgt een plek waar je agents het terug kunnen vinden.
+
+Open de Second Brain-map uit het pakket als vault in Obsidian. Je ziet daar bronnen, projecten en kennis. Een bron is bijvoorbeeld een gesprek of een video. Bij je project bewaren we wat jij voor jouw business hebt gekozen. In de kennis zetten we wat je vaker kunt gebruiken. Je hoeft deze structuur dus niet zelf te bedenken; die krijg je van mij.
+
+We pakken de eerste build die je net in Codex hebt gemaakt. Welk product staat erop? Voor wie bouwen we dit? Welke richting hebben we gekozen? Die keuzes slaan we op bij hetzelfde project. Daarna geef ik Hermes een vraag over die build en laat ik hem het bronbestand aanwijzen.
+
+Je gaat straks zien waarom ik dit zo vroeg doe. De research die we hierna verzamelen, kunnen je andere agents meteen gebruiken. En als jij morgen terugkomt, begin je met de keuzes die er al staan.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N01 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor second-brain-start.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Zet jouw Librarian-agent aan het werk. Neem je gekozen resultaat mee.
+
+9. Zet jouw Librarian-agent aan het werk [les N02]
+[NIEUW V16]
+
+Nu gaan we iemand verantwoordelijk maken voor al die kennis. Je krijgt mijn Librarian-profiel mee. Die agent zoekt eerst wat er al staat, verwerkt nieuwe bronnen en houdt bij waar een uitspraak vandaan komt.
+
+Ik geef hem zo een klein pakket met drie documenten. Daarin staan bewust stukken die op elkaar lijken. Je wilt dat hij ziet welke informatie nieuw is en welke informatie al in je Second Brain zit. Anders heb je over een maand twintig versies van hetzelfde verhaal.
+
+We laten de Librarian eerst zijn voorstel maken. Hij wijst aan welke bron bij welk project hoort en wat hij wil toevoegen. Daarna verwerkt hij die informatie in onze oefenkennisbank. Het oorspronkelijke document blijft staan. Vanuit een kennisstuk kun je dus terug naar de bron en controleren hoe hij aan die conclusie komt.
+
+Diezelfde werkwijze kun je gebruiken voor jouw webshop, bureau of dienstverlening. Geef hem een concrete verzameling bestanden en een bestemming. Vervolgens vraag je iets waar hij verschillende bronnen voor nodig heeft. Dan merk je direct of je kennisbank ook echt bruikbaar is.
+
+Oké, ik ga je nu laten zien hoe ik dit zelf aanpak. Pak het lesbestand erbij en kijk mee.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N02 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor librarian-inname.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Mijn skills gebruiken om complete opdrachten te bouwen. Neem je gekozen resultaat mee.
+
+10. Mijn skills gebruiken om complete opdrachten te bouwen [les 0.8]
+[BESTAANDE LES · V16]
+
+In deze map zitten de skills waarmee we vandaag gaan werken. Zie een skill als een uitgewerkte werkwijze die je agent kan volgen. Voor een webshop geef je andere instructies mee dan voor een video-edit of een salescampagne.
+
+We pakken de website-workflow. Die krijgt onze merkkeuze, de reference en het resultaat dat we willen bouwen. Vervolgens laat je Codex het werk uitvoeren. Je ziet meteen waarom die context belangrijk is: dezelfde skill kan een supplementenmerk, een kledingstore of een website voor een dienstverlener helpen bouwen.
+
+We combineren dat met de visual-workflow voor de beelden en de brand-workflow voor de stijl. Jij hoeft niet bij iedere opdracht opnieuw alle regels te bedenken. Je gebruikt de basis die al in het pakket zit en stuurt bij op jouw merk.
+
+Laat Codex ook in de browser kijken naar wat hij heeft gemaakt. Een screenshot van jouw reference en de echte preview naast elkaar geven veel betere feedback dan alleen zeggen dat het mooier moet.
+
+Wil je een handeling bewaren, neem dan je werkwijze op en laat die later omzetten naar een eigen skill. Ook remote werken komt terug wanneer we Hermes inzetten. En voor de losse GitHub-builds, zoals God’s Eye, staat er een compleet bonusblok klaar.
+
+Je hebt nu de basis. Ik ga de skills erbij pakken en ze aan het werk zetten voor onze store, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 0.8 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Uitzoeken waarom mensen jouw product willen kopen. Neem je gekozen resultaat mee.
+
+11. Uitzoeken waarom mensen jouw product willen kopen [les 1.1]
+[BESTAANDE LES · V16]
+
+Voordat we die webshop bouwen, wil ik weten waarom iemand dit product zou kopen. Waar lopen die mensen tegenaan? Wat hebben ze al geprobeerd? En waarom zouden ze voor jouw merk kiezen?
+
+We geven onze deep-research-workflow het product en de markt mee. Laat hem kijken naar concurrenten, klantreviews, vragen en alternatieven. Vooral die taal van klanten is interessant. Hoe beschrijven zij hun probleem? Welke woorden gebruiken ze zelf? Dat willen we straks terugzien in onze copy.
+
+Bij Scoopfolk onderzoeken we de markt rond een dagelijks vezelproduct. We zoeken naar de momenten waarop iemand zo'n product overweegt, wat die persoon belangrijk vindt en welke twijfels er zijn. Een merknaam of een mooi potje is nog geen reden om te kopen.
+
+Ik laat de research samenkomen in een helder dossier. Dit zijn de belangrijkste problemen. Dit zijn de alternatieven. Dit vragen mensen zich af. En dit kan ons merk op basis van de echte productfeiten vertellen.
+
+Daar gaan we keuzes mee maken. Welk verhaal komt bovenaan de website? Wat leggen we uit op de productpagina? Welke angle gebruiken we in een advertentie? Je research moet je helpen bouwen.
+
+Oké, ik ga nu de research voor ons product starten en de bruikbare inzichten eruit halen. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 1.1. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Van YouTube-video naar bruikbare businesskennis. Neem je gekozen resultaat mee.
+
+12. Van YouTube-video naar bruikbare businesskennis [les N03]
+[NIEUW V16]
+
+Je kijkt een video, denkt: dit moet ik gebruiken, en een week later weet je alleen nog dat die video ergens stond. We gaan dat direct aan een echte opdracht koppelen.
+
+Ik pak een video over agents en geef de Librarian de beschikbare transcriptie en bronlink. Hij haalt eruit wat voor ons project relevant is. Een methode om kennis te bewaren, bijvoorbeeld, of een manier om een contentworkflow op te zetten. Bij elk inzicht blijft staan waar het vandaan komt.
+
+Daarna vraag ik: wat kunnen we hiermee doen voor onze brand? Hij moet één concrete toepassing voorstellen met de input die we al hebben. Dat kan een betere researchopdracht zijn of een stap in onze contentproductie. Ik kies de toepassing en we maken het werkbestand waarmee we die kunnen uitvoeren.
+
+Let op het verschil tussen wat iemand vertelt en wat je zelf kunt controleren. Met alleen een transcript kun je prima de uitleg analyseren. Voor uitspraken over hoe mooi een advertentie eruitziet, moet je die advertentie ook hebben bekeken. In je kennisbank wil je dat onderscheid terugzien, zodat je later geen verhaal uit een video als eigen bewijs gebruikt.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N03 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor video-naar-opdracht.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Met Atria de advertenties van concurrenten verzamelen. Neem je gekozen resultaat mee.
+
+13. Met Atria de advertenties van concurrenten verzamelen [les 1.2]
+[BESTAANDE LES · V16]
+
+Nu gaan we kijken hoe andere merken hun product verkopen. We gebruiken Atria om concurrentadvertenties te verzamelen, zodat je de video's, beelden en hooks naast elkaar kunt bekijken.
+
+Geef de domeinen van de merken die je wilt onderzoeken. We laten Atria de juiste accounts vinden en halen daar een eerste selectie advertenties op. Ik wil twee dingen zien: wat ze recent hebben gelanceerd en welke advertenties al langer actief zijn.
+
+Open die creatives. Waarmee begint de video? Is het een probleem dat iemand meteen herkent? Een productdemo? Een vergelijking? Kijk ook naar het aanbod en de actie waar ze naartoe sturen. Je ziet dan welke keuzes zo'n merk in een paar seconden maakt.
+
+Laat de agent de voorbeelden in een gallery zetten. Bij ieder voorbeeld wil ik de hook, het format en de bron kunnen openen. Als er een transcript beschikbaar is, gebruiken we dat om de opbouw van de video te bekijken.
+
+Daarna halen we patronen uit die selectie. Misschien leggen meerdere merken het product uit via een dagelijkse routine. Of ze beginnen juist met een bezwaar. Dat geeft ons richtingen die we met ons eigen product kunnen uitwerken.
+
+Een advertentie die lang loopt is interessant om te onderzoeken. Het vertelt ons op zichzelf niet hoeveel winst die maakt. Wij gaan onze eigen angles kiezen en later testen.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan de concurrentadvertenties openen en laten zien waar ik op let. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 1.2 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Bouw een doorzoekbare advertentiebibliotheek. Neem je gekozen resultaat mee.
+
+14. Bouw een doorzoekbare advertentiebibliotheek [les N25]
+[NIEUW V16]
+
+We hebben met Atria advertenties van concurrenten verzameld. Nu gaan we zorgen dat je die references terug kunt vinden wanneer je een nieuwe campagne maakt.
+
+Per advertentie bewaren we de bron, het merk, de datum waarop we hem bekeken en wat we er daadwerkelijk in zien. We houden de oorspronkelijke tekst gescheiden van onze analyse. Een hook kan interessant zijn door het bezwaar dat hij aanspreekt, terwijl het beeld juist helemaal niet bij onze brand past.
+
+Ik laat de Librarian de references koppelen aan onderwerpen in onze Second Brain. Daarna vraag ik bijvoorbeeld naar advertenties die gemak uitleggen of een productvergelijking gebruiken. Hij moet de bijbehorende bronnen teruggeven, zodat we ze samen kunnen bekijken.
+
+Lang actief zijn is een onderzoekssignaal, geen bewijs dat een advertentie winstgevend is. Dat houden we uit elkaar. Als Atria geen nieuwe resultaten kan leveren door toegang of limieten, werken we met beschikbare exports en vermelden we die datum. De bibliotheek groeit met echte references, niet met advertenties die een agent zelf verzint.
+
+Tijd om dit echt te doen. Ik pak mijn project erbij en laat je zien welke keuzes ik onderweg maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N25 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor advertentiebibliotheek.csv. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Een aanbod maken waar de juiste klant op aangaat. Neem je gekozen resultaat mee.
+
+15. Een aanbod maken waar de juiste klant op aangaat [les 1.3]
+[BESTAANDE LES · V16]
+
+We hebben nu research. Nu moeten we kiezen voor wie we dit merk bouwen en waarom die persoon bij ons zou bestellen.
+
+Pak de belangrijkste klantgroep. Wat wil die bereiken? Wat houdt die tegen? Welke uitleg heeft die nodig voordat het aanbod logisch voelt? Dat werken we uit in onze avatar en necessary beliefs. Die bestanden zitten in het pakket, maar ik wil vooral dat je snapt wat je ermee doet.
+
+Als iemand denkt dat alle producten in deze categorie hetzelfde zijn, moet jouw pagina het verschil kunnen uitleggen. Als iemand twijfelt of het in zijn dagelijkse routine past, laat je zien hoe het gebruikt wordt. Zo bepalen die klantvragen de inhoud van je winkel.
+
+Daarna maken we het aanbod. Wat krijgt de klant precies? Wat kost het? Is er een starterset, een losse aankoop of een herhaalbestelling? We laten de agent een paar richtingen voorstellen en kiezen wat past bij het echte product en de marge.
+
+Die keuze schrijven we uit in één offerbrief. Daarmee gaan de website, de advertenties en de e-mails verder. Je wilt overal hetzelfde aanbod vertellen.
+
+Tijd om dit te bouwen. Ik ga de aanbodrichtingen naast elkaar zetten en mijn keuze maken. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 1.3 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Van een vaag idee naar een complete bouwopdracht. Neem je gekozen resultaat mee.
+
+16. Van een vaag idee naar een complete bouwopdracht [les N09]
+[NIEUW V16]
+
+Je hoeft niet al te weten hoe je iets moet bouwen om een goede opdracht te geven. Je moet wel duidelijk krijgen wat het eindresultaat voor jouw business moet doen. Daar gaan we Codex bij gebruiken.
+
+Ik begin zo gewoon met een idee voor onze webshop. Bijvoorbeeld een productkeuzehulp die iemand naar de juiste bundel brengt. Codex moet vragen stellen over het assortiment, de verschillen en de manier waarop iemand kiest. Eén gerichte vraag tegelijk, zodat je niet meteen een heel technisch document hoeft in te vullen.
+
+Van die antwoorden maken we de bouwopdracht. Welke pagina zien we, welke gegevens gebruikt de keuzehulp en wanneer is de uitkomst goed? Een aanbeveling moet gebaseerd zijn op echte productinformatie. Als we een producteigenschap nog niet weten, laten we die open.
+
+Daarna laat ik Codex de eerste versie bouwen. Je ziet meteen welke keuzes we goed hebben uitgewerkt en waar we nog iets moeten aanscherpen. Pak jouw eigen idee erbij. Je coachprompt in deze les helpt je dezelfde vragen voor jouw product of dienst te beantwoorden.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N09 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor bouwopdracht.md. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Haal testbare angles uit concurrentieonderzoek. Neem je gekozen resultaat mee.
+
+17. Haal testbare angles uit concurrentieonderzoek [les N26]
+[NIEUW V16]
+
+Een goede reference geeft je iets om over na te denken. We gaan nu onderzoeken welke boodschap wij zelf kunnen testen voor ons product.
+
+We leggen een paar advertenties naast elkaar. Welk probleem noemen ze? Welk bezwaar nemen ze weg? Wat beloven ze en hoe proberen ze dat aannemelijk te maken? De agent koppelt die observaties aan ons eigen aanbod en de productfeiten die we bevestigd hebben.
+
+Daaruit maken we verschillende hypotheses. Misschien begrijpt iemand ons product sneller met een vergelijking. Misschien werkt een demonstratie van dagelijks gebruik beter. Per angle schrijven we op voor wie hij bedoeld is, welke boodschap centraal staat en wat we verwachten te leren.
+
+Ik kies er zo drie die inhoudelijk echt verschillen. Een andere kleur of een iets andere eerste zin maakt nog geen nieuwe angle. We werken ieder concept uit met een passende hook en een bewijsstuk dat we daadwerkelijk kunnen tonen. Daarmee kan je creative-agent meteen aan de slag, zonder te gokken wat jij met de campagne bedoelde.
+
+Oké, ik ga je nu laten zien hoe ik dit zelf aanpak. Pak het lesbestand erbij en kijk mee.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N26 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor angle-tests.md. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Eén merkverhaal voor alles wat we maken. Neem je gekozen resultaat mee.
+
+18. Eén merkverhaal voor alles wat we maken [les 1.4]
+[BESTAANDE LES · V16]
+
+Ik wil dat onze website, ads en e-mails voelen alsof ze bij hetzelfde merk horen. Daarom geven we de brand-workflow nu de research, het aanbod en onze tone of voice.
+
+Laat hem daar een duidelijke merkbasis van maken. Voor wie zijn we er? Wat verkopen we? Hoe leggen we het uit? Welke woorden passen bij ons? Voeg de goede voorbeelden toe die we al hebben geschreven.
+
+We proberen dat meteen met drie echte stukken copy: de homepagehero, een productintro en een advertentiehook. Je moet dezelfde brand herkennen, ook al doen die teksten iets anders. De homepage trekt je het merk in, de productintro legt het product uit en de advertentie moet aandacht pakken.
+
+Als iets te gemaakt klinkt, geef je jouw eigen versie. Ik spreek liever even in wat ik bedoel dan dat ik vijf minuten zoek naar een abstract stijlwoord. Codex kan die correctie verwerken in de merkbasis.
+
+Je hebt nu de basis. Ik ga de teksten hardop lezen en bijsturen naar onze merkstem, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 1.4. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Laat je Librarian verouderde informatie oplossen. Neem je gekozen resultaat mee.
+
+19. Laat je Librarian verouderde informatie oplossen [les N05]
+[NIEUW V16]
+
+Stel: je hebt je aanbod veranderd. Je verkoopt nu een ander pakket, maar je agent pakt nog een oude prijs uit een gesprek. Dan kun je een mooie website krijgen die gewoon het verkeerde aanbod verkoopt.
+
+We gaan dat bewust uitlokken met onze oefenbestanden. Er staat een oude keuze in, een nieuw besluit en nog een bron die iets anders zegt. De Librarian moet uitzoeken wat bevestigd is, wat vervangen is en waar hij nog een vraag over moet stellen.
+
+Een nieuwere datum is op zichzelf niet genoeg. Als ik gisteren over een mogelijke prijs brainstormde, heb ik daarmee de afgesproken prijs van vorige week nog niet veranderd. Daarom bewaren we ook de status van een besluit en de bron waarop het gebaseerd is.
+
+Na de update starten we een nieuw gesprek. Ik laat een aanbodtekst maken en kijk welke versie daarin terechtkomt. Het oude document houden we als historie. Zo kun je terugzien waarom iets veranderd is en voorkom je dat dezelfde discussie bij iedere nieuwe opdracht opnieuw begint.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N05 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor actualisatie.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Laat Codex en Hermes met dezelfde kennis bouwen. Neem je gekozen resultaat mee.
+
+20. Laat Codex en Hermes met dezelfde kennis bouwen [les N06]
+[NIEUW V16]
+
+We gaan nu wisselen van agent terwijl we aan hetzelfde project blijven werken. In Codex hebben we iets gebouwd. Hermes gaat daarmee verder. Vervolgens komen we terug in een nieuwe Codex-chat en gebruiken we de bijgewerkte keuzes.
+
+Wat we daarvoor nodig hebben, staat in onze projectmap: de actuele build, de gekozen richting en een korte voortgangsnotitie. In die notitie staat waar het echte resultaat staat, wat af is en welke opdracht hierna komt. Je geeft de volgende agent dat startpunt mee.
+
+Ik laat Hermes een contentbrief maken op basis van ons huidige aanbod. Daarna wijzig ik één bevestigde keuze via de Librarian. In een nieuwe Codex-chat vragen we een vervolg dat rekening houdt met die wijziging. We openen de bestanden naast elkaar, zodat je zelf kunt zien of het klopt.
+
+Je hoeft dus geen eindeloze chat over te dragen. Je wilt dat iedere agent de juiste bestanden leest voordat hij verdergaat. Dit werkt alleen als je projectpad en de actuele versie duidelijk zijn. Daarom leggen we die nu één keer goed vast.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N06 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor overdracht.md. Open de AI-coachprompt in Codex en Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Het aanbod en de bestelopties in je store uitwerken. Neem je gekozen resultaat mee.
+
+21. Het aanbod en de bestelopties in je store uitwerken [les 3.1]
+[BESTAANDE LES · V16]
+
+Onze store moet straks precies verkopen wat we hebben beloofd. Daarom pakken we het aanbod erbij voordat we Shopify aansluiten.
+
+Wat krijgt iemand bij de eerste bestelling? Kan hij ook los kopen? Is er een abonnement of een refill? Laat de E-com-workflow dat uitwerken tot duidelijke koopopties voor de productpagina.
+
+Ik wil dat de klant meteen snapt wat hij kiest. Het eerste bedrag, wat hij daarvoor krijgt en wat er eventueel later terugkomt. Bij een bundel laten we ook zien welke producten erin zitten. De vormgeving mag sterk zijn, maar je aanbod moet in één oogopslag te begrijpen zijn.
+
+Laat Codex de koopmodule in onze storefront bouwen. Open de verschillende keuzes en kijk hoe de prijs, inhoud en uitleg meeveranderen. Gebruik de bevestigde productgegevens; de oude researchvoorstellen zijn niet automatisch het actuele aanbod.
+
+We rekenen de opties ook even door. Een cadeau of korting kan er aantrekkelijk uitzien en ondertussen jouw marge opeten. Daar komen de cijfers later uitgebreider bij, maar je wilt nu al weten of je dit kunt leveren.
+
+Tijd om dit te bouwen. Ik ga onze koopopties op de productpagina uitwerken. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 3.1 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Een brandbook waar je hele team mee kan werken. Neem je gekozen resultaat mee.
+
+22. Een brandbook waar je hele team mee kan werken [les 5.1]
+[BESTAANDE LES · V16]
+
+Nu maken we de branding compleet. Ik wil dat je straks een productbeeld, advertentie of website opent en meteen dezelfde brand herkent.
+
+We geven de brand-workflow onze gekozen identiteit en beste voorbeelden. Laat hem het logo, de kleuren, typografie, beeldstijl en tone of voice samenbrengen in een brandbook. Bij Scoopfolk gebruiken we de bestaande identiteit en bouwen we daarop voort.
+
+Zet er vooral voorbeelden in. Een hero, een productkaart, een social post en een advertentie. Daar zie je veel sneller aan hoe de stijl werkt dan aan alleen een lijst kleurcodes.
+
+We laten de visual-workflow daarna een nieuw beeld maken op basis van dat brandbook. Past het erbij? Goed. Voelt het ineens als een ander merk, dan maken we de reference duidelijker.
+
+Dit brandbook gaat mee in iedere volgende contentopdracht. En als je een merk voor een klant bouwt, hoort het bij de oplevering. Die klant moet zelf verder kunnen met wat jij hebt gemaakt.
+
+Je hebt nu de basis. Ik ga het brandbook samenstellen en de toepassingen laten zien, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 5.1 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: References kiezen voor een webshop die eruit springt. Neem je gekozen resultaat mee.
+
+23. References kiezen voor een webshop die eruit springt [les 2.1]
+[BESTAANDE LES · V16]
+
+We gaan nu bepalen hoe die store eruit moet zien. Open een paar websites waarvan je denkt: dit is dik. Dat mag uit een heel andere branche komen. Ik kijk naar de manier waarop het product wordt getoond, de typografie, de kleuren en hoe de pagina beweegt.
+
+Mobbin en 21st.dev gebruiken we om gericht references en componentideeën te vinden. Geef Codex niet twintig totaal verschillende stijlen. Kies een duidelijke richting en laat zien wat je aan ieder voorbeeld goed vindt.
+
+Bijvoorbeeld: deze hero geeft het product alle ruimte. Die andere site gebruikt sterke typografie. En hier zie je een mooie overgang naar het productverhaal. Dat zijn keuzes waar onze website-workflow mee kan bouwen.
+
+We maken een referenceboard met een paar screenshots en onze opmerkingen. Vervolgens laat ik Codex twee visuele richtingen voorstellen voor hetzelfde aanbod. We kiezen de richting die bij de brand past en werken die uit.
+
+Heb je een agency of een andere dienst? Gebruik dan dezelfde aanpak voor je eigen homepage. Je wilt dat een bezoeker meteen ziet wat je levert en waarom hij bij jou moet zijn. De vorm ondersteunt dat verhaal.
+
+Oké, ik ga nu mijn references laten zien en uitleggen wat ik ervan wil gebruiken. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 2.1 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Jouw design vastleggen zodat de hele store klopt. Neem je gekozen resultaat mee.
+
+24. Jouw design vastleggen zodat de hele store klopt [les 2.2]
+[BESTAANDE LES · V16]
+
+Kijk naar onze gekozen richting. Nu wil ik dat iedere pagina voelt alsof die door hetzelfde team is gemaakt. De homepage, de productpagina en straks ook de campagnepagina.
+
+We gebruiken onze references uit onder andere Refero en getdesign.md om de stijl scherp te krijgen. Daarna laat ik Codex een DESIGN.md maken voor dit project. Daarin staan de kleuren, fonts, spacing, knoppen en beeldstijl die we hebben gekozen.
+
+Je hoeft dat bestand niet zelf helemaal te schrijven. Laat Codex het afleiden uit het brandbook en de gekozen preview. Kijk vervolgens naar een paar echte onderdelen: een headline, een productkaart en een aankoopknop. Voelt dat als één merk?
+
+Bij Scoopfolk hebben we al een duidelijke identiteit. We gebruiken de bestaande kleuren en logo's als basis. Ga jij voor een andere brand, dan verandert jouw designbestand mee.
+
+Dat is straks handig wanneer we een nieuwe pagina laten bouwen. Je geeft de opdracht en Codex heeft de visuele afspraken al. Je hoeft niet iedere keer te corrigeren dat de knoppen ineens een andere kleur hebben.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan de designkeuzes in onze preview uitwerken. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 2.2 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Productbeelden en characters die bij jouw merk blijven passen. Neem je gekozen resultaat mee.
+
+25. Productbeelden en characters die bij jouw merk blijven passen [les 5.2]
+[BESTAANDE LES · V16]
+
+Pak je beste productfoto erbij. Dat wordt onze reference. We gaan er een hele set beelden omheen maken voor de webshop en onze campagnes.
+
+Begin met de beelden die je daadwerkelijk nodig hebt. Een sterke hero, een detailshot en het product in gebruik. Geef de visual-workflow de verpakking, het brandbook en de compositie die je wilt zien.
+
+We maken eerst een kleine selectie. Kijk goed naar het product zelf: staat de vorm nog goed, klopt het label en ziet het materiaal er geloofwaardig uit? Kies het beeld dat het beste werkt en stuur daarop verder.
+
+Wil je een herkenbaar character gebruiken, dan bewaren we ook daarvoor een vaste reference. Dezelfde persoon, dezelfde kenmerken en dezelfde stijl over meerdere scènes. Gebruik eigen of toegestaan materiaal voor die identiteit.
+
+Laat Codex daarna de gekozen beelden in de storefront zetten. Een beeld kan los heel mooi zijn en op de pagina toch niet lekker werken. Misschien zit de tekst over het product of snijdt de mobiele crop iets belangrijks af. Dat passen we aan.
+
+Oké, ik ga nu onze productreference gebruiken om de beelden te maken. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 5.2. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: De complete storefront zelf bouwen met Codex. Neem je gekozen resultaat mee.
+
+26. De complete storefront zelf bouwen met Codex [les 2.3]
+[BESTAANDE LES · V16]
+
+Dit is waar alles samenkomt. We hebben het aanbod, de copy, de branding en de references. Nu gaan we de complete storefront bouwen.
+
+Geef Codex de opdracht om de homepage en productpagina samen uit te werken. Bovenaan moet het merk meteen goed staan. Verderop vertellen we waarom dit product interessant is, laten we het zien en beantwoorden we de vragen uit onze research. De koopactie moet overal logisch terugkomen.
+
+Ik laat eerst de homepage bouwen. We openen de preview en kijken naar de hele flow. Waar trekt de pagina je mee? Waar zakt het in? Een hero kan heel mooi zijn terwijl de rest nog voelt als een standaardtemplate. Dan sturen we juist dat stuk bij.
+
+Daarna bouwen we de productpagina. Grote productbeelden, de juiste bestelopties, uitleg en de informatie die iemand nodig heeft om te kiezen. Alles in dezelfde stijl.
+
+Open ook mobiel. Daar moet het product goed in beeld blijven en moet je direct snappen wat je kunt bestellen. We geven Codex feedback op beide schermen en laten hem de build afmaken.
+
+Tijd om dit te bouwen. Ik ga de storefront bouwen en onderweg laten zien wat ik zou aanpassen. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 2.3. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Maak een grote build over meerdere sessies af. Neem je gekozen resultaat mee.
+
+27. Maak een grote build over meerdere sessies af [les N10]
+[NIEUW V16]
+
+Je bent lekker aan het bouwen en je chat wordt steeds voller. Dan wil je kunnen doorpakken zonder opnieuw uit te leggen waar alles staat. We gaan onze build expres halverwege onderbreken.
+
+Codex bewaart het plan, de bevindingen en de actuele voortgang in drie korte bestanden. Het plan zegt wat we willen maken. De bevindingen bewaren de keuzes die tijdens het werk duidelijk werden. In de voortgang staat wat werkelijk af is en welke stap nog openstaat.
+
+We doen dit op een kopie van onze storefront. Ik laat één onderdeel afmaken en controleer het resultaat. Daarna sluiten we de sessie en starten we opnieuw met die bestanden. De nieuwe sessie moet eerst kijken wat er echt in de build staat. Een vinkje in een plan is geen vervanging voor de werkende pagina.
+
+Ik voeg ook één fout toe aan de voortgang: iets dat nog openstaat krijgt bewust de status af. Dan zien we of de agent het controleert. Dat is precies waarom deze aanpak handig is bij grotere klantprojecten: je houdt het werk overdraagbaar én je kunt aantonen waar je staat.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N10 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor sessieoverdracht.md. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Laat research, bouwen en review tegelijk doorpakken. Neem je gekozen resultaat mee.
+
+28. Laat research, bouwen en review tegelijk doorpakken [les N11]
+[NIEUW V16]
+
+Voor een grote opdracht kun je meerdere agents inzetten. De winst zit in werk dat onafhankelijk kan gebeuren. Daarom geef ik zo drie agents ieder een duidelijk stuk van dezelfde opdracht.
+
+Eén onderzoekt bezwaren uit onze beschikbare bronnen. Eén werkt op een eigen kopie van de productpagina. De derde beoordeelt de bestaande kooproute. Ze krijgen dezelfde merkcontext, maar ieder een andere uitkomst. We laten ze niet allemaal tegelijk hetzelfde bestand aanpassen.
+
+Daarna komt het werk terug bij de hoofdagent. Die moet verschillen oplossen. Als de researcher een nieuwe productclaim voorstelt die niet in onze productgegevens staat, gaat die niet vanzelf de pagina op. We vragen om de bron of laten de claim weg. De reviewer controleert de samengevoegde versie opnieuw.
+
+Ik wil je ook laten zien wanneer dit extra werk oplevert. Voor een kleine aanpassing ben je soms sneller met één agent. In de demo vergelijken we de totale doorlooptijd en de hoeveelheid herstelwerk. Je krijgt de opdrachten mee, zodat je zelf kunt testen bij welke builds deze verdeling voor jou werkt.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N11 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor team-build-review.md. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Een premium productpagina met scrollanimatie en 3D. Neem je gekozen resultaat mee.
+
+29. Een premium productpagina met scrollanimatie en 3D [les 2.4]
+[BESTAANDE LES · V16]
+
+Wil je jouw product echt laten binnenkomen? Dan kun je een aparte experience bouwen waarin het product tijdens het scrollen wordt uitgelegd. Dat gaan we hier doen met de MotionSites-route.
+
+Pak één product en één verhaal. Bijvoorbeeld hoe de verpakking opengaat, hoe je het gebruikt en waar het in je dagelijkse routine past. We maken daar een volgorde van beelden of een geschikt 3D-asset voor. Tijdens het scrollen loopt dat verhaal mee.
+
+Geef de agent duidelijk de scènes mee. Eerst het product groot in beeld, daarna een detail, vervolgens het gebruik en aan het eind de koopactie. Laat de tekst op de beweging aansluiten. Je wilt dat iemand het product beter begrijpt terwijl hij door de pagina gaat.
+
+We openen de preview en sturen de timing bij. Blijft de tekst lang genoeg staan? Komt het product op het juiste moment in beeld? Voelt de overgang goed op mobiel? Soms werkt een eenvoudiger beeld daar beter dan dezelfde zware animatie.
+
+Je hebt nu de basis. Ik ga het productverhaal met scroll en beweging uitwerken, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 2.4 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Je website online zetten en als echt product opleveren. Neem je gekozen resultaat mee.
+
+30. Je website online zetten en als echt product opleveren [les 2.5]
+[BESTAANDE LES · V16]
+
+Je build ziet er goed uit. Nu wil je hem kunnen delen met een klant of gebruiken voor je bedrijf. We zetten de code in GitHub en maken een preview op de gekozen hosting.
+
+Codex kan je helpen om die release klaar te zetten. De broncode krijgt een duidelijke versie en je preview krijgt een link. Zo kun je feedback op de echte website verzamelen en later terug naar een vorige versie als je dat nodig hebt.
+
+Voor onze Shopify-store gaat de uiteindelijke winkel via Shopify. Een dienstenwebsite of klantportal kan op een andere hosting draaien. Daar kijken we ook naar login en opslag als die onderdeel zijn van de build.
+
+Stel dat jouw klant in een portal zijn contentpakket bekijkt. Dan moet zijn goedkeuring ook echt opgeslagen worden en alleen zijn eigen project zichtbaar zijn. Dat werk je uit als onderdeel van het product dat je verkoopt.
+
+We lopen de belangrijkste klantreis door op de preview. Homepage naar aanbod, product naar winkelmand of portal naar contentreview. Je ziet dan of jouw complete build klaar is om te laten zien.
+
+Oké, ik ga nu de build als deelbare preview klaarzetten. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 2.5 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Jouw eigen ontwerp omzetten naar Shopify Liquid. Neem je gekozen resultaat mee.
+
+31. Jouw eigen ontwerp omzetten naar Shopify Liquid [les 3.2]
+[BESTAANDE LES · V16]
+
+Nu gaan we van onze eigen build naar een echte Shopify-store. Het ontwerp staat. We willen datzelfde design in Shopify kunnen gebruiken en aanpassen.
+
+Liquid is de templatingtaal van Shopify. Daarmee laat je jouw ontwerp werken met de producten, beelden en gegevens uit je winkel. We gaan dus de hardcoded productinformatie uit onze preview vervangen door Shopify-data.
+
+Laat Codex onze storefront opdelen in herbruikbare sections. De hero, het productverhaal, de vergelijking, de FAQ. Onderdelen die je vaker gebruikt worden snippets. De paginaopbouw komt in de templates.
+
+Begin met de homepage. Codex zet die om en we openen de Shopify-preview ernaast. Herken je dezelfde typografie, spacing en beelden? Daarna doen we de productpagina en koppelen we het juiste product.
+
+Ik wil ook dat je dit zelf kunt blijven aanpassen in de theme editor. Dus teksten, beelden en instellingen die jij vaak wijzigt, maken we daar beschikbaar. Je hoeft dan niet voor iedere headline weer de code in.
+
+Je hebt nu de basis. Ik ga ons eigen ontwerp naar Shopify Liquid omzetten, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 3.2 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Sections bouwen die je zelf kunt aanpassen. Neem je gekozen resultaat mee.
+
+32. Sections bouwen die je zelf kunt aanpassen [les 3.2a]
+[BESTAANDE LES · V16]
+
+Kijk, dit is onze hero in de Shopify-preview. Nu wil ik het beeld en de headline kunnen veranderen zonder dat ik de hele section opnieuw laat bouwen.
+
+We laten Codex de instellingen voor deze section toevoegen. De titel, de tekst, de knop en de afbeelding. Daarna openen we de theme editor en veranderen we die onderdelen daar. Je ziet direct wat dat met de pagina doet.
+
+Voor onderdelen die zich herhalen gebruiken we blocks. Denk aan productvoordelen of vragen in een FAQ. Dan kun je er eentje toevoegen, verwijderen of verplaatsen. Die vrijheid wil je ook als je dit theme voor een klant bouwt.
+
+We zetten vervolgens een tweede campagnepagina neer met dezelfde bouwstenen. Andere volgorde, andere beelden, dezelfde brand. Nu merk je waarom we dit netjes hebben opgezet: je kunt doorbouwen zonder steeds vanaf nul te beginnen.
+
+Laat de productinformatie uit Shopify komen. Waar extra productuitleg nodig is, kunnen we daarvoor passende metafields gebruiken. Dan blijft de content bij het product en werkt het template ook voor een ander artikel.
+
+Oké, ik ga nu de sections in de theme editor aanpassen. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 3.2a. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Van product kiezen naar een echte bestelling. Neem je gekozen resultaat mee.
+
+33. Van product kiezen naar een echte bestelling [les 3.2b]
+[BESTAANDE LES · V16]
+
+De store ziet er goed uit. Nu sluiten we de aankoop aan. Een bezoeker kiest zijn product of variant, voegt het toe aan de winkelmand en gaat door naar de Shopify-checkout.
+
+Laat Codex die route uitwerken voor ons aanbod. Bij een variant moet de juiste variant in de winkelmand terechtkomen. Bij een abonnement hoort het gekozen plan erbij. We gebruiken daarvoor de ondersteunde Shopify-route en de abonnementsconfiguratie van de winkel.
+
+Open de productpagina en doe het zelf even. Kies de optie, pas de hoeveelheid aan en kijk in de winkelmand. Klopt wat je krijgt? Dan doen we een testbestelling in onze oefenwinkel.
+
+Dat is ook het moment waarop we de bevestiging en de gegevens voor de volgende workflows krijgen. De e-mailflow moet weten wat iemand heeft gekocht. Customer support moet de order kunnen terugvinden. De analyse moet het juiste bedrag gebruiken.
+
+Je ziet nu dat de website en de automatisering bij elkaar horen. We bouwen de voorkant waar de klant koopt en sluiten daar het werk achter de schermen op aan.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan de hele aankooproute in de oefenwinkel doorlopen. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 3.2b staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Je store verbeteren met echte experimenten. Neem je gekozen resultaat mee.
+
+34. Je store verbeteren met echte experimenten [les 3.6]
+[BESTAANDE LES · V16]
+
+We hebben nu een complete store. Dan wil je weten welke keuzes beter werken voor jouw bezoekers. Daar maken we gerichte experimenten voor.
+
+Pak één belangrijke keuze. Bijvoorbeeld de volgorde van de productuitleg of de manier waarop je starterset wordt gepresenteerd. Laat Codex een tweede versie maken die dezelfde brand gebruikt, maar die keuze anders uitvoert.
+
+In Shopify kijken we naar de beschikbare Rollouts-route en wat onze winkel daarmee ondersteunt. We bepalen vooraf wat we vergelijken en welk resultaat we willen meten. Een klik op de koopknop is iets anders dan een afgeronde bestelling.
+
+We laten de varianten niet op tien punten tegelijk verschillen als we één vraag willen beantwoorden. Dan kun je achteraf veel beter begrijpen waar het resultaat vandaan komt.
+
+Tijdens de test houd je ook de ervaring van de klant in de gaten. Een variant die per ongeluk een verkeerde prijs laat zien, zetten we niet door omdat de grafiek toevallig omhooggaat.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan twee varianten maken voor één duidelijke test. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 3.6 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Een video-workflow bouwen die jouw feedback gebruikt. Neem je gekozen resultaat mee.
+
+35. Een video-workflow bouwen die jouw feedback gebruikt [les 5.3]
+[BESTAANDE LES · V16]
+
+Je kunt een agent heel veel video's laten maken. Ik wil vooral dat hij steeds beter begrijpt wat jij goed vindt.
+
+We pakken een eerste edit van ons product. Kijk hem helemaal af en geef concrete feedback. De hook komt te laat. Dit shot duurt te lang. Het product moet eerder in beeld. De ondertitels zitten over de verpakking. Daar kan de video-workflow iets mee.
+
+Laat de agent een tweede versie maken met die opmerkingen. Zet de twee versies naast elkaar en kijk of jouw feedback echt is verwerkt. Als jij zegt dat het sneller moet, leg dan ook uit waar je tempo mist.
+
+De terugkerende keuzes bewaren we als jouw editvoorkeuren. Hoe je opent, hoe je captions gebruikt, welke overgangen wel passen en wat je niet wilt zien. Bij de volgende video geeft dat de agent een veel betere start.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan mijn feedback op de edit inspreken en de tweede versie bekijken. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 5.3 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Van ruwe opname naar een compleet montageplan. Neem je gekozen resultaat mee.
+
+36. Van ruwe opname naar een compleet montageplan [les N19]
+[NIEUW V16]
+
+Pak je cameraopname en je schermopname erbij. We gaan bepalen welk verhaal je daarmee vertelt en welk beeld op ieder moment iets toevoegt. Je agent krijgt dus de hele demonstratie als materiaal.
+
+Eerst maken of lezen we het transcript met tijdstippen. Daarna markeren we de uitleg die nodig is om de demo te begrijpen, de momenten waarop je resultaat zichtbaar wordt en de stukken die opnieuw moeten. Een verspreking kun je vaak knippen. Een ontbrekende uitleg moet je soms gewoon nog opnemen.
+
+Vervolgens kiest de agent waar we jouw gezicht zien en waar het scherm belangrijker is. Bij een kleine interfacehandeling moet de kijker kunnen volgen waar je klikt. Tijdens een uitleg over je keuzes kan de camera juist weer beter werken.
+
+We slaan dit op als montageplan met verwijzingen naar de originele opnames. Ik loop dat plan door voordat we gaan renderen. Je kunt hier heel makkelijk zeggen: dit stuk mag sneller, hier moet het resultaat langer in beeld en deze zijstap halen we eruit. Dan weet de editor precies wat hij gaat bouwen.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N19 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor montageplan.json. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Laat je agent een volledige videosectie monteren. Neem je gekozen resultaat mee.
+
+37. Laat je agent een volledige videosectie monteren [les N20]
+[NIEUW V16]
+
+We gaan nu één stuk van je video echt afmaken. Daarmee bepaal je eerst de stijl en het tempo voordat je de hele opname laat verwerken.
+
+Ik kies een sectie waarin je iets uitlegt en daarna het resultaat laat zien. De editor gebruikt het montageplan en de bijbehorende bronbestanden. We laten cuts, een paar gerichte zooms en captions maken. De tekst moet leesbaar blijven en de zoom moet helpen om de handeling te volgen.
+
+Daarna bekijken we de export met geluid. Ik controleer of zinnen logisch doorlopen en of het scherm op het juiste moment zichtbaar is. Als een caption een knop bedekt die ik net aanwijst, passen we dat aan. Als de montage te onrustig wordt, halen we beweging weg.
+
+Je feedback geven we op tijdstip. Dan kan de agent gericht een tweede versie maken en hoef je niet het hele plan opnieuw te schrijven. We bewaren de gekozen sectie als referentie voor de rest. Dat is het voordeel van deze aanpak: je ziet vroeg of de editor doet wat jij voor ogen hebt.
+
+Oké, ik ga je nu laten zien hoe ik dit zelf aanpak. Pak het lesbestand erbij en kijk mee.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N20 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor sectie-review.md. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Maak van losse secties één complete video. Neem je gekozen resultaat mee.
+
+38. Maak van losse secties één complete video [les N21]
+[NIEUW V16]
+
+De eerste sectie staat. Nu gaan we de rest afmaken en er één video van maken die je van begin tot eind kunt bekijken.
+
+We gebruiken dezelfde gekozen stijl voor de andere secties. Daarna controleren we de aansluitingen. Eindigt een zin in het ene stuk en begint dezelfde zin opnieuw in het volgende? Verandert het volume ineens? Zit er een zwart frame tussen twee exports? Dat wil je voor publicatie zien.
+
+Ik laat de agent een lijst maken van de definitieve secties en hun volgorde. We gebruiken daar de gekozen versies, zodat er geen oude proefrender tussendoor komt. Vervolgens maken we de volledige export en bekijken we vooral de overgangen én een complete doorspeelronde.
+
+De render kan tijd kosten. Die tijd hangt af van je materiaal, effecten en beschikbare computer of dienst. We houden bij wat werkelijk gebeurt. Aan het eind heb je de volledige video, de gebruikte secties en een lijst van eventuele correcties. Daarmee kun je later een hoofdstuk vervangen zonder de rest van je edit kwijt te raken.
+
+Tijd om dit echt te doen. Ik pak mijn project erbij en laat je zien welke keuzes ik onderweg maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N21 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor volledige-video-review.md. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Haal meerdere sterke clips uit één lange opname. Neem je gekozen resultaat mee.
+
+39. Haal meerdere sterke clips uit één lange opname [les N22]
+[NIEUW V16]
+
+In een lange video zitten vaak stukken die op zichzelf al iets goeds laten zien. We gaan die eruit halen, maar iedere clip moet begrijpelijk zijn voor iemand die de rest niet heeft gezien.
+
+De agent zoekt momenten met een concrete belofte en een zichtbaar resultaat. Bijvoorbeeld de stap van een ruwe productpagina naar een complete Shopify-section. Daarna kijkt hij welke context die clip nodig heeft. Een opening als: zoals ik net zei, werkt niet als de kijker dat vorige stuk niet kent.
+
+We kiezen drie fragmenten en maken per fragment een passende opening. Soms kun je die uit de opname halen. Soms moet je één nieuwe zin opnemen. Dat leggen we vast, in plaats van te doen alsof die zin al in je bronvideo zit.
+
+Daarna maken we de verticale uitsnede en captions. Bij schermbeelden controleer ik of de belangrijkste handeling nog zichtbaar is. We bekijken de clips zonder de lange video erbij. Als je dan snapt wat er gebeurt en waarom het interessant is, heb je zelfstandig bruikbare content.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N22 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor clipselectie.md. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Analyseer je video en maak een betere tweede versie. Neem je gekozen resultaat mee.
+
+40. Analyseer je video en maak een betere tweede versie [les N23]
+[NIEUW V16]
+
+We gaan onze eigen video nu kritisch bekijken. Je geeft de analyse-agent de beschikbare video en vraagt om concrete observaties met tijdstippen. Welke uitleg duurt te lang? Waar verdwijnt het resultaat uit beeld? Welke caption is moeilijk te lezen?
+
+Ik wil dat hij aanwijst wat hij werkelijk ziet of hoort. Als we alleen een transcript hebben, beperken we de analyse tot de gesproken inhoud. En zonder kijkersdata kan hij niet bewijzen waarom mensen afhaken. Hij kan wel een voorstel doen dat we kunnen testen.
+
+We kiezen twee verbeteringen. Bijvoorbeeld eerder het eindresultaat tonen en een ingewikkelde uitleg ondersteunen met het juiste schermbeeld. Daarna maken we versie twee met verder zoveel mogelijk hetzelfde materiaal.
+
+We bekijken beide openingen achter elkaar. Je kunt zelf kiezen welke duidelijker is en beter bij jouw tempo past. Als je later echte retentiedata hebt, kun je die erbij pakken. Houd de publicatiecontext dan ook bij, want een andere titel of ander publiek kan de vergelijking beïnvloeden.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N23 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor video-analyse-vergelijking.md. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Je productvideo afmaken in Palmier Pro en DaVinci Resolve. Neem je gekozen resultaat mee.
+
+41. Je productvideo afmaken in Palmier Pro en DaVinci Resolve [les 5.4]
+[BESTAANDE LES · V16]
+
+We gaan onze productvideo nu echt afmaken. Je hebt de beelden, de hook en de gewenste stijl. Nu moeten timing, audio en captions samenkomen.
+
+Ik laat de workflow zien in Palmier Pro en in DaVinci Resolve. We gebruiken dezelfde media en hetzelfde verhaal, zodat je kunt zien hoe je de opdracht in beide editors aanpakt. Kies daarna de route die bij jouw werkplek past.
+
+Begin met de eerste seconden. Het product of het probleem moet meteen duidelijk zijn. Daarna laten we de shots aansluiten op de uitleg en eindigen we met de actie die iemand kan nemen.
+
+Voor een voice-over kun je je eigen opname gebruiken. In de VoiceStudio-bonus laat ik ook de route voor lokaal stemwerk zien. Die audio nemen we hier mee in de edit als hij klaarstaat.
+
+Laat de agent de tijdlijn opbouwen, kijk de export terug en geef feedback op de plekken die nog niet goed lopen. Muziek zachter onder de stem, captions binnen beeld en geen onhandige stilte voor de CTA.
+
+Tijd om dit te bouwen. Ik ga dezelfde productvideo in de editors uitwerken. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 5.4 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Een contentbatch voor je merk maken. Neem je gekozen resultaat mee.
+
+42. Een contentbatch voor je merk maken [les 5.5]
+[BESTAANDE LES · V16]
+
+We hebben een hele brand gebouwd. Nu gaan we zorgen dat je daar content voor kunt maken zonder iedere keer naar een leeg document te staren.
+
+Geef de content-workflow het aanbod, de research en onze beste productbeelden. We kiezen drie inhoudelijke richtingen. Bijvoorbeeld het probleem van de klant, het gebruik van het product en een veelvoorkomend bezwaar.
+
+Daar maken we verschillende formats van. Een reel die één punt laat zien, een carrousel die het uitlegt en een advertentieconcept dat de juiste klant aanspreekt. Hetzelfde onderwerp krijgt per format een andere uitvoering.
+
+Laat de agent de volledige scripts en slides schrijven. Ik wil echte teksten zien die we kunnen opnemen of ontwerpen. Daarna kiezen we de sterkste ideeën en laten we de visual- en video-workflows ze maken.
+
+Kijk de batch als geheel terug. Is het afwisselend? Past alles bij ons merk? Zegt ieder stuk iets dat de doelgroep interessant vindt? Als vijf posts hetzelfde verhaal vertellen, sturen we de selectie bij.
+
+Je hebt nu de basis. Ik ga de contentideeën kiezen en de batch laten maken, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 5.5. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Voer een browserworkflow van begin tot eind uit. Neem je gekozen resultaat mee.
+
+43. Voer een browserworkflow van begin tot eind uit [les N12]
+[NIEUW V16]
+
+Sommig werk zit nog gewoon in een browser. Een klantportaal, een contentplanning of een bedrijfsapp waar je telkens dezelfde handelingen doet. We gaan één complete workflow opnemen en laten uitvoeren.
+
+Ik kies een concrete opdracht: zet een goedgekeurde contentbatch klaar in een oefenomgeving. Per item hebben we de tekst, het bestand en de gewenste datum. De agent moet die gegevens koppelen aan het juiste item en de status teruggeven. Je ziet het werk in de browser gebeuren.
+
+We controleren daarna het resultaat vanuit de app. Staat de juiste afbeelding bij de juiste copy? Klopt de datum? Is het concept ook echt opgeslagen? Als een veld of scherm anders werkt, laten we de agent dat verschil benoemen voordat hij verdergaat.
+
+Die stappen leggen we vast als werkwijze voor de volgende batch. De les bevat ook een lokale oefenroute als je nog geen geschikt account hebt. Daarmee kun je het volledige proces leren. Voor je eigen bedrijfsapp doe je daarna dezelfde controle met de daadwerkelijk beschikbare bediening.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N12 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor browser-batch.md. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Productfotografie en UGC als complete klantopdracht. Neem je gekozen resultaat mee.
+
+44. Productfotografie en UGC als complete klantopdracht [les 5.6]
+[BESTAANDE LES · V16]
+
+Dit kun je ook meteen voor een ander merk leveren. Een webshop heeft nieuwe beelden en video's nodig voor een productlaunch. Jij maakt daar een concreet pakket van.
+
+Vraag de productreference, het aanbod en de gebruikssituatie op. Spreek af welke beelden en video's je oplevert. Bijvoorbeeld een set productfoto's en een korte UGC-video met verschillende openingen. Dan weet de klant waar hij ja tegen zegt.
+
+We maken eerst de visuele richting en één voorbeeld. Zodra die klopt, werken we de rest uit. Dat voorkomt dat je een hele batch in de verkeerde stijl maakt.
+
+Voor UGC schrijven we een script dat klinkt alsof iemand normaal iets uitlegt. Laat het product zien, demonstreer het gebruik en maak duidelijk wat de kijker kan doen. Verzin geen persoonlijke ervaring van een klant of creator.
+
+Daarna leveren we de afgesproken formaten op met een overzicht van de varianten. De klant moet direct kunnen zien welk bestand voor welk kanaal is bedoeld.
+
+Oké, ik ga nu een compleet productcontentpakket voor een klant uitwerken. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 5.6 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Van Atria-research naar je eigen advertentiebatch. Neem je gekozen resultaat mee.
+
+45. Van Atria-research naar je eigen advertentiebatch [les 5.7]
+[BESTAANDE LES · V16]
+
+We pakken nu die swipefile uit Atria erbij. Daar staan de advertenties die we hebben onderzocht. We gebruiken die om onze eigen campagne te maken.
+
+Kies drie angles die bij ons product passen. Eén kan vanuit het probleem beginnen, één vanuit het gebruik en één vanuit een bezwaar. Geef de content-workflow de bronnen en onze productfeiten, en laat hem per angle meerdere hooks schrijven.
+
+Daarna maken we scripts die je echt kunt produceren. Wat ziet iemand in het eerste shot? Wat zegt de voice-over? Wanneer komt het product in beeld? Wat is het aanbod aan het eind?
+
+We kiezen de sterkste uitvoering en bouwen de assets. Productbeelden, eventuele UGC, captions en de edit. Voor een advertentie met geanimeerde tekst en productbeelden kunnen we Hyperframes gebruiken. De losse uitleg daarvan staat ook in het bonusblok.
+
+Ik wil de advertenties terugzien als complete video's of beelden. Dan beoordelen we de hook, het tempo en de aansluiting op de productpagina. Je advertentie en je store moeten hetzelfde aanbod vertellen.
+
+Bewaar bij iedere variant welke angle en hook je gebruikt. Dan kun je later de resultaten naast de creatie leggen en gericht nieuwe varianten maken.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan uit de research mijn angles kiezen en de advertenties maken. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 5.7 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Maak drie uitvoeringen van één campagneconcept. Neem je gekozen resultaat mee.
+
+46. Maak drie uitvoeringen van één campagneconcept [les N27]
+[NIEUW V16]
+
+We kiezen één angle en gaan die nu in drie formats uitwerken. Een beeldadvertentie, een UGC-script en een productvideo. Het aanbod blijft hetzelfde, maar ieder format vertelt het op zijn eigen manier.
+
+Voor de beeldadvertentie moet je de boodschap snel kunnen begrijpen. Bij UGC bouwen we een korte situatie waarin het bezwaar herkenbaar wordt. In de productvideo laten we zien wat het product doet met beelden die we werkelijk hebben of mogen maken.
+
+We geven de agents dezelfde productfeiten, merkstijl en campagnebrief. Daarna bekijken we of de uitwerkingen nog bij elkaar horen. Als de UGC-versie ineens iets belooft dat nergens bevestigd is, corrigeren we dat voordat we de productie afronden.
+
+Ik open zo alle drie de resultaten naast elkaar. We kiezen welke onderdelen klaar zijn en waar nog een eigen opname of asset voor nodig is. Je houdt een campagnepakket over waarmee je verder kunt produceren en testen. Voor de Scoopfolk-beelden gebruiken we de afgesproken beeldroute en de meegeleverde actuele brandreferences.
+
+Tijd om dit echt te doen. Ik pak mijn project erbij en laat je zien welke keuzes ik onderweg maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N27 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor campagne-formatpakket.md. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Gebruik je Second Brain voor je volgende campagne. Neem je gekozen resultaat mee.
+
+47. Gebruik je Second Brain voor je volgende campagne [les N08]
+[NIEUW V16]
+
+Nu gaan we al die kennis laten werken. Je hebt research verzameld, je aanbod gekozen en feedback op je vorige content gegeven. Daarmee gaan we een volgende campagne maken.
+
+Ik geef de agent eerst een gerichte vraag: welke bezwaren kwamen terug, welke angle hebben we al geprobeerd en wat zou een logisch volgend concept zijn? Hij zoekt de bijbehorende bronnen op. Ik wil kunnen aanwijzen waar dat voorstel op gebaseerd is voordat we beelden en copy gaan maken.
+
+Daarna kiezen we één concept en werken we dat uit naar een advertentiebrief, een aanpassing aan de landingspagina en een contentbrief. Alle drie gebruiken hetzelfde aanbod. Feedback die alleen bij een oude campagne hoorde, mag niet zomaar een vaste merkregel worden.
+
+Dit is een mooie proef voor jouw hele Second Brain. Als je nog steeds alles zelf moet terugzoeken en opnieuw moet uitleggen, mist er iets in de index of de opdracht. Dat passen we aan en dan doen we de vraag nog een keer. Je eindigt met een echt campagnepakket én de bronnen die je volgende agent nodig heeft.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N08 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor campagne-uit-kennis.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Van losse content naar een bureau met maandpakketten. Neem je gekozen resultaat mee.
+
+48. Van losse content naar een bureau met maandpakketten [les 5.8]
+[BESTAANDE LES · V16]
+
+Als je deze workflow voor één merk kunt draaien, kun je er ook een maanddienst van maken. Dan verkoop je een vaste hoeveelheid werk met een duidelijke planning.
+
+We maken een aanbod voor een webshop die elke maand nieuwe creatives nodig heeft. Welke output krijgt die klant? Hoeveel concepten, welke formaten en hoeveel feedbackrondes? Dat zetten we concreet neer.
+
+Daarna richten we de productie in. De research gaat naar de content-workflow, de gekozen concepten naar beeld en video en de klant krijgt een overzicht om te beoordelen. Je kunt daarvoor de creative-workspace gebruiken die we bouwen.
+
+Reken ook je eigen werk mee. Jij kiest de richting, beoordeelt output en verwerkt feedback. Generatiekosten en tools komen daar nog bij. Een maandprijs moet bij die hele levering passen.
+
+Laat Codex een planning maken voor de eerste maand en werk één volledige levering uit. Dan zie je of jouw aanbod uitvoerbaar is voordat je er tien klanten op zet.
+
+Tijd om dit te bouwen. Ik ga van onze productie een concreet maandpakket maken. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 5.8. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Al jouw tools verbinden via Composio. Neem je gekozen resultaat mee.
+
+49. Al jouw tools verbinden via Composio [les 0.7]
+[BESTAANDE LES · V16]
+
+Tot nu toe werken we met bestanden in ons project. Nu geven we Codex toegang tot de tools waar jouw bedrijf al op draait. Je mail, je documenten, je CRM, je planning. Dat verbinden we via Composio.
+
+Je maakt één MCP-verbinding met Composio Connect. Vanuit die verbinding kun je de ondersteunde apps koppelen en de acties gebruiken die daar beschikbaar zijn. Je hoeft dus niet voor iedere losse workflow weer zelf een compleet integratieproject te bouwen.
+
+We beginnen met de tools die we vandaag nodig hebben. Ik laat de agent uitzoeken welke acties beschikbaar zijn voor onze campagne. Daarna koppelen we de accounts die daarbij horen.
+
+En dan geven we hem een opdracht waar je wat aan hebt: pak de gekozen campagnebrief, maak de taken voor de contentproductie en zet de e-mail klaar die erbij hoort. De ene tool levert de informatie, de andere krijgt de taak en de derde het concept. Jij stuurt dat vanuit je project aan.
+
+Later gebruiken onze Hermes-agents diezelfde werkwijze voor terugkerend werk. De specifieke verbinding en toegang richten we daar ook in. Atria krijgt zijn eigen MCP-koppeling voor de advertenties. Die pakken we bij de research.
+
+Tijd om dit te bouwen. Ik ga mijn tools verbinden en de campagneopdracht uitvoeren. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 0.7 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Vier e-mailflows die voor jouw merk blijven werken. Neem je gekozen resultaat mee.
+
+50. Vier e-mailflows die voor jouw merk blijven werken [les 3.3]
+[BESTAANDE LES · V16]
+
+Je hebt niet alleen bezoekers nodig. Je wilt ook iets doen met de mensen die interesse tonen, afhaken of al hebben gekocht. Daarom bouwen we nu vier e-mailflows voor onze store.
+
+De welcome-flow laat iemand kennismaken met het merk. De abandoned-checkout-flow pakt de twijfel rond een niet-afgeronde bestelling op. Na aankoop helpen we de klant het product te gebruiken. En bij een herhaalproduct kijken we naar het moment waarop een nieuwe bestelling relevant wordt.
+
+Geef de e-mail-workflow onze brand, het aanbod en de research. Laat hem per flow de trigger, timing en berichten uitwerken. We schrijven de mails in dezelfde stem als de webshop. De klant moet ons merk blijven herkennen.
+
+Ik open één flow helemaal. Waarom krijgt iemand deze mail? Wat zeggen we? Waar gaat de knop naartoe? Daarna zetten we de concepten klaar in het gekozen e-mailplatform via de beschikbare verbinding.
+
+Bij een abonnement gebruiken we de echte aankoop- en contractinformatie. Een klant die al heeft gekocht, moet niet dezelfde verlaten-checkoutmail blijven krijgen. Dat stellen we in wanneer we de flow aansluiten.
+
+Tijd om dit te bouwen. Ik ga de e-mailflows voor dit merk uitwerken. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 3.3 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Customer support en operations voor je webshop. Neem je gekozen resultaat mee.
+
+51. Customer support en operations voor je webshop [les 3.4]
+[BESTAANDE LES · V16]
+
+Nu gaan we werk aanpakken dat iedere webshop terugziet. Waar blijft mijn bestelling? Hoe gebruik ik het product? Kan ik iets aanpassen? En achter de schermen: welke voorraad vraagt aandacht?
+
+We geven de support-workflow onze productinformatie, verzendafspraken en retourprocedure. Daarna koppelen we de beschikbare orderinformatie. Laat de agent een echte klantvraag uit de oefenset behandelen en een passend antwoord klaarzetten.
+
+Je ziet meteen of die agent jouw bedrijf begrijpt. Een vraag over gebruik vraagt andere informatie dan een vertraagde levering. Geef hem de bronnen die daarbij horen en laat hem het antwoord in onze merkstem schrijven.
+
+Daarna pakken we operations. Laat die workflow de voorraad en lopende orders bekijken en een actielijst maken. Welk product dreigt op te raken? Welke bestelling vraagt opvolging? Jij wilt aan het begin van de dag weten waar je iets mee moet.
+
+We maken beide workflows eerst hier in Codex. Als ze goed werken, neemt Hermes die taken later over. Dan hoef jij niet iedere ochtend dezelfde opdracht opnieuw te typen.
+
+Je hebt nu de basis. Ik ga een supportvraag en het dagelijkse operations-overzicht aanpakken, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 3.4. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Weten wat je merk echt verdient. Neem je gekozen resultaat mee.
+
+52. Weten wat je merk echt verdient [les 3.5]
+[BESTAANDE LES · V16]
+
+Een mooie omzetgrafiek is leuk, maar ik wil weten wat er overblijft. Daarom laten we de analyse-workflow onze webshopcijfers omzetten naar iets waar je op kunt sturen.
+
+We geven de orderexport en de kosten mee. Productkosten, verzending, betaalfees en advertenties waar die beschikbaar zijn. Daarna laat je omzet, refunds en marge naast elkaar zetten. Ontbreken kosten, vul ze dan aan voordat je conclusies trekt.
+
+Heb je abonnementen, dan kijken we ook naar terugkerende omzet en churn. Hoeveel klanten blijven? Wat zeggen ze op? En welke periode vergelijken we eigenlijk? Je wilt geen verschillende definities door elkaar trekken.
+
+Laat Codex een dashboard maken met de kerncijfers en een korte uitleg. Ik wil zien welke producten bijdragen, waar kosten oplopen en welke vraag we als eerste moeten uitzoeken.
+
+We openen vervolgens één product en rekenen het even terug. Dat houdt de analyse dicht bij de echte business. Daarna kiezen we een concrete verbetering: een aanbod aanpassen, een bundel anders samenstellen of een campagne verder onderzoeken.
+
+Oké, ik ga nu de cijfers erbij pakken en laten zien waar ik op zou sturen. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 3.5 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Bouw een ochtendbriefing voor jouw business. Neem je gekozen resultaat mee.
+
+53. Bouw een ochtendbriefing voor jouw business [les N13]
+[NIEUW V16]
+
+Als je 's ochtends je agent opent, wil je weten waar je vandaag iets mee moet. We gaan een briefing maken die je helpt kiezen wat je als eerste oppakt.
+
+We gebruiken orders, supportvragen en de contentplanning van onze oefenbrand. Hermes kijkt naar dezelfde periode en zet de opvallende dingen bij elkaar. Een omzetgetal zonder periode heb je weinig aan. Een supportprobleem zonder de bijbehorende tickets ook. Daarom laat hij zien welke gegevens hij gebruikt.
+
+Daarna moet hij prioriteiten voorstellen. Bijvoorbeeld: meerdere klanten vragen hetzelfde over verzending, dus we passen de uitleg op de productpagina aan. Of er ontbreekt een asset voor een contentitem dat vandaag klaar moet zijn. Dat wordt een concrete opdracht met de bron erbij.
+
+Ik wil maximaal drie acties bovenaan, maar je kunt de onderliggende gegevens gewoon openen. We voeren de briefing eerst handmatig uit. Daarna veranderen we een oefenbestand en draaien we hem opnieuw. Je moet het verschil terugzien voordat we er later een vaste routine van maken.
+
+Oké, ik ga je nu laten zien hoe ik dit zelf aanpak. Pak het lesbestand erbij en kijk mee.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N13 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor ochtendbriefing.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Van goedgekeurde creatives naar een complete campagne. Neem je gekozen resultaat mee.
+
+54. Van goedgekeurde creatives naar een complete campagne [les N28]
+[NIEUW V16]
+
+Je creatives staan klaar. Nu brengen we de bestanden, copy en instellingen bij elkaar tot een campagne die je kunt controleren voordat hij live gaat.
+
+We maken eerst een overzicht van welk beeld bij welke tekst hoort. Daarbij staan de bestemming, het gekozen account en de campagne-instellingen die jij hebt bepaald. De agent leest de beschikbare accountstructuur via de toegestane koppeling of gebruikt een eigen export voor de voorbereiding.
+
+Daarna bouwen we het campagnevoorstel. Ik controleer de landingspagina, productclaims, tracking en de combinatie van beeld en tekst. Budget en publicatie krijgen een expliciete keuze. De opdracht om een campagne te ontwerpen is niet automatisch de opdracht om geld uit te geven.
+
+In de opname laten we zien welke stap daadwerkelijk mogelijk is met het beschikbare account. Zonder publicatietoegang leveren we een compleet controleerbaar pakket op en blijft de uploadstap openstaan. Met de juiste toegang kunnen we de gemaakte concepten in de advertentieomgeving teruglezen. We sluiten af met de echte status en de eerste meetperiode.
+
+Tijd om dit echt te doen. Ik pak mijn project erbij en laat je zien welke keuzes ik onderweg maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N28 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor campagne-oplevering.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Laat je Media Buyer de volgende tests voorstellen. Neem je gekozen resultaat mee.
+
+55. Laat je Media Buyer de volgende tests voorstellen [les N29]
+[NIEUW V16]
+
+Nu gaan we van campagneresultaten naar de volgende creatieve opdracht. Je agent moet kunnen uitleggen waarom hij iets wil veranderen.
+
+We beginnen met de herkenbaar fictieve meetset uit deze les. Daarna kun je dezelfde opdracht op je eigen export toepassen. We bekijken de periode, uitgaven, conversies en het aanbod achter iedere advertentie. Een losse uitschieter met weinig data behandelen we anders dan een patroon dat vaker terugkomt.
+
+De agent stelt vervolgtests voor. Welke boodschap willen we verder onderzoeken? Welk format krijgt een nieuwe uitvoering? En welk probleem ligt mogelijk op de landingspagina in plaats van in de creative? Bij ieder voorstel verwijst hij naar de gegevens die hem op dat idee brengen.
+
+Ik kies één test en laat er meteen een nieuwe creativebrief van maken. Het wijzigen van budgetten laten we buiten deze analyseopdracht. Je bepaalt zelf welke actie je werkelijk uitvoert. Zo bouw je een herhaalbare route van meten naar nieuw werk, en zie je precies welke aannames je nog moet toetsen.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N29 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor media-buyer-testplan.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Zoekvragen vinden die bij jouw aanbod passen. Neem je gekozen resultaat mee.
+
+56. Zoekvragen vinden die bij jouw aanbod passen [les 6.1]
+[BESTAANDE LES · V16]
+
+Naast advertenties wil je ook gevonden worden door mensen die al naar een oplossing zoeken. Daarom pakken we SEO erbij.
+
+We onderzoeken welke vragen aansluiten op ons product en aanbod. Niet alleen het grootste zoekwoord, maar ook de vergelijking, het gebruik en de twijfel vlak voor een aankoop.
+
+Geef de SEO-workflow onze merkcontext en de beschikbare zoekdata. We kunnen de OpenSEO-route gebruiken met DataForSEO als die toegang klaarstaat. Heb je al een site, dan is je eigen Search Console-data ook interessant.
+
+Laat de agent de kansen groeperen. Welke vraag hoort op de productpagina? Waar maken we een apart artikel voor? En welke onderwerpen liggen te ver van ons aanbod af?
+
+We kiezen een kleine eerste set waar we echt goede content voor kunnen maken. De onderzoeksvraag bepaalt de pagina; we gaan geen twintig bijna identieke artikelen laten uitspugen.
+
+Je hebt nu de basis. Ik ga de zoekvragen kiezen die bij ons aanbod passen, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 6.1 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Een SEO-pagina maken waar een bezoeker iets aan heeft. Neem je gekozen resultaat mee.
+
+57. Een SEO-pagina maken waar een bezoeker iets aan heeft [les 6.2]
+[BESTAANDE LES · V16]
+
+We kiezen nu één zoekvraag uit ons plan. Daar maken we een pagina voor die het onderwerp goed uitlegt en logisch naar ons product verwijst.
+
+Laat de content-workflow eerst de opbouw maken. Welke vraag beantwoorden we? Wat moet iemand begrijpen? Welke informatie kunnen we met onze bronnen onderbouwen? Daarna schrijven we de volledige tekst.
+
+We voegen eigen beelden en concrete voorbeelden toe. De pagina moet passen bij de rest van het merk, dus we gebruiken dezelfde designregels en tone of voice. Codex kan hem vervolgens in onze site of als Shopify-artikel klaarzetten.
+
+Lees de pagina alsof je via Google binnenkomt en ons merk nog niet kent. Krijg je een duidelijk antwoord? Kun je daarna verder naar een relevante productpagina of een andere uitleg?
+
+We kijken ook naar titel, beschrijving en interne links. Dat hoort bij de oplevering van deze pagina. Publiceren is vervolgens een bewuste stap binnen de gekozen winkel of site.
+
+Oké, ik ga nu de eerste SEO-publicatie met onze workflow maken. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 6.2 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: SEO als terugkerende workflow en maanddienst. Neem je gekozen resultaat mee.
+
+58. SEO als terugkerende workflow en maanddienst [les 6.3]
+[BESTAANDE LES · V16]
+
+SEO stopt niet wanneer je één artikel hebt gepubliceerd. Je wilt zien wat bezoekers vinden, waar ze op klikken en welke pagina's je kunt verbeteren.
+
+We geven de workflow een nieuwe export en laten die naast de vorige periode zetten. Welke pagina krijgt vertoningen maar weinig kliks? Welke vraag levert verkeer op dat goed aansluit op ons aanbod? Daar kiezen we het volgende werk uit.
+
+Misschien verbeteren we een titel, voegen we ontbrekende uitleg toe of maken we een nieuwe pagina. De agent werkt dat voorstel uit met de bronnen en de huidige content erbij.
+
+Bewaar wat je hebt veranderd. Dan kun je later terugkijken wat er is gebeurd. Een verschil in een grafiek is niet automatisch het gevolg van één tekstwijziging, maar het helpt je wel om betere vervolgvragen te stellen.
+
+Voor een klant kun je dit als maanddienst leveren: onderzoek, publicaties, verbeteringen en een helder overzicht. Laat zien welk werk je hebt gedaan en welke uitkomst je ziet.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan de resultaten gebruiken voor het volgende werk. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 6.3. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Jouw beste workflow als eigen skill bewaren. Neem je gekozen resultaat mee.
+
+59. Jouw beste workflow als eigen skill bewaren [les 4.1]
+[BESTAANDE LES · V16]
+
+Stel, je hebt net een sterke advertentiebatch gemaakt. De research klopte, de beelden zaten goed en jouw feedback is verwerkt. Die manier van werken wil je de volgende keer opnieuw kunnen gebruiken.
+
+We laten Codex daar een skill van maken. Geef de opdracht, de gebruikte inputs, de goede output en jouw correcties mee. Je kunt ook je scherm opnemen terwijl je laat zien hoe jij het werk aanpakt.
+
+De skill moet uitleggen hoe je van een nieuw product naar diezelfde soort output komt. Dus welke informatie is nodig, welke stappen volgen en waar beoordeel je het resultaat? De specifieke productnaam hoort in de opdracht, zodat je de skill ook voor een ander merk kunt gebruiken.
+
+Daarna proberen we hem met een tweede product. Dat is het moment waarop je ziet of je een bruikbare workflow hebt bewaard. Mist hij iets dat jij de eerste keer mondeling had uitgelegd, dan voegen we dat toe.
+
+Tijd om dit te bouwen. Ik ga mijn eigen werkwijze omzetten naar een herbruikbare skill. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 4.1. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Bouw een editor die jouw stijl kan herhalen. Neem je gekozen resultaat mee.
+
+60. Bouw een editor die jouw stijl kan herhalen [les N24]
+[NIEUW V16]
+
+Je hebt nu feedback gegeven op een echte edit. Daar gaan we een werkwijze van maken die je bij je volgende opname weer kunt gebruiken.
+
+We verzamelen de gekozen sectie, je concrete correcties en de exportinstellingen. In de stijlinstructie zetten we wanneer je een zoom gebruikt, hoe captions geplaatst worden en hoe lang een resultaat zichtbaar moet blijven om het te kunnen volgen. Waar dat afhangt van de inhoud, beschrijven we de afweging.
+
+Daarna krijgt de editor een tweede opname. Die heeft andere zinnen en andere schermbeelden. We kijken of de procedure daarbij helpt. Als hij overal hetzelfde effect plakt, is de instructie te grof. Dan voegen we een voorbeeld toe van wanneer je het effect juist weglaat.
+
+Je eindigt met een overdraagbare editworkflow en twee beoordeelde voorbeelden. Dit kun je inzetten voor je eigen content of als onderdeel van een klantpakket. De software die de montage uitvoert moet beschikbaar en gecontroleerd zijn; de stijlinstructie vertelt vervolgens hoe jij wilt dat het werk eruitkomt.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N24 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor editstijl.md. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Een goede tutorial omzetten naar een workflow die je kunt gebruiken. Neem je gekozen resultaat mee.
+
+61. Een goede tutorial omzetten naar een workflow die je kunt gebruiken [les 4.2]
+[BESTAANDE LES · V16]
+
+Je ziet online een tutorial en denkt: dit wil ik ook kunnen. Dan kun je die informatie gebruiken om jouw eigen workflow verder te bouwen.
+
+Pak één tutorial die echt aansluit op het werk dat je wilt doen. Bijvoorbeeld een specifieke productvideo of een Shopify-effect. Geef Codex de toegankelijke uitleg en laat hem uitzoeken welke inputs, tools en stappen daarvoor nodig zijn.
+
+Daarna passen we het toe op ons eigen product. We nemen de techniek mee, maar maken onze eigen uitvoering. Laat de agent een werkplan maken en de beschikbare stappen uitvoeren. Ontbreekt er een bronbestand of tool, dan pakken we dat gericht op.
+
+Pas wanneer je de workflow zelf hebt doorlopen, maak je er een skill van. Je weet dan welke stap in de tutorial te snel ging en welke instelling voor jouw situatie anders moest.
+
+Je hebt nu de basis. Ik ga een goede tutorial vertalen naar ons eigen project, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 4.2 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Een complete opdracht laten afleveren. Neem je gekozen resultaat mee.
+
+62. Een complete opdracht laten afleveren [les 4.3]
+[BESTAANDE LES · V16]
+
+Als ik een agent een opdracht geef, wil ik aan het eind iets kunnen openen en gebruiken. Een website, een video, een campagnepakket. Daarom geven we hem een duidelijke opdracht met een echt eindresultaat.
+
+We pakken onze creative-workspace als voorbeeld. De klant moet zijn campagne kunnen openen, de assets bekijken en feedback geven. Dat is wat we bouwen. De agent krijgt de input en de criteria waaraan die hele ervaring moet voldoen.
+
+Vervolgens laat je hem het werk uitvoeren, openen en verbeteren. Bij een website hoort een browserpreview. Bij een video hoort het bekijken van de export. Bij een e-mailflow hoort het doorlopen van de juiste trigger.
+
+In het pakket staat de Agent Build Standard die dit vastlegt. Je hoeft daar in je dagelijkse opdracht geen heel verhaal van te maken. Geef het resultaat mee en laat de bestaande werkwijze het uitvoerwerk ondersteunen.
+
+Oké, ik ga nu een complete bouwopdracht geven en de output bekijken. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 4.3 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Goede GitHub-projecten aan jouw werkplek toevoegen. Neem je gekozen resultaat mee.
+
+63. Goede GitHub-projecten aan jouw werkplek toevoegen [les 4.4]
+[BESTAANDE LES · V16]
+
+Je hoeft niet iedere tool zelf te bouwen. Op GitHub staan projecten waarmee je sterke dingen kunt maken. In het bonusblok pakken we er een hele serie bij, van God’s Eye tot video- en kennisbanktools.
+
+Voor we zo'n project op onze machine draaien, bekijken we wat we binnenhalen. We gebruiken NVIDIA SkillSpector en een bronreview. Codex kan helpen de bevindingen uit te leggen: welke installatiecode draait er, welke verbindingen maakt het project en welke toegang vraagt het?
+
+We leggen de exacte versie vast die we beoordelen. Daarna richten we de goedgekeurde versie in een eigen projectomgeving in en doen we de demo. Zo kun je later ook terugvinden welke versie bij jouw werkende build hoorde.
+
+Als er een melding is, onderzoeken we die. Soms hoort de functie bij wat de tool moet doen, soms is er een probleem dat eerst opgelost moet worden. Dat besluit bewaren we bij het project.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan de bron en scan van het gekozen project erbij pakken. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 4.4. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Jouw skills en agentpakket als product verkopen. Neem je gekozen resultaat mee.
+
+64. Jouw skills en agentpakket als product verkopen [les 4.5]
+[BESTAANDE LES · V16]
+
+Je hebt inmiddels werkwijzen gemaakt waarmee je iets kunt leveren. Die kun je ook bundelen voor mensen die dat werk zelf willen doen.
+
+Kies een duidelijk resultaat. Bijvoorbeeld een pakket waarmee een webshop zijn productcontent maakt, of een set agents voor een klein bureau. Geef erbij wat iemand nodig heeft, hoe hij start en een goed voorbeeld van de output.
+
+Wij maken nu een pakket rond één van onze eigen workflows. De skill, de prompt, voorbeeldinput en een korte walkthrough. Laat iemand vanuit een lege projectmap beginnen. Kan die persoon het resultaat maken zonder dat jij ernaast alles uitlegt?
+
+Dat laat ook zien wat er nog ontbreekt. Misschien gebruikt je skill ongemerkt een bestand dat alleen op jouw computer staat. Of de tooltoegang wordt nergens uitgelegd. Dat lossen we op voordat we het pakket opleveren.
+
+Je bepaalt vervolgens wat je verkoopt: alleen het materiaal, inrichting erbij of ook begeleiding. Dat zijn verschillende diensten met een andere hoeveelheid werk.
+
+Tijd om dit te bouwen. Ik ga onze workflow als bruikbaar product verpakken. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 4.5 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Meer werk doen met dezelfde gebruiksruimte. Neem je gekozen resultaat mee.
+
+65. Meer werk doen met dezelfde gebruiksruimte [les 9.1]
+[BESTAANDE LES · V16]
+
+Als je veel bouwt, merk je dat sommige opdrachten veel meer gebruik vragen dan andere. Daar kun je slimmer mee omgaan zonder dat je iedere goede opdracht kleiner hoeft te maken.
+
+Geef Codex gericht de bestanden die voor de taak nodig zijn. Voor een nieuwe advertentie hoeft hij niet opnieuw de hele webshop te onderzoeken. Hij kan de gekozen brand, het aanbod en de vorige batch gebruiken.
+
+Bewaar goede tussenresultaten. De research, designkeuzes en projectindex zijn er juist zodat we daarop kunnen doorwerken. Laat een agent eerst zoeken naar wat al beschikbaar is.
+
+Kies ook het model en de redeneerstand bij het werk. Een lastige build of fout in de Shopify-koppeling vraagt iets anders dan het omzetten van een bestaande tekst naar een tweede formaat.
+
+Tijd om dit te bouwen. Ik ga dezelfde opdracht slimmer voorbereiden met wat we al hebben. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 9.1 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: DeepAstra en DeepSeek voor gericht uitvoerwerk. Neem je gekozen resultaat mee.
+
+66. DeepAstra en DeepSeek voor gericht uitvoerwerk [les 9.2]
+[BESTAANDE LES · V16]
+
+Je kunt binnen een grotere workflow ook werk aan een andere modelroute geven. In deze les pakken we de DeepAstra-route met DeepSeek erbij zoals die in het cursusmateriaal staat.
+
+Kies een afgebakende taak die je goed kunt beoordelen. Bijvoorbeeld een bestaande producttekst omzetten naar drie afgesproken formaten of een set openbare onderzoeksnotities structureren.
+
+Geef die route de benodigde input en een duidelijk resultaat. Daarna bekijk je de output met dezelfde criteria als bij je hoofdmodel. Past het bij de brand? Is de informatie behouden? Hoeveel moet je nog herstellen?
+
+De belangrijkste bouwbeslissingen blijven bij de agent die het project overziet. Die kan het uitvoerwerk gebruiken en verder verwerken. Zo houd je een grotere opdracht bij elkaar.
+
+Je hebt nu de basis. Ik ga een gerichte taak via de tweede modelroute uitvoeren, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 9.2 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Kiezen op kwaliteit, tijd en echte kosten. Neem je gekozen resultaat mee.
+
+67. Kiezen op kwaliteit, tijd en echte kosten [les 9.3]
+[BESTAANDE LES · V16]
+
+Een goedkopere modelcall kan alsnog duur uitpakken als jij daarna een uur moet corrigeren. Daarom vergelijken we de hele opdracht.
+
+We geven twee routes dezelfde input en hetzelfde gewenste resultaat. Bijvoorbeeld een productpagina op basis van ons aanbod en brandbook. Daarna beoordelen we de output zonder de eisen onderweg te veranderen.
+
+Kijk naar wat je kunt gebruiken. Klopt de copy? Hoeveel feedbackrondes waren nodig? Hoe lang duurde het tot de pagina klaar was? En wat zeggen de werkelijke gebruiksgegevens?
+
+Zet dat naast elkaar. Misschien is de ene route goed voor de eerste concepten en de andere beter voor de ingewikkelde build. Dan verdeel je het werk daarop.
+
+Dit helpt ook bij klantwerk. Je wilt weten wat het kost om een contentpakket of workflow te leveren, inclusief jouw eigen tijd. Daarmee kun je veel beter bepalen welke opdrachten en maandpakketten aantrekkelijk zijn.
+
+Oké, ik ga nu de echte resultaten en het gebruik naast elkaar leggen. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 9.3. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Kiezen welk werk jij gaat verkopen. Neem je gekozen resultaat mee.
+
+68. Kiezen welk werk jij gaat verkopen [les 10.1]
+[BESTAANDE LES · V16]
+
+Je hebt nu meerdere dingen gebouwd die bedrijven nodig hebben. De vraag is waar jij mee wilt beginnen.
+
+In het pakket staan twaalf verdienroutes. Websites, een contentbureau, advertentiecreatives, productfotografie en UGC, SEO, leadgeneratie, CRM-automations, supportbots, micro-SaaS, digitale pakketten, training en white-label werk.
+
+Kies een route waar je een goede demo voor hebt en een doelgroep die je begrijpt. Heb je net een sterke webshop gebouwd, dan kun je dat gebruiken in je aanbod. Ben je beter in video, begin dan met een productcontentpakket.
+
+Maak het concreet: dit type klant heeft dit probleem en ik lever dit resultaat. Daarna zoek je uit wat er nodig is om dat goed te leveren. Welke input krijg je, welke tools gebruik je en hoeveel werk zit er voor jou in?
+
+Je hoeft niet alle twaalf routes tegelijk te verkopen. Je krijgt ze wel allemaal, zodat je kunt zien welke het beste bij jouw situatie past. Kies er één en werk die volledig uit.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan een verdienroute kiezen en het aanbod concreet maken. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 10.1 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Uit een klantgesprek halen wat je moet bouwen. Neem je gekozen resultaat mee.
+
+69. Uit een klantgesprek halen wat je moet bouwen [les 10.2]
+[BESTAANDE LES · V16]
+
+Een klant vertelt je meestal niet precies welke workflow je moet bouwen. Die vertelt waar het werk vastloopt. Daar gaan we naar luisteren.
+
+Pak een gesprek dat je mag gebruiken en geef de transcriptie aan de sales-workflow. Laat eruit halen wat het bedrijf doet, waar tijd verloren gaat en welke uitkomst de klant wil.
+
+Ik kijk vooral naar concrete situaties. Wie doet het werk nu? Welke tools gebruiken ze? Wat gebeurt er als iets blijft liggen? Daarmee kun je veel beter bepalen welke oplossing nuttig is.
+
+Laat de agent vervolgens een voorstel voor de eerste build maken. Bijvoorbeeld een supportworkflow die de orderinformatie erbij pakt, of een contentportal waar het team sneller feedback geeft.
+
+Vergelijk dat met wat de klant echt heeft gezegd. Als de oplossing ineens veel groter wordt dan het probleem, trekken we hem weer terug naar een duidelijke eerste opdracht.
+
+Tijd om dit te bouwen. Ik ga het gesprek erbij pakken en de bouwopdracht eruit halen. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 10.2 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Van klantgesprek naar bedrijfskennis. Neem je gekozen resultaat mee.
+
+70. Van klantgesprek naar bedrijfskennis [les N04]
+[NIEUW V16]
+
+In een goed klantgesprek hoor je precies wat je moet bouwen. Welke klanten ze willen, waar ze tijd verliezen en welke woorden ze zelf gebruiken. Die informatie gaan we aan de rest van je agents geven.
+
+We beginnen met het oefengesprek uit het pakket. Het is herkenbaar als voorbeeld, zodat je de hele workflow kunt proberen voordat je er je eigen gesprekken in zet. De Librarian haalt het aanbod, de bezwaren en de gemaakte afspraken eruit. Wat nog een idee is, blijft een idee. Een losse suggestie wordt dus niet ineens de nieuwe prijs van je klant.
+
+Daarna maken we een korte projectupdate. De agent die de website bouwt, moet het aanbod kunnen terugvinden. Je copy-agent moet de woorden van de klant kunnen gebruiken. En jij moet kunnen zien welke vraag nog openstaat voordat je een voorstel afmaakt.
+
+Ik laat zo één detail in het gesprek terugkomen in een nieuwe hero voor die klant. Dan zie je de hele route: van iets wat iemand tijdens een call zegt naar iets wat je daadwerkelijk op zijn website kunt gebruiken.
+
+Tijd om dit echt te doen. Ik pak mijn project erbij en laat je zien welke keuzes ik onderweg maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N04 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor klantkennis.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Geef ieder klantproject zijn eigen Second Brain. Neem je gekozen resultaat mee.
+
+71. Geef ieder klantproject zijn eigen Second Brain [les N07]
+[NIEUW V16]
+
+Als je dit voor klanten gaat doen, wil je makkelijk kunnen wisselen tussen projecten. De ene klant verkoopt een product, de andere een dienst. Hun prijzen, merkstem en documenten horen bij hun eigen project.
+
+We zetten twee oefenbedrijven naast elkaar. Voor ieder bedrijf maken we een eigen projectindex en bronmap. Een gedeelde skill mag uitleggen hoe je een aanbod analyseert. De gegevens waarmee hij dat doet, komen uit de gekozen klantmap.
+
+Ik geef de agent expres twee opdrachten die op elkaar lijken. Eerst maakt hij een campagnebrief voor de webshop. Daarna openen we een aparte sessie voor de dienstverlener. Ik controleer of de tweede brief woorden, prijzen of productnamen van de eerste klant heeft meegenomen.
+
+Een profielnaam alleen regelt die scheiding niet. Je moet ook duidelijk hebben welke bestanden en tools bij die opdracht horen. In de demo houden we dat zichtbaar met twee afgebakende oefenmappen. Als je dit later als dienst verkoopt, hoort die inrichting bij je oplevering.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N07 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor klantisolatie.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Een demo en voorstel waar de klant op kan beslissen. Neem je gekozen resultaat mee.
+
+72. Een demo en voorstel waar de klant op kan beslissen [les 10.3]
+[BESTAANDE LES · V16]
+
+Nu gaan we laten zien wat je voor die klant kunt maken. Pak de belangrijkste uitkomst uit het gesprek en bouw daar een gerichte demo voor.
+
+Voor een webshop kan dat een nieuwe productpagina zijn. Voor een bureau een creative-workspace. Voor een bedrijf met veel klantvragen een supportdemo met hun eigen openbare informatie.
+
+Je gebruikt dezelfde Codex-workflows die we vandaag hebben opgebouwd. Geef de context, het gewenste resultaat en de juiste reference. Bouw genoeg om de oplossing te laten zien, zonder alvast een onbegrensd compleet project weg te geven.
+
+Laat de demo het gesprek dragen. Dit is hoe het nu gaat, dit is wat jij hebt gebouwd en dit is wat een medewerker of klant ermee kan doen. Daarna werk je het voorstel uit.
+
+In dat voorstel zet je de levering, planning, benodigde input en prijs. Maak duidelijk waar de eerste opdracht ophoudt en wat eventueel later kan.
+
+Je hebt nu de basis. Ik ga een passende demo en het voorstel uitwerken, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 10.3. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Een prijs bepalen waar je goed werk voor kunt leveren. Neem je gekozen resultaat mee.
+
+73. Een prijs bepalen waar je goed werk voor kunt leveren [les 10.4]
+[BESTAANDE LES · V16]
+
+Wat vraag je hiervoor? Dat hangt af van de opdracht die je verkoopt en wat jij moet leveren. We gaan dat nu uitrekenen.
+
+Pak het voorstel erbij. Hoeveel bouwtijd verwacht je? Welke tools en generatiekosten komen erbij? Hoeveel review, overleg en feedback zit erin? Zet ook ruimte voor herstel en overdracht in je berekening.
+
+Daarna maak je een prijs voor de afgesproken scope. Een website met vaste inhoud is een andere opdracht dan een complete store met abonnementen, contentproductie en maandelijkse ondersteuning.
+
+Je kunt ook een setup en een maanddienst combineren. Eerst bouw je de workflow, daarna beheer je die en lever je terugkerende output. Schrijf dan precies op wat er iedere maand gebeurt.
+
+Ik laat de agent een paar scenario's doorrekenen. Wat als de klant een extra feedbackronde wil? Wat als de productie twee keer zoveel generaties vraagt? Zo zie je waar je aanbod kwetsbaar wordt.
+
+Oké, ik ga nu de kosten en prijs van onze opdracht doorrekenen. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 10.4 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Bedrijven vinden die jouw werk kunnen gebruiken. Neem je gekozen resultaat mee.
+
+74. Bedrijven vinden die jouw werk kunnen gebruiken [les 7.1]
+[BESTAANDE LES · V16]
+
+Je kunt nu websites, content en workflows bouwen. Dan komt de volgende vraag: voor wie ga je dat doen?
+
+Kies eerst één dienst en één type klant. Bijvoorbeeld nieuwe productcreatives voor webshops die actief adverteren, of een betere website voor een dienstverlener met een sterk aanbod en een verouderde site.
+
+Laat de sales-workflow bedrijven zoeken met een concreet signaal. Een nieuwe productlaunch, een groeiend assortiment of een vacature die laat zien dat ze veel handmatig werk doen. Je wilt begrijpen waarom jouw aanbod op dit moment relevant is.
+
+We maken een eerste lijst en bekijken de bedrijven zelf. Wat verkopen ze? Waar zit een kans? Welk voorbeeld uit onze eigen builds kun je daarbij laten zien?
+
+Werk een paar bedrijven goed uit. Een gerichte opening met een passend voorbeeld is veel sterker dan een generiek bericht naar iedereen.
+
+Tijd om dit te bouwen. Ik ga bedrijven zoeken waar ons aanbod echt bij past. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 7.1 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Vind zakelijke kansen in echte gesprekken. Neem je gekozen resultaat mee.
+
+75. Vind zakelijke kansen in echte gesprekken [les N30]
+[NIEUW V16]
+
+Als je wilt weten wat je kunt bouwen, kijk dan waar mensen steeds tegenaan lopen. We gaan concrete problemen verzamelen uit openbare gesprekken en kijken welke jij kunt oplossen.
+
+De agent krijgt een duidelijke doelgroep. Bijvoorbeeld kleine webshops die veel tijd kwijt zijn aan retourvragen. Hij zoekt beschikbare openbare bronnen, bewaart de links en beschrijft het probleem in de woorden van de schrijver. Toegang tot een platform is een voorwaarde, dus we werken met bronnen die werkelijk bereikbaar zijn.
+
+Daarna vergelijken we de signalen. Komt dit probleem bij meerdere mensen terug? Welke oplossing gebruiken ze nu? Wat zou een kleine eerste versie kunnen overnemen? Een klacht op zichzelf bewijst nog niet dat iemand voor jouw product gaat betalen.
+
+Ik kies zo één kans die past bij wat we in deze course hebben gebouwd. Daar maken we een korte probleembrief van met de open vragen voor een klantgesprek. Je kunt deze research later als routine laten voorbereiden. Begin met één bruikbare kans die je zelf begrijpt en kunt toetsen.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N30 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor kansenonderzoek.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: De beste kansen kiezen en je CRM gebruiken. Neem je gekozen resultaat mee.
+
+76. De beste kansen kiezen en je CRM gebruiken [les 7.2]
+[BESTAANDE LES · V16]
+
+We hebben een lijst. Nu kiezen we waar we onze tijd in steken. Niet ieder bedrijf met een matige website is automatisch een goede klant voor jou.
+
+Laat de sales-workflow naar de match kijken. Heeft dit bedrijf een aanbod waar jouw dienst bij past? Is er een duidelijke aanleiding? Kun je laten zien wat je zou verbeteren?
+
+Pak daarna je CRM erbij via de beschikbare verbinding. Misschien heb je dit bedrijf al gesproken, werkt het al met je of staat er een afspraak gepland. Die context wil je gebruiken voordat je een nieuwe opening schrijft.
+
+We kiezen de sterkste kandidaten en zetten per bedrijf een volgende stap klaar. Voor de één is dat een korte website-demo. Voor de ander een creative-concept dat aansluit op een nieuwe launch.
+
+Ik wil dat je kunt uitleggen waarom je iemand benadert. Dan wordt je bericht vanzelf concreter. Je hoeft geen toneelstukje op te voeren waarin je doet alsof je hun grootste fan bent.
+
+Je hebt nu de basis. Ik ga de beste kandidaten kiezen met de CRM-context erbij, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 7.2 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Een gesprek starten met een concrete demo. Neem je gekozen resultaat mee.
+
+77. Een gesprek starten met een concrete demo [les 7.3]
+[BESTAANDE LES · V16]
+
+Nu gaan we die bedrijven benaderen met iets waar ze op kunnen reageren. Een korte, duidelijke opening en een voorbeeld dat bij hun business past.
+
+Pak de eerste kandidaat. Wat zag je? Wat kun jij daarvoor maken? Laat de sales-workflow een bericht schrijven in jouw stem. Hou het menselijk. Je wilt een gesprek starten, geen complete brochure in één mail stoppen.
+
+Ik geef bijvoorbeeld een korte observatie over hun productpagina en laat een eigen concept zien van hoe het anders kan. Dat maakt jouw aanbod tastbaar. Je belooft nog geen omzet die je niet kunt bewijzen.
+
+Daarna werken we de reacties uit. Iemand wil meer weten, iemand vindt het nu niet relevant en iemand vraagt direct naar de prijs. Laat de agent helpen om passend te reageren en de context bij het contact te bewaren.
+
+We maken ook een follow-up voor de mensen waar dat logisch is. Alles blijft gekoppeld aan hetzelfde aanbod en dezelfde eerdere conversatie.
+
+Oké, ik ga nu een bericht schrijven bij een concrete demo. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 7.3. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Je sales-workflow verbeteren met echte reacties. Neem je gekozen resultaat mee.
+
+78. Je sales-workflow verbeteren met echte reacties [les 7.4]
+[BESTAANDE LES · V16]
+
+Je eerste berichten zijn een begin. Nu willen we leren van wat er terugkomt.
+
+Geef de sales-workflow de reacties en de opvolgstatus. Welke opening zorgde voor een inhoudelijk gesprek? Waar begrepen mensen niet wat je aanbood? Waar vroeg je misschien te snel om een afspraak?
+
+We kiezen één verbetering voor de volgende batch. Misschien laat je eerder een demo zien of maak je het aanbod specifieker. Laat de agent de berichten herschrijven en vergelijk ze met de vorige versie.
+
+Kijk verder dan alleen het aantal reacties. Een beleefd antwoord is nog geen geschikte klant. Je wilt weten welke gesprekken doorgaan naar een passende opdracht en welke afhaken.
+
+Bewaar die feedback in je werkwijze. Dan wordt jouw sales-workflow steeds beter afgestemd op de dienst die je echt levert.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan de reacties bekijken en onze aanpak aanpassen. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 7.4 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Van jouw workflow naar een eigen micro-SaaS. Neem je gekozen resultaat mee.
+
+79. Van jouw workflow naar een eigen micro-SaaS [les 2.6]
+[BESTAANDE LES · V16]
+
+De workflows die je vandaag bouwt, kun je ook in een product stoppen. Denk aan een creative workspace voor webshops: een klant kiest zijn product, voegt references toe en krijgt een campagnepakket om te beoordelen.
+
+We pakken onze eigen advertentieworkflow als basis. Die hebben we straks zelf gebruikt. Nu ontwerpen we de app eromheen. De klant ziet zijn producten, campagnes en gemaakte assets. Hij kan een concept openen, feedback geven en een versie goedkeuren.
+
+Laat Codex eerst die complete ervaring bouwen voor één klantproject. Daarna voegen we accounts en opslag toe. De generatiekosten horen bij het product: hoeveel batches kan iemand maken en wat kost het jou om die te leveren?
+
+We houden de eerste versie gericht. Eén type klant, één duidelijk resultaat. Je hoeft er niet meteen een platform met vijftig functies van te maken. Laat een echte gebruiker met de pilot werken en kijk waar die vastloopt.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan van onze workflow een creative-workspace maken. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 2.6. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Van gevonden probleem naar een werkend prototype. Neem je gekozen resultaat mee.
+
+80. Van gevonden probleem naar een werkend prototype [les N31]
+[NIEUW V16]
+
+We hebben een probleem gekozen. Nu gaan we iets bouwen waarmee iemand kan ervaren hoe jouw oplossing werkt.
+
+Ik pak de probleembrief en bepaal één complete gebruikersroute. Voor een retourhulp kan dat zijn: vraag ontvangen, relevante orderinformatie gebruiken en een passend conceptantwoord voorbereiden. We kiezen wat de eerste versie echt doet en welke koppelingen we nog met herkenbare oefendata testen.
+
+Codex bouwt de demo en een landingspagina die precies uitlegt wat er mogelijk is. Je hoeft het product niet groter te presenteren dan het is. Een duidelijke werkende route is genoeg om een gesprek te voeren over bruikbaarheid en ontbrekende onderdelen.
+
+Daarna proberen we de demo zelf met meerdere situaties. Een normale vraag, ontbrekende informatie en een geval dat de hulp niet kan afhandelen. We bewaren wat werkt en wat nog moet veranderen. Je houdt een prototype over dat je kunt laten zien, plus gerichte vragen waarmee je kunt onderzoeken of je de juiste oplossing bouwt.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N31 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor prototype-review.md. Open de AI-coachprompt in Codex; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Een CRM-workflow bouwen die opvolging uit handen neemt. Neem je gekozen resultaat mee.
+
+81. Een CRM-workflow bouwen die opvolging uit handen neemt [les 10.6]
+[BESTAANDE LES · V16]
+
+Een bedrijf kan genoeg aanvragen krijgen en toch kansen missen doordat niemand de opvolging bijhoudt. Daar kun je een hele bruikbare workflow voor bouwen.
+
+We laten een nieuwe aanvraag in het CRM binnenkomen. De agent pakt de relevante informatie erbij, maakt een samenvatting en zet de volgende taak klaar. Na een gesprek wordt de status bijgewerkt en komt er een passend concept voor de opvolging.
+
+We verbinden de tools via Composio waar de benodigde acties beschikbaar zijn. Het CRM blijft de plek waar de klant en de status terug te vinden zijn. De agent helpt om het werk daaromheen uit te voeren.
+
+Laat drie situaties zien: een nieuwe lead, een geboekte afspraak en een klant die later wil praten. Voor iedere situatie moet de volgende stap logisch zijn.
+
+We bouwen er desgewenst een eenvoudig overzicht omheen, zodat het team meteen ziet wat er vandaag moet gebeuren. Dit is een concrete dienst die je aan een bedrijf kunt laten zien en opleveren.
+
+Tijd om dit te bouwen. Ik ga de CRM-opvolging van begin tot eind bouwen. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 10.6. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Een supportbot bouwen met de kennis van het bedrijf. Neem je gekozen resultaat mee.
+
+82. Een supportbot bouwen met de kennis van het bedrijf [les 10.7]
+[BESTAANDE LES · V16]
+
+Voor een supportbot beginnen we met de informatie die het bedrijf al heeft. Productuitleg, procedures, veelgestelde vragen en waar nodig orderinformatie.
+
+Laat de support-workflow daar een bruikbare kennisbasis van maken. Daarna zetten we een chatervaring neer waarin een klant een vraag kan stellen en een passend antwoord krijgt.
+
+We proberen vragen die echt voorkomen. Hoe gebruik ik het product? Waar is mijn bestelling? Welke keuze past bij mijn situatie? Je wilt dat de bot de juiste informatie erbij haalt en duidelijk antwoordt.
+
+Er zullen ook vragen zijn die de kennisbank niet beantwoordt. Dan moet er een goede route naar een medewerker zijn. Dat is onderdeel van de ervaring die je verkoopt.
+
+Voor een uitgebreidere documentomgeving kun je de WeKnora-route uit het bonusblok onderzoeken. De eerste versie bouwen we op de bronnen en tools die voor deze klant beschikbaar zijn.
+
+Je hebt nu de basis. Ik ga de supportbot met echte oefenvragen gebruiken, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 10.7 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Bouw een AI-assistent die klanten via chat gebruiken. Neem je gekozen resultaat mee.
+
+83. Bouw een AI-assistent die klanten via chat gebruiken [les N32]
+[NIEUW V16]
+
+Je klant wil meestal gewoon een opdracht kunnen geven. Daarom bouwen we nu een assistent met een eenvoudige chat als ingang naar een concrete bedrijfsworkflow.
+
+We nemen een aanvraag voor een dienst. De assistent vraagt wat hij nog nodig heeft, gebruikt de bevestigde informatie uit het klantproject en maakt een conceptvoorstel. Terwijl hij werkt, geeft hij kort aan wat de status is. Zo weet de gebruiker of hij nog iets moet aanleveren of dat het voorstel wordt voorbereid.
+
+We bouwen eerst de route in een oefenomgeving. Daarna kiezen we de chatkoppeling die beschikbaar is voor jouw project. De achterliggende workflow blijft dezelfde: vraag begrijpen, ontbrekende informatie ophalen, het werk uitvoeren en het resultaat tonen.
+
+Ik test zo ook een aanvraag die buiten het aanbod valt. De agent moet daar helder op reageren in plaats van een dienst of prijs te verzinnen. Het interessante aan deze demo is dat je klant al die losse tools niet hoeft te begrijpen. Die ziet de aanvraag, de voortgang en het voorstel dat hij kan beoordelen.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N32 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor chatassistent-review.md. Open de AI-coachprompt in Codex en Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Bouw een voorstel- en afspraakworkflow. Neem je gekozen resultaat mee.
+
+84. Bouw een voorstel- en afspraakworkflow [les N33]
+[NIEUW V16]
+
+We gaan de klantaanvraag nu verder brengen naar een voorstel en een mogelijke afspraak. Dat is een workflow die je voor veel dienstverleners kunt gebruiken.
+
+De agent leest het bevestigde aanbod en bepaalt welke informatie nog ontbreekt. Vervolgens maakt hij een voorstel met de gekozen onderdelen en de bijbehorende prijsberekening. We gebruiken vaste voorbeeldprijzen uit het oefenbestand, zodat je de berekening kunt nalopen.
+
+Daarna kijkt hij welke afspraak nodig is en welke beschikbare momenten hij daadwerkelijk kan vinden. Zonder agendatoegang maakt hij een verzoek om beschikbaarheid. Hij verzint dus geen vrij tijdslot. Met een aangesloten oefenagenda kunnen we de voorgestelde momenten controleren.
+
+We lopen de hele route door en wijzigen daarna één onderdeel van de aanvraag. Het voorstel moet mee veranderen. Verzending en een definitieve boeking zijn aparte acties waarvoor de klant of operator toestemming geeft. Aan het eind heb je de volledige voorbereiding bij elkaar, inclusief het punt waarop iemand de beslissing neemt.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N33 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor voorstel-afspraak.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Bedrijven trainen met hun eigen werk als lesmateriaal. Neem je gekozen resultaat mee.
+
+85. Bedrijven trainen met hun eigen werk als lesmateriaal [les 10.8]
+[BESTAANDE LES · V16]
+
+Je kunt bedrijven ook helpen om hun team zelf met AI te laten werken. Dan wil je dat mensen tijdens de training iets bouwen dat ze daarna blijven gebruiken.
+
+Kies een echte taak uit dat bedrijf. Een campagne maken, supportvragen verwerken of een klantvoorstel voorbereiden. We gebruiken die taak als rode draad en geven de deelnemers de juiste inputs en prompts.
+
+Je begint met een korte audit: hoe doen ze dit nu, welke tools gebruiken ze en waar zit de meeste winst in de werkwijze? Daar maak je de workshop omheen.
+
+Met OpenMAIC kun je als aanvullende route een interactieve les en quiz maken op basis van een geschikt document. Die GitHub-demo staat in het bonusblok. De kern van je training blijft dat de deelnemers de taak zelf uitvoeren.
+
+Aan het eind laat je ze hun resultaat openen en uitleggen wat ze ermee gaan doen. Daarna maak je een vervolgplan met de workflows die het bedrijf wil invoeren.
+
+Oké, ik ga nu van een bedrijfsproces een praktische training maken. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 10.8 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: White-label bouwen voor andere bureaus. Neem je gekozen resultaat mee.
+
+86. White-label bouwen voor andere bureaus [les 10.9]
+[BESTAANDE LES · V16]
+
+Je hoeft niet iedere eindklant zelf te vinden. Je kunt ook samenwerken met een bureau dat al klanten heeft en iemand zoekt die de builds uitvoert.
+
+Kies welk werk je voor dat bureau doet. Websites, contentpakketten, supportworkflows of complete agentinrichting. Laat een passende demo zien en spreek af hoe de samenwerking werkt.
+
+Het bureau levert de klantcontext en verzamelt feedback. Jij bouwt de afgesproken output en levert die aan op de manier die het bureau nodig heeft. Spreek af wie de kwaliteit beoordeelt en wie contact heeft met de eindklant.
+
+We maken nu een white-label opleverpakket voor één van onze builds. De bestanden, een korte walkthrough en de informatie die het bureau nodig heeft om door te leveren. Geen persoonlijke projectdata van andere klanten erin.
+
+Prijs ook deze route op het echte werk. Een partner kan voor herhaalopdrachten zorgen, maar extra overleg en feedback kosten nog steeds tijd.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan onze build voor een white-label partner klaarmaken. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 10.9. Open het lesbestand in Codex, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Opleveren zodat de klant er echt mee verder kan. Neem je gekozen resultaat mee.
+
+87. Opleveren zodat de klant er echt mee verder kan [les 10.5]
+[BESTAANDE LES · V16]
+
+De build is af. Dan wil je dat de klant hem ook kan gebruiken zonder dat jij ieder detail moet blijven uitleggen.
+
+We maken een korte walkthrough van de belangrijkste handelingen. Bij een webshop laat je zien hoe de klant content en producten aanpast. Bij een automation laat je zien waar de output verschijnt en wat er gebeurt als iets aandacht nodig heeft.
+
+Lever de afgesproken bestanden, toegang en instructies samen op. Laat de klant de belangrijkste taak zelf uitvoeren. Dan zie je meteen welke uitleg nog mist.
+
+Daarna spreek je af wat beheer inhoudt. Updates, controles, nieuwe content of ondersteuning zijn concrete werkzaamheden. Zet erbij wat binnen het pakket valt en wat een nieuwe opdracht is.
+
+We bewaren ook een werkende release en de herstelroute. Dat hoort bij een serieuze levering, zeker wanneer een bedrijf dagelijks op de workflow gaat draaien.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan het werk opleveren zoals ik dat voor een klant zou doen. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 10.5 uit het pakket en geef het aan Codex. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Lever een compleet agentpakket over aan een klant. Neem je gekozen resultaat mee.
+
+88. Lever een compleet agentpakket over aan een klant [les N34]
+[NIEUW V16]
+
+Je hebt een werkende workflow gebouwd. Nu gaan we zorgen dat iemand anders er echt mee kan werken, zonder dat jij er steeds naast zit.
+
+We maken een opleverpakket met het profiel, de gebruikte skills, de projectkennis en drie eerste opdrachten. Daarbij staat welke verbindingen de klant zelf nodig heeft en welke onderdelen we daadwerkelijk hebben getest. Je eigen accounts en persoonlijke geheugen horen niet in die overdracht.
+
+Daarna doen we de belangrijkste proef: we openen het pakket in een schone oefenmap en voeren een eerste klantopdracht uit. We volgen de startinstructie letterlijk. Als een bestand ontbreekt of er nog ergens een pad van jouw computer staat, herstellen we dat in het pakket.
+
+We spreken ook af hoe wijzigingen worden bijgehouden. Wie past het aanbod aan? Wie kijkt naar fouten? Hoe komt een verbeterde skill bij de klant terecht? Dat maakt je oplevering bruikbaar na de eerste demo. Je kunt dit als basis gebruiken voor een eenmalige build of voor doorlopend beheer, met een duidelijke beschrijving van het werk dat je levert.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N34 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor klantpakket-overdracht.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Jouw vijftien 187N-agentprofielen inzetten. Neem je gekozen resultaat mee.
+
+89. Jouw vijftien 187N-agentprofielen inzetten [les 8.2]
+[BESTAANDE LES · V16]
+
+Dit zijn de vijftien profielen die je van mij krijgt. Je hoeft niet vijftien keer zelf te bedenken hoe je een goede agent instrueert. De taakverdeling en werkwijzen zitten in het pakket.
+
+De Researcher verzamelt de informatie. De Strategist helpt met het aanbod en de keuzes. De Brand-agent bewaakt de identiteit. Website, E-com, Visual en Content maken het werk dat je inmiddels hebt gezien. E-mail, Customer Service, Operations, Analytics en Sales pakken de dagelijkse business op.
+
+Daarnaast hebben we de Builder voor technische hulpmiddelen, de Reviewer voor de beoordeling en de Orchestrator die een complete opdracht over het team verdeelt.
+
+We richten de profielen in en koppelen ze aan ons cursusproject. Daarna laten we een paar agents aan dezelfde campagne werken. Research bereidt de input voor, Content maakt de concepten en Visual werkt de gekozen beelden uit.
+
+Je hoeft niet bij iedere opdracht het hele team aan te zetten. Kies de mensen, of in dit geval agents, die voor dat werk nodig zijn. Voor een producttekst is dat een andere combinatie dan voor een complete launch.
+
+Je hebt nu de basis. Ik ga mijn agentprofielen erbij pakken en het team aan het werk zetten, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 8.2. Open het lesbestand in Codex of Hermes, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Je agents laten doorwerken met dezelfde projectkennis. Neem je gekozen resultaat mee.
+
+90. Je agents laten doorwerken met dezelfde projectkennis [les 8.3]
+[BESTAANDE LES · V16]
+
+Je Second Brain staat en je Librarian heeft al bronnen verwerkt. Nu gaan we controleren of het hele team die kennis gebruikt wanneer er nieuw werk binnenkomt.
+
+We pakken de laatste campagne en veranderen één bevestigde keuze in ons oefenproject. De Librarian bewaart de wijziging met de bron erbij. Daarna laat ik een ander profiel een vervolgbrief maken, in een nieuw gesprek.
+
+Ik wil de actuele keuze terugzien in die brief. We openen de bron waar de agent naar verwijst en bekijken of de rest van het aanbod nog klopt. Als hij een oude versie gebruikt, zoeken we uit of de verkeerde projectindex of een oude kopie in zijn context zit.
+
+Daarna voeren we dezelfde opdracht opnieuw uit. Deze proef kun je ook doen wanneer je een nieuw profiel aan je team toevoegt. Je hoeft je hele verhaal niet opnieuw te vertellen; je geeft hem het juiste startpunt en controleert wat hij ermee doet.
+
+Tijd om dit echt te doen. Ik pak mijn project erbij en laat je zien welke keuzes ik onderweg maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 8.3 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex of Hermes en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Van jouw Codex-build naar een draaiende Hermes-workflow. Neem je gekozen resultaat mee.
+
+91. Van jouw Codex-build naar een draaiende Hermes-workflow [les 8.4]
+[BESTAANDE LES · V16]
+
+We gaan nu een complete workflow overdragen. In Codex hebben we onze advertentiebatch gemaakt. Hermes gaat de volgende batch voorbereiden met dezelfde werkwijze.
+
+Geef de Orchestrator het doel: maak een nieuwe campagne voor dit product, met onze bestaande brand en het gekozen aanbod. De research is al beschikbaar en de productie-workflow zit in het project.
+
+Laat het team de taken verdelen. Content werkt de angles uit, Visual maakt de beelden en de Reviewer bekijkt of de batch klopt. Jij opent de resultaten op het moment dat er iets te kiezen of te beoordelen is.
+
+Dat is de overdracht die ik wil laten zien. Een opdracht gaat erin en er komt een bruikbaar campagnepakket uit. We kijken naar de daadwerkelijke output en sturen bij waar het nog niet goed genoeg is.
+
+Wil je de hele workflow visueel uitleggen aan een klant, dan kun je daar met Archify een kaart van maken. Die demo staat in het bonusblok. Hier houden we de aandacht bij het werk dat het team oplevert.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan onze gemaakte workflow door Hermes laten uitvoeren. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 8.4 uit het pakket en geef het aan Codex of Hermes. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Laat Hermes codingwerk aan Codex overdragen. Neem je gekozen resultaat mee.
+
+92. Laat Hermes codingwerk aan Codex overdragen [les N15]
+[NIEUW V16]
+
+Je agent ziet iets dat beter kan aan je website. Dan wil je dat hij daar een duidelijke bouwopdracht van maakt en die doorgeeft aan je codingagent. Dat gaan we nu op een kopie van onze store doen.
+
+Hermes beschrijft het probleem, wijst de juiste bestanden aan en zegt welk resultaat we verwachten. Codex krijgt die opdracht met onze merkcontext. We gebruiken de beschikbare, gecontroleerde delegatieroute. Als die koppeling op jouw computer nog ontbreekt, staat dezelfde overdracht als bestand klaar voor handmatig gebruik.
+
+Ik laat bijvoorbeeld een bundelvergelijking toevoegen op basis van de bevestigde productgegevens. Codex bouwt op een eigen werkversie en levert terug wat gewijzigd is en hoe het is gecontroleerd. Hermes bekijkt daarna of de opdracht echt is opgelost.
+
+Het eindpunt is de werkende preview. We klikken de vergelijking door en bekijken de mobiele versie. Je krijgt beide opdrachten mee: de overdracht naar de builder en de beoordeling van het resultaat. Daarmee kun je dit voor allerlei terugkerende verbeteringen opzetten.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N15 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor coding-overdracht.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Een complete campagne door je team laten maken. Neem je gekozen resultaat mee.
+
+93. Een complete campagne door je team laten maken [les 8.5]
+[BESTAANDE LES · V16]
+
+Nu geven we het team een grotere opdracht. We willen een nieuwe campagne voor ons merk, inclusief content, e-mail en een voorstel voor de store.
+
+De Researcher pakt de actuele input en waar beschikbaar onze Atria-research. De Strategist kiest met ons de richting. Content en Visual maken de creatives. De E-mailagent schrijft de campagneberichten en de E-comagent werkt de aansluiting op de winkel uit.
+
+Je ziet hier waarom we eerst de brand en de workflows hebben gebouwd. De agents weten welk aanbod ze gebruiken en hoe het merk eruit hoort te zien. Ze hoeven niet allemaal een eigen interpretatie te verzinnen.
+
+We openen de campagne als één geheel. Vertellen de ad, de mail en de productpagina hetzelfde verhaal? Past de beeldstijl bij elkaar? Waar nodig sturen we gerichte feedback terug naar de betreffende agent.
+
+Sales en Operations kunnen de opvolging voorbereiden en Analytics zet klaar wat we willen meten. De Orchestrator verzamelt de uitkomst, zodat jij een overzicht hebt van wat er ligt en wat nog aandacht vraagt.
+
+Tijd om dit te bouwen. Ik ga de campagne aan het team geven en de resultaten bekijken. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 8.5. Open het lesbestand in Codex of Hermes, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: De juiste skills en tools aan je agents geven. Neem je gekozen resultaat mee.
+
+94. De juiste skills en tools aan je agents geven [les 8.6]
+[BESTAANDE LES · V16]
+
+Onze agents moeten ook bij het werk kunnen dat ze doen. Research heeft andere tools nodig dan video of klantenservice.
+
+We koppelen de skills uit het pakket aan de juiste profielen. De Contentagent krijgt de content-workflow. De E-mailagent de e-mail-workflow. De E-comagent werkt met de Shopify-opdrachten en Customer Service met onze kennisbank en orderroute.
+
+Daarna richten we de benodigde verbindingen in Hermes in. De Composio-tools die een agent gebruikt moeten daar beschikbaar zijn. Atria koppelen we aan de researchroute. De andere agents kunnen vervolgens met de verzamelde research werken.
+
+We geven iedere specialist een echte proefopdracht. Laat Customer Service een vraag behandelen en Content een nieuwe reel maken. Open wat er wordt opgeleverd. Zo zie je meteen of de juiste tool en input aanwezig zijn.
+
+Je hebt nu de basis. Ik ga de tools bij de juiste agent inrichten, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 8.6 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex of Hermes en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Laat je agent leren van jouw correcties. Neem je gekozen resultaat mee.
+
+95. Laat je agent leren van jouw correcties [les N17]
+[NIEUW V16]
+
+Als jij steeds dezelfde feedback geeft, wil je dat terugzien in de volgende opdracht. We gaan één concrete correctie omzetten naar een betere werkwijze.
+
+Ik pak een contentbrief die te algemeen is. Mijn feedback is bijvoorbeeld dat iedere scène een zichtbaar productmoment nodig heeft en dat de hook het echte bezwaar moet aanspreken. De agent zoekt welke instructie of welk voorbeeld in de skill daarvoor moet veranderen.
+
+Hij maakt een voorstel op een kopie. Daarna geven we de oude en nieuwe versie dezelfde opdracht met dezelfde bronnen. Zo kun je beoordelen of je correctie echt geholpen heeft. We proberen ook een tweede product, zodat de aanpassing niet alleen op ons eerste voorbeeld werkt.
+
+Je hoeft niet iedere voorkeur tot een algemene regel te maken. Soms wil je één specifieke campagne anders. Dan hoort die keuze bij die campagne. In de demo bepaal ik zelf welke feedback in de skill komt en welke in het project blijft. Je houdt zo een verzameling procedures over die beter aansluiten op jouw werk.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N17 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor skillvergelijking.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Verdeel werk slim over modellen en skills. Neem je gekozen resultaat mee.
+
+96. Verdeel werk slim over modellen en skills [les N18]
+[NIEUW V16]
+
+De beste keuze hangt af van het werk dat je wilt afmaken. We gaan daarom een paar echte taken naast elkaar leggen: productgegevens ordenen, een campagnebrief schrijven en een stuk van onze build aanpassen.
+
+Voor iedere taak bewaren we dezelfde input en dezelfde oplevercheck. Daarna vergelijken we de beschikbare modellen en instellingen. We meten hoeveel tijd het kost, wat het gebruik kost en hoeveel correctiewerk nodig is. Een goedkoop eerste antwoord kan alsnog veel tijd kosten als je het drie keer moet herstellen.
+
+We kijken ook naar wat je agent allemaal meekrijgt. Welke skills heeft hij voor deze opdracht nodig? Welke terminaloutput helpt hem verder? Bewaar de volledige logs, maar geef hem de relevante fouten en resultaten in zijn werkcontext. De genoemde RTK- en skillselectie-aanpakken bekijken we als mogelijke hulpmiddelen, met versiecontrole vóór installatie.
+
+Als je computer geschikt is, kun je dezelfde eenvoudige taak ook lokaal proberen. We beloven geen vaste snelheid voor iedere machine. Aan het eind kies je per taak een route op basis van je eigen meting. Die keuzes kun je direct gebruiken voor je dagelijkse Hermes-routines.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N18 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor model-en-contextmeting.csv. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Terugkerend werk op autopilot zetten. Neem je gekozen resultaat mee.
+
+97. Terugkerend werk op autopilot zetten [les 8.7]
+[BESTAANDE LES · V16]
+
+Dit is waar je iedere week tijd mee gaat terugpakken. De workflow werkt. Nu laten we Hermes hem op een vast moment uitvoeren.
+
+Kies een taak die echt terugkomt. Bijvoorbeeld op maandagochtend de volgende contentbatch voorbereiden, of iedere ochtend een overzicht van orders, supportvragen en voorraad maken.
+
+Geef de routine het doel, de input en waar de output moet komen. We doen eerst één volledige run. Open het resultaat en kijk of je hiermee aan je dag kunt beginnen.
+
+Daarna zetten we de planning klaar in Hermes. Spreek af welke taken zelfstandig mogen gebeuren en welke output jij nog wilt beoordelen. Een conceptbatch klaarzetten kan een andere route hebben dan een campagne live zetten.
+
+We kijken ook wat er gebeurt wanneer een bron ontbreekt. Je wilt dan een duidelijke melding en een taak die je kunt herstellen. De routine moet niet elke ochtend hetzelfde halve resultaat blijven afleveren.
+
+Oké, ik ga nu de terugkerende taak eerst uitvoeren en daarna inplannen. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand 8.7 uit het pakket en geef het aan Codex of Hermes. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Laat terugkerende workflows omgaan met fouten. Neem je gekozen resultaat mee.
+
+98. Laat terugkerende workflows omgaan met fouten [les N16]
+[NIEUW V16]
+
+Een workflow kan tien keer goed gaan en de elfde keer mist er een bestand. Dan wil je weten wat er gebeurd is en waar je verder kunt. We gaan dat nu oefenen op onze contentroutine.
+
+De opdracht bestaat uit input lezen, content voorbereiden en het resultaat bewaren. We geven iedere run een eigen nummer. Bij een fout leggen we vast welke stap af is en welke nog niet. Daardoor hoeft de agent bij herstel niet blind de hele opdracht opnieuw te doen.
+
+Ik haal zo expres een oefenasset weg. De agent moet duidelijk aangeven wat hij mist. Daarna zetten we die terug en laten we hem verdergaan. Vervolgens sturen we dezelfde opdracht opnieuw. Hij moet herkennen dat deze batch al is verwerkt en niet nog een tweede identieke batch opleveren.
+
+Dit is ook de plek waar je grenzen voor herhalen bepaalt. Een tijdelijke leesfout kun je nog eens proberen. Een mislukte externe actie moet je eerst controleren: misschien is die actie toch uitgevoerd. In de demo blijft alles lokaal, zodat we fout, herstel en dubbele opdracht zichtbaar kunnen vergelijken.
+
+Tijd om dit echt te doen. Ik pak mijn project erbij en laat je zien welke keuzes ik onderweg maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N16 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor herstelrapport.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+Hierna: Je team onderweg aansturen en je overzicht houden. Neem je gekozen resultaat mee.
+
+99. Je team onderweg aansturen en je overzicht houden [les 8.8]
+[BESTAANDE LES · V16]
+
+Je hoeft niet de hele dag achter hetzelfde scherm te zitten om je team aan te sturen. We koppelen de ondersteunde Telegram-route, zodat je onderweg een opdracht of update kunt bekijken.
+
+De gateway moet daarvoor draaien op de machine waar jouw Hermes-werkplek beschikbaar is. Je kunt daar later een vaste machine voor gebruiken. We richten eerst de route in die bij jouw setup past.
+
+Vraag je team om een dagoverzicht. Wat is opgeleverd? Welke campagne ligt klaar? Welke support- of voorraadkwestie vraagt jouw aandacht? Ik wil een korte update met links naar het werk, zodat je snel weet waar je naar moet kijken.
+
+Daarna geef je een vervolgopdracht. Bijvoorbeeld een tweede versie van de gekozen creative of extra uitleg bij een opvallend cijfer. Het project blijft hetzelfde; jij gebruikt alleen een andere ingang.
+
+We bewaren ook een back-up van de belangrijke project- en profielbestanden en lopen het herstel door. Als je deze werkplek voor een klant bouwt, hoort dat gewoon bij de levering.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan mijn team op afstand een opdracht geven en de output openen. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les 8.8. Open het lesbestand in Codex of Hermes, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Geef vanaf je telefoon een opdracht en ontvang het resultaat. Neem je gekozen resultaat mee.
+
+100. Geef vanaf je telefoon een opdracht en ontvang het resultaat [les N14]
+[NIEUW V16]
+
+Je hoeft niet achter je computer te blijven zitten om je team een opdracht te geven. We gaan zo vanaf de telefoon een contentbrief laten maken en het resultaat terugvragen.
+
+De agent werkt nog steeds op de computer of server waar jouw project staat. We kiezen de beschikbare messagingkoppeling en testen eerst of de opdracht bij het juiste cursusprofiel aankomt. Dan geef ik het merk, de gewenste output en de projectverwijzing mee.
+
+Tijdens de taak wil ik kunnen zien of hij bezig is, klaar is of ergens op wacht. Als er input ontbreekt, stelt hij één gerichte vraag. Na afloop geeft hij een korte samenvatting en een verwijzing naar het gemaakte bestand. We openen dat bestand ook op de computer en kijken of het werkelijk daar staat.
+
+Daarna probeer ik dezelfde opdracht nog een keer met een andere angle. Je ziet hoe weinig je hoeft te typen als je Second Brain en projectcontext al goed staan. Laat wel je uitvoerende computer of server beschikbaar: de telefoon is hier de ingang naar het werk dat daar gebeurt.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Oké, je hebt gezien hoe ik dit aanpak. Pak nu les N14 uit je download en gebruik je eigen project. Daar staan de input, de opdrachten en de check voor telefoon-opdracht.md. Open de AI-coachprompt in Hermes; die helpt je verder op basis van wat jij al hebt gemaakt.
+
+We hebben nu ook het werken op afstand doorlopen. Pak je eigen project erbij voor de afronding van de hoofdroute.
+
+101. Nu jouw merk en jouw team laten draaien [les 11.1]
+[BESTAANDE LES · V16]
+
+Kijk wat we hebben neergezet. Je bent begonnen met een projectmap. Nu heb je een brand, een storefront, de Shopify-route en workflows voor content, advertenties en het werk achter je business.
+
+Je hebt ook gezien hoe je diezelfde skills voor klanten gebruikt. Websites, creatives, support, CRM, trainingen en de andere verdienroutes. Pak de route die bij jou past en maak daar je eerste duidelijke aanbod van.
+
+Je Second Brain en je Librarian houden de kennis bij elkaar. Je hebt gezien hoe je daar nieuwe opdrachten mee voedt, van een campagne tot een klantworkflow. En je hebt mijn Hermes-profielen erbij. Die kunnen verder werken op de context en workflows die je zelf hebt opgebouwd. Begin met één terugkerende taak die goed loopt en breid dat uit.
+
+Doe vooral iets met wat je vandaag hebt gemaakt. Werk je store af. Produceer die eerste campagne. Laat een passende demo aan een potentiële klant zien. Je leert het meeste wanneer je jouw werk echt gebruikt en feedback krijgt.
+
+Alle bestanden staan in het pakket. De GitHub-bonuslessen staan er ook bij als je verder wilt bouwen. Kies je volgende resultaat, geef je team de opdracht en ga ermee aan de slag.
+
+Tijd om dit te bouwen. Ik ga laten zien welke volgende stap ik met dit project zou zetten. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand 11.1 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex of Hermes en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Je hebt je brand en je team opgebouwd. Hierna staan de twaalf GitHub-bonuslessen klaar; kies wat je voor jouw project wilt gebruiken.
+
+102. God’s Eye: een spectaculaire globe zelf uitbreiden [les B7]
+[BESTAANDE LES · V16]
+
+Oké, dit is een heel andere build. God’s Eye View zet openbare werelddata op een globe. Je kunt verschillende lagen bekijken en daar zelf functies omheen bouwen.
+
+Open de beoordeelde lokale versie en kies een beschikbare laag, bijvoorbeeld vliegtuigen of satellieten. Zoom naar een openbare locatie en klik een object aan. Kijk welke informatie de app laat zien en waar die vandaan komt.
+
+Nu geven we Codex een echte uitbreiding: maak een duidelijk infopaneel voor de actieve laag met bron en tijdstip. Laat het paneel meeveranderen wanneer je een andere laag kiest. Je bouwt dus verder op een bestaande app.
+
+De basis heeft een route zonder eigen API-keys. Sommige extra lagen, fotorealistische beelden en voice vragen aanvullende providers. We gebruiken de onderdelen die voor onze demo klaarstaan.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan de globe openen en mijn eigen uitbreiding bouwen. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand B7 uit het pakket en geef het aan Codex of Hermes. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Een interactieve kaart van jouw AI-team. Neem je gekozen resultaat mee.
+
+103. Een interactieve kaart van jouw AI-team [les B8]
+[BESTAANDE LES · V16]
+
+Wil je jouw agentteam laten zien in een voorstel of training? Dan kun je met Archify een interactieve kaart maken van de workflow die we hebben gebouwd.
+
+Geef hem onze campagneopdracht en de rollen die eraan werken. Research, Content, Visual en Review. Zet bij iedere stap de output, zodat de kaart laat zien wat er daadwerkelijk wordt gemaakt.
+
+Open de HTML en klik door de route. Voeg de echte voorbeeldbestanden toe als links. Dan kan een klant vanuit het overzicht naar een creative of concept gaan.
+
+We maken daarna een tweede route voor customer support. De input en de agents veranderen, maar je gebruikt dezelfde werkwijze om het proces uit te leggen.
+
+Tijd om dit te bouwen. Ik ga ons AI-team als interactieve kaart uitwerken. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les B8. Open het lesbestand in Codex of Hermes, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Een productadvertentie maken met HTML en motion. Neem je gekozen resultaat mee.
+
+104. Een productadvertentie maken met HTML en motion [les B9]
+[BESTAANDE LES · V16]
+
+Met Hyperframes kun je een video opbouwen uit HTML, styling en animatie. Dat is interessant voor productads met sterke typografie, beelden en motion.
+
+Pak de angle uit onze advertentiebatch en de gekozen productbeelden. We bouwen een verticale video van vijftien seconden. Eerst de hook, dan het product en de belangrijkste uitleg, en aan het eind ons aanbod.
+
+Laat Codex de scènes maken en open de preview. Kijk naar het tempo. Staat de tekst lang genoeg in beeld? Is het product groot genoeg op een telefoon? Stuur dat bij voordat je exporteert.
+
+Daarna renderen we de MP4 met de beoordeelde Hyperframes-route. Kijk de hele export terug, ook het eerste en laatste frame.
+
+Je hebt nu de basis. Ik ga de advertentie met motion opbouwen en exporteren, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand B9 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex of Hermes en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Eigen voice-over maken en lokaal bewerken. Neem je gekozen resultaat mee.
+
+105. Eigen voice-over maken en lokaal bewerken [les B10]
+[BESTAANDE LES · V16]
+
+Voor onze productvideo hebben we een stem nodig. Je kunt die gewoon zelf inspreken. VoiceStudio is een aanvullende route voor lokaal stemwerk, afhankelijk van de engine en je hardware.
+
+We gebruiken een eigen opname of een stem waarvoor we toestemming hebben. Kies een korte passage uit het productscript en maak eerst een proef. Kijk naar uitspraak, tempo en hoe natuurlijk de zinnen lopen.
+
+Bij merknamen of Engelse woorden stuur je de tekst en instellingen bij. Je wilt dat de voice-over past bij het tempo van de video, dus we leggen hem direct onder onze edit.
+
+Bewaar de instellingen die goed werken. Daarna kun je de rest van het script op dezelfde manier maken en afwerken in je editor.
+
+Oké, ik ga nu de stemopname onder onze productvideo uitproberen. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand B10 uit het pakket en geef het aan Codex of Hermes. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Van zoekdata naar een concrete SEO-opdracht. Neem je gekozen resultaat mee.
+
+106. Van zoekdata naar een concrete SEO-opdracht [les B11]
+[BESTAANDE LES · V16]
+
+OpenSEO is een aanvullende route voor de SEO-research uit onze cursus. We gebruiken hem om zoekvragen en data te vertalen naar pagina's die bij het aanbod passen.
+
+Controleer eerst of de benodigde DataForSEO-toegang en het budget klaarstaan. Daarna geven we ons product, de markt en een paar startonderwerpen mee.
+
+Laat de tool de relevante data ophalen en maak daar een selectie uit. Kijk naar de intentie achter de zoekvraag. Wil iemand iets begrijpen, vergelijken of kopen? Dat bepaalt wat voor pagina we maken.
+
+We kiezen drie kansen en werken de beste uit tot een volledige contentbrief. Die gaat naar onze content-workflow, die de pagina maakt.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan de zoekdata naar een bruikbare contentbrief vertalen. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les B11. Open het lesbestand in Codex of Hermes, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Een interactieve training uit je eigen materiaal maken. Neem je gekozen resultaat mee.
+
+107. Een interactieve training uit je eigen materiaal maken [les B12]
+[BESTAANDE LES · V16]
+
+Je hebt een workshop of bedrijfsdocument. Met OpenMAIC onderzoeken we hoe je daar een interactieve les van maakt.
+
+We pakken een openbaar oefendocument en kiezen wat iemand ermee moet leren. Laat de tool de uitleg, slides en een paar vragen voorbereiden. De beschikbare functies hangen af van de providers die je hebt ingericht.
+
+Open de les alsof je een deelnemer bent. Snap je wat je moet doen? Kloppen de vragen met de bron? Geef expres een fout antwoord en kijk of de uitleg helpt om het wel te begrijpen.
+
+Daarna voegen we een echte opdracht toe. De deelnemer past de uitleg toe op zijn eigen werk en levert iets op. Dat maakt de les bruikbaar in de training-route uit de hoofdcursus.
+
+Tijd om dit te bouwen. Ik ga de interactieve les maken en zelf doorlopen. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand B12 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex of Hermes en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Een kennisbank bouwen met WeKnora. Neem je gekozen resultaat mee.
+
+108. Een kennisbank bouwen met WeKnora [les B1]
+[BESTAANDE LES · V16]
+
+Wil je veel bedrijfsdocumenten doorzoekbaar maken voor een agent? Dan is WeKnora een project om te bekijken. We bouwen hier een aparte kennisbankdemo mee.
+
+Pak de drie oefendocumenten uit het pakket en voeg ze toe aan de beoordeelde omgeving. Stel een vraag over het aanbod en laat het antwoord met de bron zien. Daarna proberen we een vraag die de documenten samen moet gebruiken.
+
+Dat is de ervaring die je voor een bedrijf interessant wilt maken: snel bij de juiste informatie komen en kunnen openen waar het antwoord vandaan komt.
+
+Verander vervolgens één afspraak in een nieuwe documentversie en werk de kennisbank bij. Stel de vraag opnieuw. We willen de actuele informatie terugzien.
+
+Je hebt nu de basis. Ik ga de kennisbank vullen en er vragen aan stellen, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand B1 uit het pakket en geef het aan Codex of Hermes. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Browserwerk uitvoeren met BrowserSkill. Neem je gekozen resultaat mee.
+
+109. Browserwerk uitvoeren met BrowserSkill [les B2]
+[BESTAANDE LES · V16]
+
+Sommige opdrachten gebeuren nog gewoon in een browser. BrowserSkill is een andere route om een agent met die omgeving te laten werken.
+
+We gebruiken eerst de lokale oefenpagina om de verbinding te testen. Daarna kiezen we een toegestane browsertaak die past bij onze contentproductie: informatie uit een productpagina verzamelen voor een campagnebrief.
+
+Laat de agent de pagina openen, het juiste product vinden en de informatie bij elkaar zetten. Kijk mee naar wat hij daadwerkelijk ziet. Je wilt dat hij op de actuele pagina werkt.
+
+Geef daarna een andere productpagina mee en herhaal dezelfde opdracht. Als de opbouw anders is, moet de agent daar mee om kunnen gaan of aangeven wat hij niet kan vinden.
+
+Oké, ik ga nu de browsertaak met de agent uitvoeren. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les B2. Open het lesbestand in Codex of Hermes, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Een workflow visueel aan een klant uitleggen. Neem je gekozen resultaat mee.
+
+110. Een workflow visueel aan een klant uitleggen [les B3]
+[BESTAANDE LES · V16]
+
+Je hebt een sterke workflow gebouwd. Een klant wil soms in één oogopslag zien hoe die in zijn bedrijf past. Daar maken we een helder diagram voor.
+
+We gebruiken diagram-design en pakken onze campagneflow. Van product en research naar creatives, review en publicatievoorbereiding. Zet erbij wat iedere stap oplevert.
+
+Laat de tool daar een eigen HTML- of SVG-visual van maken in de stijl van jouw presentatie. Open hem en loop het proces even door. Kan iemand zien waar de input vandaan komt en waar hij zelf een keuze maakt?
+
+We maken ook een versie voor een dienstverlener. Dezelfde techniek, maar nu van klantvraag naar voorstel en levering. Zo kun je je oplossing in een salesgesprek laten zien.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan onze workflow visueel voor een klant uitwerken. Ik laat je zien welke keuzes ik maak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand B3 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex of Hermes en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Hierna: Sterke beeldreferences naar je eigen product vertalen. Neem je gekozen resultaat mee.
+
+111. Sterke beeldreferences naar je eigen product vertalen [les B4]
+[BESTAANDE LES · V16]
+
+In deze repository staan veel beeldprompts en voorbeelden. We gebruiken hem om een visuele richting te vinden die bij ons product past.
+
+Kies één compositie. Misschien een product met hard licht, een bijzondere camerahoek of een sterke verdeling van kleur en ruimte. Beschrijf wat je eraan wilt gebruiken en geef onze eigen productreference mee.
+
+Daarna schrijven we een eigen prompt met onze brand, verpakking en gewenste toepassing. De generator die in jouw werkplek beschikbaar is maakt het beeld. De repository zelf is de inspiratiebron.
+
+Zet het resultaat naast de originele productreference. Klopt het product? Werkt de compositie voor een ad of voor de homepage? Geef één duidelijke correctie en maak de volgende versie.
+
+Tijd om dit te bouwen. Ik ga een beeldreference naar ons eigen product vertalen. Kijk even mee; ik vertel onderweg waarom ik iets doe.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Wil je dit voor je eigen merk doen? Pak lesbestand B4 uit het pakket en geef het aan Codex of Hermes. De inputs, skills en werkwijze staan erbij. Zeg gewoon: jij bent mijn AI-coach, help me dit voor mijn eigen situatie te maken. Dan kun je meteen zelf verder.
+
+Hierna: Een forecast bouwen en naast de werkelijkheid leggen. Neem je gekozen resultaat mee.
+
+112. Een forecast bouwen en naast de werkelijkheid leggen [les B5]
+[BESTAANDE LES · V16]
+
+Voorraad en planning worden interessanter als je een verwachting kunt maken van wat er gaat gebeuren. In deze educatieve demo gebruiken we TimesFM op een oefenreeks.
+
+We houden de laatste veertien dagen apart. Het model krijgt alleen de eerdere gegevens en voorspelt de volgende periode. Daarna leggen we de voorspelling naast de waarden die we hebben achtergehouden.
+
+We maken ook een simpele vergelijking: volgende week lijkt op deze week. Dan kun je zien of het model voor deze reeks echt iets toevoegt.
+
+Laat Codex de twee voorspellingen in een grafiek zetten en de fout uitrekenen. Kijk waar de verschillen zitten. Als de omstandigheden ineens veranderen, kan de verwachting ernaast zitten.
+
+De exacte modelgewichten hebben eigen gebruiksrechten. De vastgelegde TimesFM 3-route is hier een niet-commerciële oefening. Voor een klantoplossing kies je eerst een route waarvan de licentie dat gebruik toestaat.
+
+Je hebt nu de basis. Ik ga de voorspellingen naast de achtergehouden cijfers leggen, zoals ik dat zelf voor dit project zou doen.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Alles om hier zelf mee verder te gaan staat bij les B5. Open het lesbestand in Codex of Hermes, geef jouw eigen product of dienst mee en laat je begeleiden. Je hoeft mijn voorbeeld niet precies na te bouwen. Gebruik de skills en workflow voor het resultaat dat jij nodig hebt.
+
+Hierna: Een repository gericht laten onderzoeken. Neem je gekozen resultaat mee.
+
+113. Een repository gericht laten onderzoeken [les B6]
+[BESTAANDE LES · V16]
+
+Bij grotere GitHub-projecten wil je de code achter een bevinding kunnen begrijpen. De security-audit-skill van Cloudflare kan helpen bij die bronreview.
+
+We beoordelen deze skill eerst zelf volgens dezelfde installatieroute. Daarna geven we hem een concrete bevinding uit het rapport van een gekozen project.
+
+Laat de agent naar de relevante code kijken. Wat doet die functie? Welke input komt erin en welke bestanden of netwerkverbindingen gebruikt hij? Zo krijg je een onderbouwde uitleg van wat er aan de hand is.
+
+Dat vergelijken we met de oorspronkelijke scan. Als een melding verklaarbaar is, schrijven we de reden en begrenzing op. Is iets nog onduidelijk, dan blijft dat open.
+
+Oké, ik ga nu de code achter de bevinding onderzoeken. Kijk mee hoe ik dit zelf aanpak.
+
+[FREESTYLE-DEMO — pauzeer teleprompter]
+
+Nu jij. Het lesbestand B6 staat in je downloadpakket. Daar vind je de opdracht, de prompts en welke skills je hiervoor gebruikt. Open dat bestand met Codex of Hermes en zeg: help mij dit voor mijn eigen business te bouwen. Laat hem je vragen stellen en pak het samen stap voor stap aan.
+
+Je hebt alle bonusprojecten bij elkaar. Kies de toepassing die jouw eigen build verder brengt en ga ermee aan het werk.

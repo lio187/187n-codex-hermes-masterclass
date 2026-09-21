@@ -1,0 +1,4 @@
+id,bedrijf,domein,signaal,bron,status
+TEST-L01,Voorbeeldwinkel A,shop-a.example,zoekt supportmedewerker,fixture:vacature-01,TESTDATA
+TEST-L02,Voorbeeldwinkel B,shop-b.example,geen aantoonbaar signaal,fixture:homepage-02,TESTDATA
+TEST-L03,Voorbeeldwinkel A,shop-a.example,eerdere afmelding,fixture:historie-03,TESTDATA

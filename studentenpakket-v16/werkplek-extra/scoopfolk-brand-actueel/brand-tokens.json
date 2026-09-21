@@ -1,0 +1,21 @@
+{
+  "brand": "Scoopfolk",
+  "version": "2.0",
+  "reference": "BelliWelli-inspired art direction, distinct Scoopfolk assets",
+  "colors": {
+    "teal": "#075363",
+    "pink": "#F72B89",
+    "sky": "#D9F0F6",
+    "cream": "#FFF9F0",
+    "blush": "#FFE4EE"
+  },
+  "font": {
+    "heading": "Georgia, Times New Roman, serif",
+    "body": "Arial, Helvetica, sans-serif"
+  },
+  "wordmark": "Georgia Bold, custom spacing, outlined geometry; font files not bundled",
+  "radius": {
+    "button": "999px",
+    "card": "24px"
+  }
+}

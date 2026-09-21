@@ -1,0 +1,9 @@
+We gaan de klantaanvraag nu verder brengen naar een voorstel en een mogelijke afspraak. Dat is een workflow die je voor veel dienstverleners kunt gebruiken.
+
+De agent leest het bevestigde aanbod en bepaalt welke informatie nog ontbreekt. Vervolgens maakt hij een voorstel met de gekozen onderdelen en de bijbehorende prijsberekening. We gebruiken vaste voorbeeldprijzen uit het oefenbestand, zodat je de berekening kunt nalopen.
+
+Daarna kijkt hij welke afspraak nodig is en welke beschikbare momenten hij daadwerkelijk kan vinden. Zonder agendatoegang maakt hij een verzoek om beschikbaarheid. Hij verzint dus geen vrij tijdslot. Met een aangesloten oefenagenda kunnen we de voorgestelde momenten controleren.
+
+We lopen de hele route door en wijzigen daarna één onderdeel van de aanvraag. Het voorstel moet mee veranderen. Verzending en een definitieve boeking zijn aparte acties waarvoor de klant of operator toestemming geeft. Aan het eind heb je de volledige voorbereiding bij elkaar, inclusief het punt waarop iemand de beslissing neemt.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.

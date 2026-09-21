@@ -1,0 +1,11 @@
+In deze map zitten de skills waarmee we vandaag gaan werken. Zie een skill als een uitgewerkte werkwijze die je agent kan volgen. Voor een webshop geef je andere instructies mee dan voor een video-edit of een salescampagne.
+
+We pakken de website-workflow. Die krijgt onze merkkeuze, de reference en het resultaat dat we willen bouwen. Vervolgens laat je Codex het werk uitvoeren. Je ziet meteen waarom die context belangrijk is: dezelfde skill kan een supplementenmerk, een kledingstore of een website voor een dienstverlener helpen bouwen.
+
+We combineren dat met de visual-workflow voor de beelden en de brand-workflow voor de stijl. Jij hoeft niet bij iedere opdracht opnieuw alle regels te bedenken. Je gebruikt de basis die al in het pakket zit en stuurt bij op jouw merk.
+
+Laat Codex ook in de browser kijken naar wat hij heeft gemaakt. Een screenshot van jouw reference en de echte preview naast elkaar geven veel betere feedback dan alleen zeggen dat het mooier moet.
+
+Wil je een handeling bewaren, neem dan je werkwijze op en laat die later omzetten naar een eigen skill. Ook remote werken komt terug wanneer we Hermes inzetten. En voor de losse GitHub-builds, zoals God’s Eye, staat er een compleet bonusblok klaar.
+
+Je hebt nu de basis. Ik ga de skills erbij pakken en ze aan het werk zetten voor onze store, zoals ik dat zelf voor dit project zou doen.

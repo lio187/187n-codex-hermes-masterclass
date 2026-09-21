@@ -1,0 +1,9 @@
+Stel: je hebt je aanbod veranderd. Je verkoopt nu een ander pakket, maar je agent pakt nog een oude prijs uit een gesprek. Dan kun je een mooie website krijgen die gewoon het verkeerde aanbod verkoopt.
+
+We gaan dat bewust uitlokken met onze oefenbestanden. Er staat een oude keuze in, een nieuw besluit en nog een bron die iets anders zegt. De Librarian moet uitzoeken wat bevestigd is, wat vervangen is en waar hij nog een vraag over moet stellen.
+
+Een nieuwere datum is op zichzelf niet genoeg. Als ik gisteren over een mogelijke prijs brainstormde, heb ik daarmee de afgesproken prijs van vorige week nog niet veranderd. Daarom bewaren we ook de status van een besluit en de bron waarop het gebaseerd is.
+
+Na de update starten we een nieuw gesprek. Ik laat een aanbodtekst maken en kijk welke versie daarin terechtkomt. Het oude document houden we als historie. Zo kun je terugzien waarom iets veranderd is en voorkom je dat dezelfde discussie bij iedere nieuwe opdracht opnieuw begint.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.

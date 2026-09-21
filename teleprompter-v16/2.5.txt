@@ -1,0 +1,11 @@
+Je build ziet er goed uit. Nu wil je hem kunnen delen met een klant of gebruiken voor je bedrijf. We zetten de code in GitHub en maken een preview op de gekozen hosting.
+
+Codex kan je helpen om die release klaar te zetten. De broncode krijgt een duidelijke versie en je preview krijgt een link. Zo kun je feedback op de echte website verzamelen en later terug naar een vorige versie als je dat nodig hebt.
+
+Voor onze Shopify-store gaat de uiteindelijke winkel via Shopify. Een dienstenwebsite of klantportal kan op een andere hosting draaien. Daar kijken we ook naar login en opslag als die onderdeel zijn van de build.
+
+Stel dat jouw klant in een portal zijn contentpakket bekijkt. Dan moet zijn goedkeuring ook echt opgeslagen worden en alleen zijn eigen project zichtbaar zijn. Dat werk je uit als onderdeel van het product dat je verkoopt.
+
+We lopen de belangrijkste klantreis door op de preview. Homepage naar aanbod, product naar winkelmand of portal naar contentreview. Je ziet dan of jouw complete build klaar is om te laten zien.
+
+Oké, ik ga nu de build als deelbare preview klaarzetten. Kijk mee hoe ik dit zelf aanpak.

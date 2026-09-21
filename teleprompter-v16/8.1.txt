@@ -1,0 +1,9 @@
+Je eerste build staat. Nu zetten we Hermes ernaast, zodat je vanaf het begin met je eigen agents en je Second Brain kunt werken.
+
+Ga naar de officiële Hermes-pagina van Nous Research en open de download voor Hermes Desktop. Installeer de passende versie voor jouw systeem via de gecontroleerde route uit het lesbestand. Open de app en kies je beschikbare modelverbinding.
+
+Daarna wijzen we dezelfde projectmap aan die je net in Codex hebt gebruikt. Ik geef Hermes één concrete opdracht: bekijk de huidige projectbestanden, leg vast welke brand we bouwen en wijs aan waar de eerste preview staat. Hij moet de bestanden werkelijk lezen en aangeven wat nog ontbreekt.
+
+Je krijgt de profielen en skills van mij mee. We beginnen met de Librarian en bouwen je kennisomgeving op. De gespecialiseerde agents zetten we verderop in voor campagnes, klantwerk en terugkerende opdrachten. Zo kun je vandaag al leren hoe Codex en Hermes samen op hetzelfde project werken.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.

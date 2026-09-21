@@ -1,0 +1,13 @@
+:root {
+  --sf-teal: #075363;
+  --sf-pink: #F72B89;
+  --sf-sky: #D9F0F6;
+  --sf-cream: #FFF9F0;
+  --sf-blush: #FFE4EE;
+  --sf-black: #000000;
+  --sf-white: #FFFFFF;
+  --sf-font-body: Arial, Helvetica, sans-serif;
+  --sf-font-display: Georgia, "Times New Roman", serif;
+  --sf-radius-card: 24px;
+  --sf-radius-button: 999px;
+}

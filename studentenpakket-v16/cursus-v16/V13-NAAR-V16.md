@@ -1,0 +1,117 @@
+# V13 en V15 behouden
+
+Alle vaste lescodes uit V15 bestaan in V16. [Oorspronkelijke V13-mapping](../cursus-v15/V13-NAAR-V15.md). De 34 nieuwe codes zijn N01 tot en met N34. De twee afgewezen voorstellen (klantpresentatie en visuele review) zijn niet toegevoegd.
+
+- 0.1 → volgorde 1: We bouwen jouw brand. Van A tot Z.
+- 0.2 → volgorde 2: Codex installeren en jouw project openen
+- 0.3 → volgorde 3: Alles wat je krijgt meteen kunnen gebruiken
+- 0.4 → volgorde 4: Codex jouw business en jouw stem leren
+- 0.5 → volgorde 5: Een grote build sturen zonder alles opnieuw uit te leggen
+- 0.6 → volgorde 6: Van jouw idee naar een dikke eerste build
+- 8.1 → volgorde 7: Hermes installeren en je eerste projectopdracht uitvoeren
+- N01 → volgorde 8: Bouw jouw Second Brain met Hermes en Obsidian
+- N02 → volgorde 9: Zet jouw Librarian-agent aan het werk
+- 0.8 → volgorde 10: Mijn skills gebruiken om complete opdrachten te bouwen
+- 1.1 → volgorde 11: Uitzoeken waarom mensen jouw product willen kopen
+- N03 → volgorde 12: Van YouTube-video naar bruikbare businesskennis
+- 1.2 → volgorde 13: Met Atria de advertenties van concurrenten verzamelen
+- N25 → volgorde 14: Bouw een doorzoekbare advertentiebibliotheek
+- 1.3 → volgorde 15: Een aanbod maken waar de juiste klant op aangaat
+- N09 → volgorde 16: Van een vaag idee naar een complete bouwopdracht
+- N26 → volgorde 17: Haal testbare angles uit concurrentieonderzoek
+- 1.4 → volgorde 18: Eén merkverhaal voor alles wat we maken
+- N05 → volgorde 19: Laat je Librarian verouderde informatie oplossen
+- N06 → volgorde 20: Laat Codex en Hermes met dezelfde kennis bouwen
+- 3.1 → volgorde 21: Het aanbod en de bestelopties in je store uitwerken
+- 5.1 → volgorde 22: Een brandbook waar je hele team mee kan werken
+- 2.1 → volgorde 23: References kiezen voor een webshop die eruit springt
+- 2.2 → volgorde 24: Jouw design vastleggen zodat de hele store klopt
+- 5.2 → volgorde 25: Productbeelden en characters die bij jouw merk blijven passen
+- 2.3 → volgorde 26: De complete storefront zelf bouwen met Codex
+- N10 → volgorde 27: Maak een grote build over meerdere sessies af
+- N11 → volgorde 28: Laat research, bouwen en review tegelijk doorpakken
+- 2.4 → volgorde 29: Een premium productpagina met scrollanimatie en 3D
+- 2.5 → volgorde 30: Je website online zetten en als echt product opleveren
+- 3.2 → volgorde 31: Jouw eigen ontwerp omzetten naar Shopify Liquid
+- 3.2a → volgorde 32: Sections bouwen die je zelf kunt aanpassen
+- 3.2b → volgorde 33: Van product kiezen naar een echte bestelling
+- 3.6 → volgorde 34: Je store verbeteren met echte experimenten
+- 5.3 → volgorde 35: Een video-workflow bouwen die jouw feedback gebruikt
+- N19 → volgorde 36: Van ruwe opname naar een compleet montageplan
+- N20 → volgorde 37: Laat je agent een volledige videosectie monteren
+- N21 → volgorde 38: Maak van losse secties één complete video
+- N22 → volgorde 39: Haal meerdere sterke clips uit één lange opname
+- N23 → volgorde 40: Analyseer je video en maak een betere tweede versie
+- 5.4 → volgorde 41: Je productvideo afmaken in Palmier Pro en DaVinci Resolve
+- 5.5 → volgorde 42: Een contentbatch voor je merk maken
+- N12 → volgorde 43: Voer een browserworkflow van begin tot eind uit
+- 5.6 → volgorde 44: Productfotografie en UGC als complete klantopdracht
+- 5.7 → volgorde 45: Van Atria-research naar je eigen advertentiebatch
+- N27 → volgorde 46: Maak drie uitvoeringen van één campagneconcept
+- N08 → volgorde 47: Gebruik je Second Brain voor je volgende campagne
+- 5.8 → volgorde 48: Van losse content naar een bureau met maandpakketten
+- 0.7 → volgorde 49: Al jouw tools verbinden via Composio
+- 3.3 → volgorde 50: Vier e-mailflows die voor jouw merk blijven werken
+- 3.4 → volgorde 51: Customer support en operations voor je webshop
+- 3.5 → volgorde 52: Weten wat je merk echt verdient
+- N13 → volgorde 53: Bouw een ochtendbriefing voor jouw business
+- N28 → volgorde 54: Van goedgekeurde creatives naar een complete campagne
+- N29 → volgorde 55: Laat je Media Buyer de volgende tests voorstellen
+- 6.1 → volgorde 56: Zoekvragen vinden die bij jouw aanbod passen
+- 6.2 → volgorde 57: Een SEO-pagina maken waar een bezoeker iets aan heeft
+- 6.3 → volgorde 58: SEO als terugkerende workflow en maanddienst
+- 4.1 → volgorde 59: Jouw beste workflow als eigen skill bewaren
+- N24 → volgorde 60: Bouw een editor die jouw stijl kan herhalen
+- 4.2 → volgorde 61: Een goede tutorial omzetten naar een workflow die je kunt gebruiken
+- 4.3 → volgorde 62: Een complete opdracht laten afleveren
+- 4.4 → volgorde 63: Goede GitHub-projecten aan jouw werkplek toevoegen
+- 4.5 → volgorde 64: Jouw skills en agentpakket als product verkopen
+- 9.1 → volgorde 65: Meer werk doen met dezelfde gebruiksruimte
+- 9.2 → volgorde 66: DeepAstra en DeepSeek voor gericht uitvoerwerk
+- 9.3 → volgorde 67: Kiezen op kwaliteit, tijd en echte kosten
+- 10.1 → volgorde 68: Kiezen welk werk jij gaat verkopen
+- 10.2 → volgorde 69: Uit een klantgesprek halen wat je moet bouwen
+- N04 → volgorde 70: Van klantgesprek naar bedrijfskennis
+- N07 → volgorde 71: Geef ieder klantproject zijn eigen Second Brain
+- 10.3 → volgorde 72: Een demo en voorstel waar de klant op kan beslissen
+- 10.4 → volgorde 73: Een prijs bepalen waar je goed werk voor kunt leveren
+- 7.1 → volgorde 74: Bedrijven vinden die jouw werk kunnen gebruiken
+- N30 → volgorde 75: Vind zakelijke kansen in echte gesprekken
+- 7.2 → volgorde 76: De beste kansen kiezen en je CRM gebruiken
+- 7.3 → volgorde 77: Een gesprek starten met een concrete demo
+- 7.4 → volgorde 78: Je sales-workflow verbeteren met echte reacties
+- 2.6 → volgorde 79: Van jouw workflow naar een eigen micro-SaaS
+- N31 → volgorde 80: Van gevonden probleem naar een werkend prototype
+- 10.6 → volgorde 81: Een CRM-workflow bouwen die opvolging uit handen neemt
+- 10.7 → volgorde 82: Een supportbot bouwen met de kennis van het bedrijf
+- N32 → volgorde 83: Bouw een AI-assistent die klanten via chat gebruiken
+- N33 → volgorde 84: Bouw een voorstel- en afspraakworkflow
+- 10.8 → volgorde 85: Bedrijven trainen met hun eigen werk als lesmateriaal
+- 10.9 → volgorde 86: White-label bouwen voor andere bureaus
+- 10.5 → volgorde 87: Opleveren zodat de klant er echt mee verder kan
+- N34 → volgorde 88: Lever een compleet agentpakket over aan een klant
+- 8.2 → volgorde 89: Jouw vijftien 187N-agentprofielen inzetten
+- 8.3 → volgorde 90: Je agents laten doorwerken met dezelfde projectkennis
+- 8.4 → volgorde 91: Van jouw Codex-build naar een draaiende Hermes-workflow
+- N15 → volgorde 92: Laat Hermes codingwerk aan Codex overdragen
+- 8.5 → volgorde 93: Een complete campagne door je team laten maken
+- 8.6 → volgorde 94: De juiste skills en tools aan je agents geven
+- N17 → volgorde 95: Laat je agent leren van jouw correcties
+- N18 → volgorde 96: Verdeel werk slim over modellen en skills
+- 8.7 → volgorde 97: Terugkerend werk op autopilot zetten
+- N16 → volgorde 98: Laat terugkerende workflows omgaan met fouten
+- 8.8 → volgorde 99: Je team onderweg aansturen en je overzicht houden
+- N14 → volgorde 100: Geef vanaf je telefoon een opdracht en ontvang het resultaat
+- 11.1 → volgorde 101: Nu jouw merk en jouw team laten draaien
+- B7 → volgorde 102: God’s Eye: een spectaculaire globe zelf uitbreiden
+- B8 → volgorde 103: Een interactieve kaart van jouw AI-team
+- B9 → volgorde 104: Een productadvertentie maken met HTML en motion
+- B10 → volgorde 105: Eigen voice-over maken en lokaal bewerken
+- B11 → volgorde 106: Van zoekdata naar een concrete SEO-opdracht
+- B12 → volgorde 107: Een interactieve training uit je eigen materiaal maken
+- B1 → volgorde 108: Een kennisbank bouwen met WeKnora
+- B2 → volgorde 109: Browserwerk uitvoeren met BrowserSkill
+- B3 → volgorde 110: Een workflow visueel aan een klant uitleggen
+- B4 → volgorde 111: Sterke beeldreferences naar je eigen product vertalen
+- B5 → volgorde 112: Een forecast bouwen en naast de werkelijkheid leggen
+- B6 → volgorde 113: Een repository gericht laten onderzoeken

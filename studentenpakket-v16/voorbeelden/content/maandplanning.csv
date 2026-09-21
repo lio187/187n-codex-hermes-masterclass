@@ -1,0 +1,13 @@
+week,item,formaat,onderwerp,hook,bron,goedkeurder,status
+1,C01,reelscript,Eerste levering,Bekijk eerste levering.,voorbeelden/oefenmerk.md,oefenmerkeigenaar,CONCEPT_REVIEW_NODIG
+1,C02,carrousel,Vervolgcyclus,Bekijk vervolgcyclus.,voorbeelden/oefenmerk.md,oefenmerkeigenaar,CONCEPT_REVIEW_NODIG
+1,C03,caption,Starter en refill vergelijken,Bekijk starter en refill vergelijken.,voorbeelden/oefenmerk.md,oefenmerkeigenaar,CONCEPT_REVIEW_NODIG
+2,C04,reelscript,Wat blijft gelijk?,Bekijk wat blijft gelijk?.,voorbeelden/oefenmerk.md,oefenmerkeigenaar,CONCEPT_REVIEW_NODIG
+2,C05,carrousel,Waar vind je het interval?,Bekijk waar vind je het interval?.,voorbeelden/oefenmerk.md,oefenmerkeigenaar,CONCEPT_REVIEW_NODIG
+2,C06,caption,Welke vraag stel je vóór aankoop?,Bekijk welke vraag stel je vóór aankoop?.,voorbeelden/oefenmerk.md,oefenmerkeigenaar,CONCEPT_REVIEW_NODIG
+3,C07,reelscript,Productreference controleren,Bekijk productreference controleren.,voorbeelden/oefenmerk.md,oefenmerkeigenaar,CONCEPT_REVIEW_NODIG
+3,C08,carrousel,Waarom staat er concept op?,Bekijk waarom staat er concept op?.,voorbeelden/oefenmerk.md,oefenmerkeigenaar,CONCEPT_REVIEW_NODIG
+3,C09,caption,Van briefing naar beeld,Bekijk van briefing naar beeld.,voorbeelden/oefenmerk.md,oefenmerkeigenaar,CONCEPT_REVIEW_NODIG
+4,C10,reelscript,Uitleg naast bron,Bekijk uitleg naast bron.,voorbeelden/oefenmerk.md,oefenmerkeigenaar,CONCEPT_REVIEW_NODIG
+4,C11,carrousel,Wat moet een medewerker bevestigen?,Bekijk wat moet een medewerker bevestigen?.,voorbeelden/oefenmerk.md,oefenmerkeigenaar,CONCEPT_REVIEW_NODIG
+4,C12,caption,De oefencase samengevat,Bekijk de oefencase samengevat.,voorbeelden/oefenmerk.md,oefenmerkeigenaar,CONCEPT_REVIEW_NODIG

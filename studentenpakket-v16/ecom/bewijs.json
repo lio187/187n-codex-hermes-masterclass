@@ -1,0 +1,237 @@
+{
+  "store": "",
+  "environment": "",
+  "checked_at": "",
+  "cases": {
+    "A01": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "A02": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "P01": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "P02": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "P03": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "C01": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "C02": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "C03": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "C04": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "C05": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "C06": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "C07": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "S01": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "S02": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "S03": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "S04": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "S05": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "S06": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "S07": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "S08": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "S09": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "R01": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "R02": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "I01": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "I02": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "I03": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "F01": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "F02": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "M01": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "M02": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "M03": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "M04": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "M05": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "M06": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "M07": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "U01": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "U02": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "U03": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "D01": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "D02": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "D03": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "T01": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "T02": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "T03": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "O01": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    },
+    "O02": {
+      "status": "NIET_UITGEVOERD",
+      "evidence_id": "",
+      "observation": ""
+    }
+  }
+}

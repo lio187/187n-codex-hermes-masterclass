@@ -1,0 +1,9 @@
+Sommig werk zit nog gewoon in een browser. Een klantportaal, een contentplanning of een bedrijfsapp waar je telkens dezelfde handelingen doet. We gaan één complete workflow opnemen en laten uitvoeren.
+
+Ik kies een concrete opdracht: zet een goedgekeurde contentbatch klaar in een oefenomgeving. Per item hebben we de tekst, het bestand en de gewenste datum. De agent moet die gegevens koppelen aan het juiste item en de status teruggeven. Je ziet het werk in de browser gebeuren.
+
+We controleren daarna het resultaat vanuit de app. Staat de juiste afbeelding bij de juiste copy? Klopt de datum? Is het concept ook echt opgeslagen? Als een veld of scherm anders werkt, laten we de agent dat verschil benoemen voordat hij verdergaat.
+
+Die stappen leggen we vast als werkwijze voor de volgende batch. De les bevat ook een lokale oefenroute als je nog geen geschikt account hebt. Daarmee kun je het volledige proces leren. Voor je eigen bedrijfsapp doe je daarna dezelfde controle met de daadwerkelijk beschikbare bediening.
+
+We gaan naar mijn scherm. Ik loop de opdracht door en laat je het resultaat zien.

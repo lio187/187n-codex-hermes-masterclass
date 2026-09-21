@@ -1,0 +1,28 @@
+{
+  "brand": "Scoopfolk",
+  "version": "1.0",
+  "colors": {
+    "plum": "#281733",
+    "pink": "#FF2787",
+    "purple": "#7042E8",
+    "lilac": "#E7DBFF",
+    "cream": "#FFF9F3"
+  },
+  "font": {
+    "heading": "Arial Rounded MT Bold, Arial, sans-serif",
+    "body": "Arial, Helvetica, sans-serif"
+  },
+  "radius": {
+    "button": "999px",
+    "card": "24px"
+  },
+  "spacing": [
+    8,
+    16,
+    24,
+    32,
+    48,
+    64,
+    96
+  ]
+}

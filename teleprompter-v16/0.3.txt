@@ -1,0 +1,9 @@
+Dit is het pakket waar we vandaag mee werken. Je hoeft niet zelf op zoek naar vijftien losse agentprompts of ergens een halve workflow bij elkaar te verzamelen. De profielen, skills en voorbeelden zitten erbij.
+
+Ik laat je even zien waar de belangrijke onderdelen staan. Bij de merkcase vind je Scoopfolk: het brandbook, de logo's en de research. Bij de skills staan de workflows waarmee we websites, content, e-mail en de rest gaan maken. Hermes installeren we direct na de eerste build. We beginnen met je Librarian; verderop zetten we de gespecialiseerde profielen aan het werk.
+
+Je werkt in je eigen projectmap. Daar zet je straks ook je eigen productfoto's, je aanbod en voorbeelden van jouw stijl in. Heb je al een bedrijf? Gebruik dat. Begin je vanaf nul? Bouw eerst met de cursuscase mee en vervang daarna het merk door je eigen idee.
+
+Bij elke les staat de prompt die ik gebruik en wat je daarvoor nodig hebt. Je hoeft die prompt niet blind over te typen. Lees hem, vul jouw gegevens in en geef hem aan Codex. De output bewaren we bij dit project, zodat we die in de volgende stap kunnen gebruiken.
+
+Tijd om dit te bouwen. Ik ga door de bestanden lopen die jij straks zelf gaat gebruiken. Kijk even mee; ik vertel onderweg waarom ik iets doe.

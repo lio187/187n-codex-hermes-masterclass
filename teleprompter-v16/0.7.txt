@@ -1,0 +1,11 @@
+Tot nu toe werken we met bestanden in ons project. Nu geven we Codex toegang tot de tools waar jouw bedrijf al op draait. Je mail, je documenten, je CRM, je planning. Dat verbinden we via Composio.
+
+Je maakt één MCP-verbinding met Composio Connect. Vanuit die verbinding kun je de ondersteunde apps koppelen en de acties gebruiken die daar beschikbaar zijn. Je hoeft dus niet voor iedere losse workflow weer zelf een compleet integratieproject te bouwen.
+
+We beginnen met de tools die we vandaag nodig hebben. Ik laat de agent uitzoeken welke acties beschikbaar zijn voor onze campagne. Daarna koppelen we de accounts die daarbij horen.
+
+En dan geven we hem een opdracht waar je wat aan hebt: pak de gekozen campagnebrief, maak de taken voor de contentproductie en zet de e-mail klaar die erbij hoort. De ene tool levert de informatie, de andere krijgt de taak en de derde het concept. Jij stuurt dat vanuit je project aan.
+
+Later gebruiken onze Hermes-agents diezelfde werkwijze voor terugkerend werk. De specifieke verbinding en toegang richten we daar ook in. Atria krijgt zijn eigen MCP-koppeling voor de advertenties. Die pakken we bij de research.
+
+Tijd om dit te bouwen. Ik ga mijn tools verbinden en de campagneopdracht uitvoeren. Kijk even mee; ik vertel onderweg waarom ik iets doe.

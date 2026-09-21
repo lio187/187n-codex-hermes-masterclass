@@ -1,0 +1,1254 @@
+[
+  {
+    "kind": "design-skill",
+    "name": "21st-ai",
+    "source_sha256": "bc928af4cd81a09714b613ac173cd93dc5ab42e02e4d0d2274a97d7f28f034f1",
+    "export": "design-skills/21st-ai/SKILL.md",
+    "export_sha256": "bc928af4cd81a09714b613ac173cd93dc5ab42e02e4d0d2274a97d7f28f034f1",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "21st-cli-use",
+    "source_sha256": "c888765e06407a937f8b86fe6323343488f1181508d11401823cfa9dfe4b8bb7",
+    "export": "design-skills/21st-cli-use/SKILL.md",
+    "export_sha256": "c888765e06407a937f8b86fe6323343488f1181508d11401823cfa9dfe4b8bb7",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "21st-design-sync",
+    "source_sha256": "65cc94c842e066f69d8914af3dd94923545418b28e1fb23059473bff52bd0fe4",
+    "export": "design-skills/21st-design-sync/SKILL.md",
+    "export_sha256": "65cc94c842e066f69d8914af3dd94923545418b28e1fb23059473bff52bd0fe4",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "21st-registry",
+    "source_sha256": "b1dd7ca00383b73d89bfa6b26e8bcd9724c8f03c83b2c66abd70bdae18a09b74",
+    "export": "source-only/21st-registry/SKILL.md",
+    "export_sha256": "b1dd7ca00383b73d89bfa6b26e8bcd9724c8f03c83b2c66abd70bdae18a09b74",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "21st-ui-build",
+    "source_sha256": "746095b0c07ea46064c53a88011fc46444f569e27f7f8cd5e80116ade497a51e",
+    "export": "design-skills/21st-ui-build/SKILL.md",
+    "export_sha256": "746095b0c07ea46064c53a88011fc46444f569e27f7f8cd5e80116ade497a51e",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "21st-ui-explore",
+    "source_sha256": "4482d001cfe8992f55cd52968013a522824fd4ec020ee4e5915a9a902b0c63ff",
+    "export": "design-skills/21st-ui-explore/SKILL.md",
+    "export_sha256": "4482d001cfe8992f55cd52968013a522824fd4ec020ee4e5915a9a902b0c63ff",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "21st-ui-review",
+    "source_sha256": "78939e830bceb64b8e2d32f831b80472008d5d2e50b31c8a8f38af5e5a015088",
+    "export": "design-skills/21st-ui-review/SKILL.md",
+    "export_sha256": "78939e830bceb64b8e2d32f831b80472008d5d2e50b31c8a8f38af5e5a015088",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "frontend-design",
+    "source_sha256": "2b494d96cba43a5ada83a9cdff6858d0f478c4fe3fcd40f3be83a057dadbe238",
+    "export": "design-skills/frontend-design/SKILL.md",
+    "export_sha256": "6385ea11e830d41cdd4fd630271cde048bbe3ca0469b1047040a5e6c4640e7cb",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": [
+      "https://github.com/anthropics/skills"
+    ]
+  },
+  {
+    "kind": "design-skill",
+    "name": "frontend-design",
+    "source_sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+    "export": "design-skills/frontend-design/LICENSE.txt",
+    "export_sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "frontend-skill",
+    "source_sha256": "53237e9bbc8b0e9187af437f56893306e267768e38bda4fd1e91281e7a3bb5ad",
+    "export": "design-skills/frontend-skill/SKILL.md",
+    "export_sha256": "f2cbd8931a28c973e6edc1f8859e72f963957c425faa723437979e183575fe7f",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": [
+      "https://github.com/openai/skills"
+    ]
+  },
+  {
+    "kind": "design-skill",
+    "name": "design-kit",
+    "source_sha256": "dc67a35dec31ae60fad02fbb4820ee447c7d3ae6011677be60c73a88cb2108f0",
+    "export": "design-skills/design-kit/SKILL.md",
+    "export_sha256": "530bdfc467f3d60f68c53755b431b30a2e5ae768735ca932fec16e728a5bf695",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "design-brief",
+    "source_sha256": "ad5fe6da79a23c9c21649e2319269006d6a7692fc2ea8c075f64b243d9e750a2",
+    "export": "source-only/design-brief/SKILL.md",
+    "export_sha256": "f26e59f957a768c2346796322ead34e40958266052c0bd9099ae2aea7ff44dbd",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "design-consultation",
+    "source_sha256": "4a2ff9baace316c612625fb448f74288759e46c4fed326a69b69d2560b59eafb",
+    "export": "design-skills/design-consultation/SKILL.md",
+    "export_sha256": "bf9999ad3924877cc9ee9d3c1e82303bcc33ad3953f936a9f1990f0b8a9be37a",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": [
+      "https://github.com/garrytan/gstack"
+    ]
+  },
+  {
+    "kind": "design-skill",
+    "name": "design-language",
+    "source_sha256": "cf0474589a79ab134269aebce214767678a6e898fe0577d26166329d5e69326f",
+    "export": "design-skills/design-language/process.md",
+    "export_sha256": "cf0474589a79ab134269aebce214767678a6e898fe0577d26166329d5e69326f",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "design-language",
+    "source_sha256": "75006f44317e1332724a41d74f06133d0556f0b1d7bc203583469971167a6dcc",
+    "export": "design-skills/design-language/README.md",
+    "export_sha256": "75006f44317e1332724a41d74f06133d0556f0b1d7bc203583469971167a6dcc",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "design-language",
+    "source_sha256": "4e3fbd2eee6a5c2adee1fec613a463a841d8bee6a2b2bca5c5ee1026420e3fec",
+    "export": "design-skills/design-language/brief-template.md",
+    "export_sha256": "4e3fbd2eee6a5c2adee1fec613a463a841d8bee6a2b2bca5c5ee1026420e3fec",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "design-language",
+    "source_sha256": "c3ab8f7c73da1a9913dc703656e8c362966fbadd5a173efe7b5a46154193c6fb",
+    "export": "design-skills/design-language/SKILL.md",
+    "export_sha256": "c3ab8f7c73da1a9913dc703656e8c362966fbadd5a173efe7b5a46154193c6fb",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "design-md",
+    "source_sha256": "6829f19a1c0689511f16a6b911bf087263483bbb340f13d960144c9f2f381314",
+    "export": "design-skills/design-md/SKILL.md",
+    "export_sha256": "ec7c6b0ac21ebb993cea2042921f84b80d45f23e612e244bbbe4fc6f654daf07",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": [
+      "https://github.com/google-labs-code/skills"
+    ]
+  },
+  {
+    "kind": "design-skill",
+    "name": "design-review",
+    "source_sha256": "3cb09285528bea365d3eb6bc2acc3b4ad0e8aa7551d57bf969ce4d114a0c706a",
+    "export": "design-skills/design-review/SKILL.md",
+    "export_sha256": "8c42884acebce9b81a9d8a9193ea98ed3c1073f11b2ea5cb8c95edf1227897d8",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": [
+      "https://github.com/garrytan/gstack"
+    ]
+  },
+  {
+    "kind": "design-skill",
+    "name": "brandkit",
+    "source_sha256": "4575a543ab88dad12ccea7d97e563d0bce5b448b06072e65d3264497dad326df",
+    "export": "design-skills/brandkit/LICENSE",
+    "export_sha256": "4575a543ab88dad12ccea7d97e563d0bce5b448b06072e65d3264497dad326df",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "brandkit",
+    "source_sha256": "e25ac3dabcb659a95553f61841e5839e5da452e5b0b7e3ff35a295ae2c96aa89",
+    "export": "design-skills/brandkit/SKILL.md",
+    "export_sha256": "2fc2a9972cc612ea6fbf6e2e5a7b830dc97b6a9cff6449629806d97df5fb1fab",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": [
+      "https://github.com/Leonxlnx/taste-skill"
+    ]
+  },
+  {
+    "kind": "design-skill",
+    "name": "brand-extract",
+    "source_sha256": "e030af31fdbfde325f73c7256ad992e63cc45e2479275fed1fee605e724365c6",
+    "export": "design-skills/brand-extract/SKILL.md",
+    "export_sha256": "46063b9b81c6e66cb47c271d4301fc35b722652c64713d684c035585c2ea3e45",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "brand-extract",
+    "source_sha256": "8de5fc435d4f63e886a3d1570f9e91f55094b22a8c39ea5955a6e029c217a8ca",
+    "export": "design-skills/brand-extract/templates/brand-kit.html",
+    "export_sha256": "8de5fc435d4f63e886a3d1570f9e91f55094b22a8c39ea5955a6e029c217a8ca",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "brand-guidelines",
+    "source_sha256": "73abf30770033b3f7dd7f7c450a964b4f4fe7eb65d281f67b64586cff969e77a",
+    "export": "design-skills/brand-guidelines/SKILL.md",
+    "export_sha256": "f96d12f613685efd3594b58b6e2920fb618441ff91b1dfa86a28d076bbfc6dad",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "brand-guidelines",
+    "source_sha256": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362",
+    "export": "design-skills/brand-guidelines/LICENSE.txt",
+    "export_sha256": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "reference-design-contract",
+    "source_sha256": "f0dd9db227e079d9f435d8c8e83c07980ff5756153f184ecb4ff5b4a2993b26b",
+    "export": "design-skills/reference-design-contract/example.html",
+    "export_sha256": "f0dd9db227e079d9f435d8c8e83c07980ff5756153f184ecb4ff5b4a2993b26b",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "reference-design-contract",
+    "source_sha256": "dc3fd444120d6247116212820491edfc7aa8137b497403dc8fe46e0ac4de3e9a",
+    "export": "design-skills/reference-design-contract/SKILL.md",
+    "export_sha256": "881aee655a12dc1b36b1b4e676f8dfc00b07304e9a79c1697a75dfb50f4d8d9e",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "reference-design-contract",
+    "source_sha256": "0943e2c5096cc59c588ef8bd25e0e54d2fc4368ae0c52b3f8978f61e6d78d02f",
+    "export": "design-skills/reference-design-contract/references/checklist.md",
+    "export_sha256": "0943e2c5096cc59c588ef8bd25e0e54d2fc4368ae0c52b3f8978f61e6d78d02f",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "impeccable-design-polish",
+    "source_sha256": "97ee8e78a2f138d85e64fef8c7d9f7680a45a92972d47346f3989746f4028c65",
+    "export": "design-skills/impeccable-design-polish/SKILL.md",
+    "export_sha256": "6ce6e88aba2613dbf20357ae1dafcb07bec259b6cd6b476e74782e1f8378ac55",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": [
+      "https://github.com/pbakaus/impeccable"
+    ]
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design",
+    "source_sha256": "2a31675c49797318c4c3b8db1fb33c0cd79a5c61f3f4bce566200e334549257f",
+    "export": "design-skills/motion-design/SKILL.md",
+    "export_sha256": "efcd50625c52df5bb68d62a3b52bab614b3e9551c818062c0b46bfcb0b1dcb90",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "694d74ccc7e7203544b5b61a0dbb1366bfba2c0c692832af7578aa7c67032915",
+    "export": "source-only/motion-design-bank/SKILL.md",
+    "export_sha256": "839b2ed32520e80ab40aecc391c63bb9a677fca35994a315bd44c61abbac1a90",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": []
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "f9cfa00d3325dceadcb9ffd77dcb5dcbc51d34121f3b1f162979939006056773",
+    "export": "source-only/motion-design-bank/patterns/ambient-continuous.md",
+    "export_sha256": "f9cfa00d3325dceadcb9ffd77dcb5dcbc51d34121f3b1f162979939006056773",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "46c8da91843c593deb763a4a7fa32849bdaeb7a7ecd4d559e3b21bcc976f2c46",
+    "export": "source-only/motion-design-bank/patterns/multi-element.md",
+    "export_sha256": "46c8da91843c593deb763a4a7fa32849bdaeb7a7ecd4d559e3b21bcc976f2c46",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "dac86388c2d8fcdfc2f194b4f8877caedcdc010df9ce29d27dfc99d08cf8c60e",
+    "export": "source-only/motion-design-bank/patterns/state-feedback.md",
+    "export_sha256": "dac86388c2d8fcdfc2f194b4f8877caedcdc010df9ce29d27dfc99d08cf8c60e",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "70b3fc3a8d58ebe58e293e643b78fd13750d9c8ef1c8fc5fe85e52f7378cbd91",
+    "export": "source-only/motion-design-bank/patterns/entrance-exit.md",
+    "export_sha256": "70b3fc3a8d58ebe58e293e643b78fd13750d9c8ef1c8fc5fe85e52f7378cbd91",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "550e96a1c8c369513304ee74c0e89b63168bc7287b83e9ed5685bb65609986b3",
+    "export": "source-only/motion-design-bank/director/context-adaptation.md",
+    "export_sha256": "550e96a1c8c369513304ee74c0e89b63168bc7287b83e9ed5685bb65609986b3",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "c81257b56160b9b2f3d99f78d4b8172b425c22d9ca73be06d3ffaa7305a34deb",
+    "export": "source-only/motion-design-bank/director/choreography.md",
+    "export_sha256": "c81257b56160b9b2f3d99f78d4b8172b425c22d9ca73be06d3ffaa7305a34deb",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "7aaa8a065d9940dad0198cf9cfe74979008495e6daf87f46f9022fff1b6a85e9",
+    "export": "source-only/motion-design-bank/director/core-philosophy.md",
+    "export_sha256": "7aaa8a065d9940dad0198cf9cfe74979008495e6daf87f46f9022fff1b6a85e9",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "39024711890c2684a3434659a4d95a52ca8231facea74e87e79503054aaca671",
+    "export": "source-only/motion-design-bank/director/disney-principles.md",
+    "export_sha256": "39024711890c2684a3434659a4d95a52ca8231facea74e87e79503054aaca671",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "a279e55a3f52a9f5830d38dc54679c652d9a5c26f0dd360700c16e23766d468b",
+    "export": "source-only/motion-design-bank/director/emotion-mapping.md",
+    "export_sha256": "a279e55a3f52a9f5830d38dc54679c652d9a5c26f0dd360700c16e23766d468b",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "4b6758da6742475c928b4f8be8c662f4b5ed0964468ba7760df8f7635c779358",
+    "export": "source-only/motion-design-bank/director/decision-framework.md",
+    "export_sha256": "4b6758da6742475c928b4f8be8c662f4b5ed0964468ba7760df8f7635c779358",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "66a3623b6654869482c02157ca791034a614ca6dcb02a8112049e28d292ee18a",
+    "export": "source-only/motion-design-bank/director/motion-personality.md",
+    "export_sha256": "66a3623b6654869482c02157ca791034a614ca6dcb02a8112049e28d292ee18a",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "d49db19db40425dec027c3012d553b50fd74ed79e27ace9dec1226796469061b",
+    "export": "source-only/motion-design-bank/director/narrative-structure.md",
+    "export_sha256": "d49db19db40425dec027c3012d553b50fd74ed79e27ace9dec1226796469061b",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "04e9fd4cc9602cd2e9ac141ef5914401a053cdd379c148a931cade026f82794f",
+    "export": "source-only/motion-design-bank/pipelines/html-motion-video.md",
+    "export_sha256": "04e9fd4cc9602cd2e9ac141ef5914401a053cdd379c148a931cade026f82794f",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "0436599019342c1efc88eeb794343d831740da0f69c714b2b0c5a85718b7730a",
+    "export": "source-only/motion-design-bank/pipelines/capture.mjs",
+    "export_sha256": "0436599019342c1efc88eeb794343d831740da0f69c714b2b0c5a85718b7730a",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "9a4a34c853c3acf8d51a5d77c7125934152ed64086ed0f746328a92e5a08cfaa",
+    "export": "source-only/motion-design-bank/pipelines/package-lock.json",
+    "export_sha256": "9a4a34c853c3acf8d51a5d77c7125934152ed64086ed0f746328a92e5a08cfaa",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "da17e13a30d960dfbed7878fd184cbcf9266211cdd50b8dff25c7f1b3d3f832d",
+    "export": "source-only/motion-design-bank/pipelines/package.json",
+    "export_sha256": "da17e13a30d960dfbed7878fd184cbcf9266211cdd50b8dff25c7f1b3d3f832d",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "c11bf193b700d9c9ebc5d871f1d5f193bccc441c4eccc0509b53a40d6e8dc558",
+    "export": "source-only/motion-design-bank/reference/quality-checklist.md",
+    "export_sha256": "c11bf193b700d9c9ebc5d871f1d5f193bccc441c4eccc0509b53a40d6e8dc558",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "69e5aaeee108231d51187143ae3fce4db7a42936f10682908ca9462a008a047a",
+    "export": "source-only/motion-design-bank/reference/troubleshooting.md",
+    "export_sha256": "69e5aaeee108231d51187143ae3fce4db7a42936f10682908ca9462a008a047a",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "e478f3b99c4cac3f96eca008e20f8808d4cfae165f5799f260092baf9b6ebcff",
+    "export": "source-only/motion-design-bank/reference/timing-easing-tables.md",
+    "export_sha256": "e478f3b99c4cac3f96eca008e20f8808d4cfae165f5799f260092baf9b6ebcff",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "motion-design-bank",
+    "source_sha256": "053d830795fc824fed27618fbd18084207af6aeed55b73c0a6e1d5665de894ae",
+    "export": "source-only/motion-design-bank/reference/property-selection.md",
+    "export_sha256": "053d830795fc824fed27618fbd18084207af6aeed55b73c0a6e1d5665de894ae",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "web-design-guidelines",
+    "source_sha256": "6cd1609c9c12233507cdd2ce0d32e9a721e3c27494951be06b90090deeeb7af2",
+    "export": "design-skills/web-design-guidelines/LICENSE",
+    "export_sha256": "6cd1609c9c12233507cdd2ce0d32e9a721e3c27494951be06b90090deeeb7af2",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "web-design-guidelines",
+    "source_sha256": "4e9f62c1365bc123e85802408e99915f257aff1d8b8e3d420868b2e93ec73410",
+    "export": "design-skills/web-design-guidelines/SKILL.md",
+    "export_sha256": "f4f08c007d7d191132230f0956603eee7a706e8cb9ddeaf3f6c9a49e19b4095b",
+    "upstream_commit": "4e799d45c17aec1498c269287a83b9dba22b966b",
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": [
+      "https://github.com/vercel-labs/web-interface-guidelines"
+    ]
+  },
+  {
+    "kind": "design-skill",
+    "name": "web-design-guidelines",
+    "source_sha256": "934df9cec7c38850e579bd69618f8d8abef79bf059c476a002c49287852ce5b8",
+    "export": "design-skills/web-design-guidelines/references/guidelines.md",
+    "export_sha256": "934df9cec7c38850e579bd69618f8d8abef79bf059c476a002c49287852ce5b8",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven"
+  },
+  {
+    "kind": "design-skill",
+    "name": "color-expert",
+    "source_sha256": "89697a91fe903e59bfc6478d420eedd23df7ad3a7a2f39e988013ab5c03b6f03",
+    "export": "design-skills/color-expert/SKILL.md",
+    "export_sha256": "4058206c5ee5c9df386d217a7c8a6f441e5d4f7a92d03b45a0ce3cee12e45fe4",
+    "upstream_commit": null,
+    "status": "local_snapshot_no_upstream_commit_proven",
+    "upstream_urls": [
+      "https://github.com/meodai/skill.color-expert"
+    ]
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "accounts-payable",
+    "source_sha256": "bbfcf3d013600538ee92a63f9828fdaf5752080fbe742f6f128d4a47ccad2e2e",
+    "export": "hermes-praktijkprofielen/accounts-payable/SOUL.md",
+    "export_sha256": "50dd4ab57c99b9816e66fc62d011b709ba7e00dc7bd895b7d00c9c7c17b615b6",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "athena",
+    "source_sha256": "3bd3d5e8388be7b5de249752720bf90c8a98fbfec672b9aa3888377856544a60",
+    "export": "hermes-praktijkprofielen/athena/SOUL.md",
+    "export_sha256": "ed83d698a88f70af2481fb30b284b2d2523c7bcdc40cfef41a0afef8e693cf69",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "builder",
+    "source_sha256": "89058b7f3b1c67f371fa55b2e7d17b925a60def80da87adba3fc846c2a6762e5",
+    "export": "hermes-praktijkprofielen/builder/SOUL.md",
+    "export_sha256": "4eb354031965884c1185bdc4f20a5f36da0e3e539621cc9fe0c10e2fcbc12a62",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "call-manager",
+    "source_sha256": "0a86e50ff9df0435e673dd4765874565fdc6aa658fcf5a5bc338549644f22080",
+    "export": "hermes-praktijkprofielen/call-manager/SOUL.md",
+    "export_sha256": "dae6fd25cd4b37de7727aba77878027e44a32eb9417c2c5219692ed411f6c384",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "chief",
+    "source_sha256": "9355752198cb516a252625e33df470668f1e332e55770c23a0ef59b07a820b30",
+    "export": "hermes-praktijkprofielen/chief/SOUL.md",
+    "export_sha256": "7a420a59349b7bfa7469a63a11f09cefab7650e5810f3107d835180a06a8746b",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "commitment-manager",
+    "source_sha256": "033a712f82993a1931fe1d371d253d704af7efa880665cee3440087b937be96c",
+    "export": "hermes-praktijkprofielen/commitment-manager/SOUL.md",
+    "export_sha256": "2b89c47f6b1f5b642064fb486dbc9365656af88c54c65238589df2693d4fa2cc",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "compliance",
+    "source_sha256": "ce52687aa63ef4bf8b0f3a573267f8b37b2bf4e9fbf9154df3d7a9edde2e0986",
+    "export": "hermes-praktijkprofielen/compliance/SOUL.md",
+    "export_sha256": "1005fcfaf2f424ce6ebf3980979ded6651b9096736ce79657b65734ca254a909",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "content-director",
+    "source_sha256": "cef5dd9830879cb004c0c7bf034786ab2d5688c7877da05d539e3073f4ab6d18",
+    "export": "hermes-praktijkprofielen/content-director/SOUL.md",
+    "export_sha256": "e5bf62390afd2c1ef2d459a93cbe48d216bfe31c8271f44057a7391d99568824",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "course-director",
+    "source_sha256": "49711e82b859b2687d0ce98a94af3cb96733021aca852ee51fa492c0e1590d10",
+    "export": "hermes-praktijkprofielen/course-director/SOUL.md",
+    "export_sha256": "a77c6e08245f692b71cde189550222ba5fcf9de200fe0b3e79a96b7c790474e9",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "course-ops",
+    "source_sha256": "7244ff72ec7618a8918f109a506e702ab8e19838f9b9c9ab35c28cd2681abcab",
+    "export": "hermes-praktijkprofielen/course-ops/SOUL.md",
+    "export_sha256": "f3e7756230b5a4f397c903b46d37e98fc9b42cffd6d00e4025d9143bccaf7967",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "finance-director",
+    "source_sha256": "046769aa83b7eda9f0d7fa47fdcac756e9cbe995fb07cf238a522ba31e742118",
+    "export": "hermes-praktijkprofielen/finance-director/SOUL.md",
+    "export_sha256": "5363089ee01e6fd1f742fdd97cae276106b6d37651b118d8c76b2d279b81d4c2",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "growth-director",
+    "source_sha256": "481b671f1ccd81de0326809f0c93bc102c7db27bdc4090273ac5e78e2eb9d5d8",
+    "export": "hermes-praktijkprofielen/growth-director/SOUL.md",
+    "export_sha256": "e4a8cb13374df3450c7665cb9fd4d9c4f77641082afe404f585cdf89d0fae32b",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "hermes-exec",
+    "source_sha256": "8536f016e5d3ae975e30f7bb281ba6c0dd95f4f505dc9ad8ca546a63b2879e0e",
+    "export": "hermes-praktijkprofielen/hermes-exec/SOUL.md",
+    "export_sha256": "dbcf9e442f962494c6db6a4add095f6d04dac5c5256654e016c0fffa36d4b5dd",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "hormozi",
+    "source_sha256": "d0461324611228e08d42c4941309da99c4d452ddcbab7f8c21a3fa184e2f35ae",
+    "export": "hermes-praktijkprofielen/hormozi/SOUL.md",
+    "export_sha256": "a8f04b761a47e24a25b769725080a5d593390238117e26028ca4d296406b4df1",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "inbox-triage",
+    "source_sha256": "61aefa1711f46f8acb6ee544a3f39191c4fe7a6aac4e56249e12623ec55a61c0",
+    "export": "hermes-praktijkprofielen/inbox-triage/SOUL.md",
+    "export_sha256": "63d51763fc77cf2ef4237880e9e2c44eaa3e364d88badc209dc901172749ce77",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "invoicing",
+    "source_sha256": "bef828f9d03c2bb7355f70a2827d0ec1a2f50ad9bed49f9bc3ee87719387aa67",
+    "export": "hermes-praktijkprofielen/invoicing/SOUL.md",
+    "export_sha256": "280f52d1de455a4e02c1ac40ed6671e0be9c10d9004fda265264f60d0482384a",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "km-agent",
+    "source_sha256": "8e1149cc79f0349126f8e53b3759e79d43b96327079c41ed4077dcd2e0ebffbc",
+    "export": "hermes-praktijkprofielen/km-agent/SOUL.md",
+    "export_sha256": "fff7fbd590beeab983c70c4f9ea552eaf4101d1ff714b0b8f1af7334238e4a3a",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "legal-review",
+    "source_sha256": "4ae0930009b8234defda0e87d14a6fe079a2391f1fe15c71ee3f9833be9bdaa7",
+    "export": "hermes-praktijkprofielen/legal-review/SOUL.md",
+    "export_sha256": "3e2655fa6e0a6cc22ccbb34e313a4e0b918b3f7821429c8341978cd4b43a3b6a",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "email-copywriter",
+    "source_sha256": "0d3165b107df2e01361d391d6bc6ee39b074c6f3e0f3229ef0aa2cc1499d1dc0",
+    "export": "hermes-praktijkprofielen/email-copywriter/SOUL.md",
+    "export_sha256": "e2a6924fffedf41e893741bf548c659343a6808ef679e7a784f5c83aafb0ac9b",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "maintainer",
+    "source_sha256": "2ad7cfb736776cdbb553c3d1b7ce6782315ddd23916ac126d7ac7ffd7f2f8645",
+    "export": "hermes-praktijkprofielen/maintainer/SOUL.md",
+    "export_sha256": "c255a161d4002f0ce3a81b00bed5a80ed52e05ce6c469c5a422c5eecad26b14c",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "market-intelligence",
+    "source_sha256": "6f79f15cd3c3dcb209a64ffd0427007d127ce76c59b2b1dd2c033ed03119113c",
+    "export": "hermes-praktijkprofielen/market-intelligence/SOUL.md",
+    "export_sha256": "81038f76788a6fba3fce5d8bdd80f565cff6ea5a5fff1d85ac9bd2112e22ef45",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "naval",
+    "source_sha256": "257db736f8981ce28c3c8159a45f2d62b3929b28ed3f28884a9222c7482899c7",
+    "export": "hermes-praktijkprofielen/naval/SOUL.md",
+    "export_sha256": "bc272515c9f5d0b2afafd32356c0c5f93eafcaf7b7742fa2a9d94b9ac74dfdb2",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "ops-watch",
+    "source_sha256": "20a72b5112ec3856b081d9ccc61ba894069711bdda8ebd6d6a2b2e24248b3f29",
+    "export": "hermes-praktijkprofielen/ops-watch/SOUL.md",
+    "export_sha256": "81279218723cb5fe0ec32090961aa3d04d357b46259f9a404e0a04a460f92bc4",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "orchestrator",
+    "source_sha256": "eeb449f98bdbdd67a59554bf408842d79c531214f0c458cf35b9d90127d58f8b",
+    "export": "hermes-praktijkprofielen/orchestrator/SOUL.md",
+    "export_sha256": "223842228f180a37e2b70133a50919d80ec2d6d55b59f3c300394929c88264c1",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "outreach-research",
+    "source_sha256": "ebdef61ce241b9f51886321b02019bcfde81d3b779d782e741599c1372bd607a",
+    "export": "hermes-praktijkprofielen/outreach-research/SOUL.md",
+    "export_sha256": "5a61b5c00440c2c65009b939fd7d8383a99bfe145302b2e97f12a622eed512c0",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "outreach-writer",
+    "source_sha256": "e4ab7f75bcbe89e9396a86952a45f44490ddf601b46c690becd9009622fa8c71",
+    "export": "hermes-praktijkprofielen/outreach-writer/SOUL.md",
+    "export_sha256": "f3583141e5bbc550902a3aedc3196804e7047f86ddfad63c3ea4560996aa7e06",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "palmier-editor",
+    "source_sha256": "ed1f6be7a023ddd1643229223ada969ad919f790e2d7ea0794ae5d0210ba421d",
+    "export": "hermes-praktijkprofielen/palmier-editor/SOUL.md",
+    "export_sha256": "fa21cadaeb36a1429f6f98b77b4a968c43991a7aa95be185bc59b268eed87096",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "proposals",
+    "source_sha256": "bcccb9036aafca11c420fd4dd39e06b7758184348497f033a517fca9f200c059",
+    "export": "hermes-praktijkprofielen/proposals/SOUL.md",
+    "export_sha256": "10abd60539538c0db7e1c585e1261257509706361c4e8abf618dc6b1c6ea3644",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "qa",
+    "source_sha256": "05a19f30ba58c7e8c1c5ee9b6e55099bef2f70de8b65df83f91938450586a071",
+    "export": "hermes-praktijkprofielen/qa/SOUL.md",
+    "export_sha256": "aaa8f7af898d711b2ab153771e9e12d5679e7d759fe4df1f8f5c75c7c8138d6e",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "reconciliation",
+    "source_sha256": "e9b65f615b03b5f42ae0bb3ffb29029a74a51bcf950e6b291848f6a73c6548d6",
+    "export": "hermes-praktijkprofielen/reconciliation/SOUL.md",
+    "export_sha256": "000b5b2065075f5dac1f6c79edbf9f8ca9b77d2902eb41d7ca5b8ac64d2d05cb",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "researcher",
+    "source_sha256": "c900a650a2ce10c73d00809194d674d88edf8373d45e008cb1e04ab185ffc54c",
+    "export": "hermes-praktijkprofielen/researcher/SOUL.md",
+    "export_sha256": "8d9eea97c3619d2f8ad44e534419771203e1efa05ddee67d6c4eda554abf55e6",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "revenue-director",
+    "source_sha256": "6df9c1e45171acdaff61b9247f1eb963303543063b7cadca67c7c4b07af88194",
+    "export": "hermes-praktijkprofielen/revenue-director/SOUL.md",
+    "export_sha256": "9d3b50c78dc71bac604fea5648528b15c229316914d1bf13ecb34c436242d730",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "reviewer",
+    "source_sha256": "573ebb652498882d7a024cbed3acc7bd571531b7417366e43b6a6c54ab7b7262",
+    "export": "hermes-praktijkprofielen/reviewer/SOUL.md",
+    "export_sha256": "37c8e57c63b84677f996beb7a85f9913885f8bf7d5fadec6b8076dcce0c78e56",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "rubin",
+    "source_sha256": "f9c45d0bc20221340780b830d46ce8a3c1a66d79ec54865a69ad4ea323e2ac0c",
+    "export": "hermes-praktijkprofielen/rubin/SOUL.md",
+    "export_sha256": "210654a22b1ce296d07adb050769d8545ea69072ecca9b7ee952047d4ac33351",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-analytics",
+    "source_sha256": "09808f026942e962f978e7451f00d5cdd5579fc40f95ecdc481c3727006d3108",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-analytics/SOUL.md",
+    "export_sha256": "e5a5d1afe4fad3d910f11f9546019e99c1f0536759be7bc65964945846ef776b",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-brand-designer",
+    "source_sha256": "fb572e7bb5493da5c16046ed55d67c79e405197c34b9178a770f139e5b0006ab",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-brand-designer/SOUL.md",
+    "export_sha256": "9c073996e2f20e8d32b2184fd87c081387e546001b47414df2841e034d6fe52c",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-builder",
+    "source_sha256": "694f293ad606e4ade8b4c0e27abd1d5182eb4e2e1ea33faf61fc19dce0168cbd",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-builder/SOUL.md",
+    "export_sha256": "f91e37d243ec66cdf4a12980a0d0afbc787fb34aa237bcbc34b027068f3e72f9",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-content",
+    "source_sha256": "d3df50734a7fc7c145ad0ffb064816d46a3394faa606533eca3322050f3a5916",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-content/SOUL.md",
+    "export_sha256": "df0fcb0e376a0ebdcb89c33989088fc5f7af06862cf6a9d887e4f9d992f68279",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-customer-service",
+    "source_sha256": "f9b812e6907a1f2f4d8af7129923e19d52ddc35fbc75487fe4e1f58386ef1c7d",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-customer-service/SOUL.md",
+    "export_sha256": "0f2597c29639b6e67189130c61e16b7e5a85f11f87680ea9887a239c72a9f44d",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-ecommerce",
+    "source_sha256": "3aa8f73bc984339c513d080687deca142509968c5e8b2e2ca178db0983f580c0",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-ecommerce/SOUL.md",
+    "export_sha256": "9dd883d8b9d05c6cb443273d9be124bd1466d800841d3e377f41814580d8ebec",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-email",
+    "source_sha256": "0141c2237898a233a17871d788a09c2384e126669faf73e0d90b51897d487159",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-email/SOUL.md",
+    "export_sha256": "37b1a6ba4bb0880ff9cfb80d827215f884c82118193b0f9541714477bfaa7ae6",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-operations",
+    "source_sha256": "0959ad1d5101a751ce55a86d2e1d5e6929d3517d2629eca41002619f6b877823",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-operations/SOUL.md",
+    "export_sha256": "28558a10f564c668851d67a612e7438933f9f27b916791474f9a87d40a0855b6",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-orchestrator",
+    "source_sha256": "ad6c9861f08791f15772eb0cbf813cd56ac9d544f4bb0cb4aa68d28e393d8d57",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-orchestrator/SOUL.md",
+    "export_sha256": "793659b5e2f514e6e03863f659a55cd335bd53f6c124272a2c4c93fced7aa7c8",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-researcher",
+    "source_sha256": "ec12a51979dab7695197f6b3060abc65d65bafeec7252d7d8f2d7d87cddfb99e",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-researcher/SOUL.md",
+    "export_sha256": "54fa564c25e5bccf668ca44121f584b6dfd446e8bca60c35f1cbb7bcc3734f5f",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-reviewer",
+    "source_sha256": "8f5ec12b1abd5e5cd360573eabf6cd340c7a57a0653f665013026a3f9c25265b",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-reviewer/SOUL.md",
+    "export_sha256": "3df440a269a02116f219b07c2d1f4041c711cdb74476650a231e50a45a499a38",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-sales",
+    "source_sha256": "b0b3b1be4e88408250df652f021e271d928b5f4106720b3add9e0de83a3feb23",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-sales/SOUL.md",
+    "export_sha256": "f985fdbd91af3a43faa07de8f088b19fe111dfb804c4267246d8b4644a039076",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-strategist",
+    "source_sha256": "f17278ce94c458aac271d43f0c395f4f9e2b097ad76c3b4615bf64c1e03bae5d",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-strategist/SOUL.md",
+    "export_sha256": "d41a34e33a0860451d917781b8baff3b31deb24521d0843c6a72cea505035cd0",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-visual",
+    "source_sha256": "e81dece2ebf67121c635f0e5c1135cf754f7a1261bdea156a12aefb2c63eab11",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-visual/SOUL.md",
+    "export_sha256": "45f9ba5a3f8f3abbcf32c450a33193ed9fd2b9fc6524ca34e4d168d87596f282",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "scoopfolk-demo-website-builder",
+    "source_sha256": "782f37b19521a914e065e13b8d920b8aa1b8b96b7d2a601378c38e1ea94bcbf3",
+    "export": "hermes-praktijkprofielen/scoopfolk-demo-website-builder/SOUL.md",
+    "export_sha256": "c7fb2dcbc3cc3d9c57af99e28c6c4de6b0c1f2f88b1a4e27d2daeaa1288a1917",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "real-hermes-profile",
+    "name": "strategist",
+    "source_sha256": "bba313d1177dbd0cd389239344f9b6ebe993a4e79c62553ae6edd5348a10d8b4",
+    "export": "hermes-praktijkprofielen/strategist/SOUL.md",
+    "export_sha256": "b37ca965597ce85019685effc4e4f668befd9cdd4b78b26cb385529dc0f1aece",
+    "adaptation": "Private runtime/authority removed; generic role source preserved, or source-derived transferable workflow for context-heavy director roles."
+  },
+  {
+    "kind": "brand-asset",
+    "name": "brand-tokens.css",
+    "source_sha256": "0f39e1947e404cbdfcf87928f6605a1cc3a800e9948c55ec1e29dddea74e680f",
+    "export": "scoopfolk-brand-actueel/brand-tokens.css",
+    "export_sha256": "0f39e1947e404cbdfcf87928f6605a1cc3a800e9948c55ec1e29dddea74e680f"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "brand-tokens.json",
+    "source_sha256": "217fc1f93cd29ab9e461a47f14cf0386237d4114bc82e8e2c2b8920b8a85910b",
+    "export": "scoopfolk-brand-actueel/brand-tokens.json",
+    "export_sha256": "217fc1f93cd29ab9e461a47f14cf0386237d4114bc82e8e2c2b8920b8a85910b"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "brandbook.html",
+    "source_sha256": "380286a4e655531cfc94c4a02489e1e8f26d13a389c479ff1de78279f113d6cc",
+    "export": "scoopfolk-brand-actueel/brandbook.html",
+    "export_sha256": "380286a4e655531cfc94c4a02489e1e8f26d13a389c479ff1de78279f113d6cc"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "verification.json",
+    "source_sha256": "dfcb2067e56bacd787c679edd1be4de2dd4b726523549f74a0486a4987ac231f",
+    "export": "scoopfolk-brand-actueel/verification.json",
+    "export_sha256": "dfcb2067e56bacd787c679edd1be4de2dd4b726523549f74a0486a4987ac231f"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "brandbook.pdf",
+    "source_sha256": "2ed054eccf5d31927a367a808494e1cbe766338454575099f7c04dcde1faca95",
+    "export": "scoopfolk-brand-actueel/brandbook.pdf",
+    "export_sha256": "2ed054eccf5d31927a367a808494e1cbe766338454575099f7c04dcde1faca95"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "images/identity-overview.jpg",
+    "source_sha256": "3a19d11d2655ca043b4c3a0d04b4116ed5f267fde8c8ae84ce73be7810616ad6",
+    "export": "scoopfolk-brand-actueel/images/identity-overview.jpg",
+    "export_sha256": "3a19d11d2655ca043b4c3a0d04b4116ed5f267fde8c8ae84ce73be7810616ad6"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "images/pages/page-01.png",
+    "source_sha256": "9687a90ad02dd5bc6ce6873f76b03d5eba5820222eebc4a9fdbd489b7820d0d8",
+    "export": "scoopfolk-brand-actueel/images/pages/page-01.png",
+    "export_sha256": "9687a90ad02dd5bc6ce6873f76b03d5eba5820222eebc4a9fdbd489b7820d0d8"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "images/pages/page-02.png",
+    "source_sha256": "b96448e61cc101adc5432f80b0c3a80ff6a7ac84972b5225fb5a4fb982dbec5f",
+    "export": "scoopfolk-brand-actueel/images/pages/page-02.png",
+    "export_sha256": "b96448e61cc101adc5432f80b0c3a80ff6a7ac84972b5225fb5a4fb982dbec5f"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "images/pages/page-03.png",
+    "source_sha256": "29789d90077872d7ba0635d504605b307110acf453c06e338d5e5f8fcbab0866",
+    "export": "scoopfolk-brand-actueel/images/pages/page-03.png",
+    "export_sha256": "29789d90077872d7ba0635d504605b307110acf453c06e338d5e5f8fcbab0866"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "images/pages/page-07.png",
+    "source_sha256": "0911ea36b53455e4d2e3861328c559622ec4fe910d836d71c3790f984f0f12ae",
+    "export": "scoopfolk-brand-actueel/images/pages/page-07.png",
+    "export_sha256": "0911ea36b53455e4d2e3861328c559622ec4fe910d836d71c3790f984f0f12ae"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "images/pages/page-06.png",
+    "source_sha256": "7f401bc0b35e82035578aa5c8ba905f39218d5516490ea70ca743dfcb1ca6b97",
+    "export": "scoopfolk-brand-actueel/images/pages/page-06.png",
+    "export_sha256": "7f401bc0b35e82035578aa5c8ba905f39218d5516490ea70ca743dfcb1ca6b97"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "images/pages/page-04.png",
+    "source_sha256": "0cc0091e0ad7d5979fc76f2c2d64b7febf1b25e8d30819acb53b96b0c67a968b",
+    "export": "scoopfolk-brand-actueel/images/pages/page-04.png",
+    "export_sha256": "0cc0091e0ad7d5979fc76f2c2d64b7febf1b25e8d30819acb53b96b0c67a968b"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "images/pages/page-05.png",
+    "source_sha256": "f1eae1cbeeda7d9c8ca52c7755b6228e4f63e14fb36e599b7a245060a76db300",
+    "export": "scoopfolk-brand-actueel/images/pages/page-05.png",
+    "export_sha256": "f1eae1cbeeda7d9c8ca52c7755b6228e4f63e14fb36e599b7a245060a76db300"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-teal.svg",
+    "source_sha256": "f75c66dbf72cfdd888119e9404b2638d37534ed91f152fa7b62e8eb16c75174c",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-teal.svg",
+    "export_sha256": "f75c66dbf72cfdd888119e9404b2638d37534ed91f152fa7b62e8eb16c75174c"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-cream.png",
+    "source_sha256": "588f7d567c4f7e6f1c241cfb353db8e68543d26c85e8b9b2f280ada3c4f53802",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-cream.png",
+    "export_sha256": "588f7d567c4f7e6f1c241cfb353db8e68543d26c85e8b9b2f280ada3c4f53802"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-sky.png",
+    "source_sha256": "53087bd2206c36b87075e7148256d5c87cf8e722822f8ded22628a5d2f6edb69",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-sky.png",
+    "export_sha256": "53087bd2206c36b87075e7148256d5c87cf8e722822f8ded22628a5d2f6edb69"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-pink.png",
+    "source_sha256": "2fa7c2421dfb1163e0549d6c8e94837ea1755e61b463b1be7717dc81f5761c5e",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-pink.png",
+    "export_sha256": "2fa7c2421dfb1163e0549d6c8e94837ea1755e61b463b1be7717dc81f5761c5e"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-lockup.png",
+    "source_sha256": "cac6ca78493558a303ff64337c99eb1226f74872b1b24db382037702812a442a",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-lockup.png",
+    "export_sha256": "cac6ca78493558a303ff64337c99eb1226f74872b1b24db382037702812a442a"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-white.png",
+    "source_sha256": "3328c926816805bfdb22285b6e660c5811ed5bdf7b11929da91887956d8e8827",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-white.png",
+    "export_sha256": "3328c926816805bfdb22285b6e660c5811ed5bdf7b11929da91887956d8e8827"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-blush.png",
+    "source_sha256": "f4ea7441c8760b9f20f1743691ac09a247d22283b8b1f889d21b8c90b440e85f",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-blush.png",
+    "export_sha256": "f4ea7441c8760b9f20f1743691ac09a247d22283b8b1f889d21b8c90b440e85f"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-black.png",
+    "source_sha256": "671be84fe81f143ab4c2ea089a8648936db1a6d9a31f9ca6b6cd1316db9a6ebb",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-black.png",
+    "export_sha256": "671be84fe81f143ab4c2ea089a8648936db1a6d9a31f9ca6b6cd1316db9a6ebb"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-black.svg",
+    "source_sha256": "ee971cfd2c0ce6eb6dcb63616e885c5c3f78a59848388bcf5c9c9547509d8009",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-black.svg",
+    "export_sha256": "ee971cfd2c0ce6eb6dcb63616e885c5c3f78a59848388bcf5c9c9547509d8009"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-blush.svg",
+    "source_sha256": "10c830718f60b5300d1512f1a836054d842438f6f3db1efbe4894c4515657b36",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-blush.svg",
+    "export_sha256": "10c830718f60b5300d1512f1a836054d842438f6f3db1efbe4894c4515657b36"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-lockup.svg",
+    "source_sha256": "56afa4ffb530bf48e8803bb391339912b388b0fe7eab30e9dfe884389934fc42",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-lockup.svg",
+    "export_sha256": "56afa4ffb530bf48e8803bb391339912b388b0fe7eab30e9dfe884389934fc42"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-white.svg",
+    "source_sha256": "b0a5ec6875f508b22adf8522553805b800d89deeed36097db050de41ec06317a",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-white.svg",
+    "export_sha256": "b0a5ec6875f508b22adf8522553805b800d89deeed36097db050de41ec06317a"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-pink.svg",
+    "source_sha256": "5d0c8424c6e764f19d0a35bdef4856b5f52673980e146e0c32724d4bb563f5f1",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-pink.svg",
+    "export_sha256": "5d0c8424c6e764f19d0a35bdef4856b5f52673980e146e0c32724d4bb563f5f1"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-sky.svg",
+    "source_sha256": "b8c097cac5a6095f5b21a06f1ad26e67c50e9202baba67ec0a2817729bda8428",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-sky.svg",
+    "export_sha256": "b8c097cac5a6095f5b21a06f1ad26e67c50e9202baba67ec0a2817729bda8428"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-cream.svg",
+    "source_sha256": "5fcb8ea40f0c47b72ec410e09d58073cc54bba2b6e668231bdc583a1666d6879",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-cream.svg",
+    "export_sha256": "5fcb8ea40f0c47b72ec410e09d58073cc54bba2b6e668231bdc583a1666d6879"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-teal.png",
+    "source_sha256": "8fd3db28ed80af8f52151262646059c1673104f4b44af94707927b5729e8ba57",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-teal.png",
+    "export_sha256": "8fd3db28ed80af8f52151262646059c1673104f4b44af94707927b5729e8ba57"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-cream.png",
+    "source_sha256": "78a1ec50ec8e9bfefd0704e0786cf79281134ed61931f76b6c39c311712f0f3f",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-cream.png",
+    "export_sha256": "78a1ec50ec8e9bfefd0704e0786cf79281134ed61931f76b6c39c311712f0f3f"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-sky.png",
+    "source_sha256": "c0f12372f532f773a1bd36fac85297fb6c722642469df650698c14645b95d7a3",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-sky.png",
+    "export_sha256": "c0f12372f532f773a1bd36fac85297fb6c722642469df650698c14645b95d7a3"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-avatar.png",
+    "source_sha256": "c747c0589baf90174bc3a2ea911fedabbca4929186afc08bfc2efc89d508128d",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-avatar.png",
+    "export_sha256": "c747c0589baf90174bc3a2ea911fedabbca4929186afc08bfc2efc89d508128d"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-teal.png",
+    "source_sha256": "8ce7316d5ea24ab8862b4d40bb20a11b54e1bf8ece55d6db7e25932d3472b862",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-teal.png",
+    "export_sha256": "8ce7316d5ea24ab8862b4d40bb20a11b54e1bf8ece55d6db7e25932d3472b862"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-black.png",
+    "source_sha256": "957b1768195ffd469dbe81ab4cec5a1ab26b116b6073ce8b315743f1a1e1f63a",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-black.png",
+    "export_sha256": "957b1768195ffd469dbe81ab4cec5a1ab26b116b6073ce8b315743f1a1e1f63a"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-blush.png",
+    "source_sha256": "f6d0b51fede00b84a735e8a606b5dbad6dc326b247b193bbe3bb1163f9ea0361",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-blush.png",
+    "export_sha256": "f6d0b51fede00b84a735e8a606b5dbad6dc326b247b193bbe3bb1163f9ea0361"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-pink.svg",
+    "source_sha256": "fb3a415f949f464fc1eca73e72085e3da1ad0e37fc5849b32fca407864979201",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-pink.svg",
+    "export_sha256": "fb3a415f949f464fc1eca73e72085e3da1ad0e37fc5849b32fca407864979201"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-white.png",
+    "source_sha256": "fa59a5b4184db8df929cfca4c2b48e3d93ae2434e3c8f82c9085a5f20f834c62",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-white.png",
+    "export_sha256": "fa59a5b4184db8df929cfca4c2b48e3d93ae2434e3c8f82c9085a5f20f834c62"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-white.svg",
+    "source_sha256": "c1048cffc006720ca0ad8563af0fcb54398c4807e9b4da25cabfebc69688525b",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-white.svg",
+    "export_sha256": "c1048cffc006720ca0ad8563af0fcb54398c4807e9b4da25cabfebc69688525b"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-pink.png",
+    "source_sha256": "2d4ba1f593a5a9db922678ffcf722056d180b99929b8373177e8ceac5bf15d69",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-pink.png",
+    "export_sha256": "2d4ba1f593a5a9db922678ffcf722056d180b99929b8373177e8ceac5bf15d69"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-blush.svg",
+    "source_sha256": "4d74f843ddf4052b171b190f287b8588ffd9794e1bb855f8ee3b16390fd40c0e",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-blush.svg",
+    "export_sha256": "4d74f843ddf4052b171b190f287b8588ffd9794e1bb855f8ee3b16390fd40c0e"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-black.svg",
+    "source_sha256": "a5f0c51a84fb88ae7da1ec408c517574f2250feaa8211edbdc6385f39836c9cf",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-black.svg",
+    "export_sha256": "a5f0c51a84fb88ae7da1ec408c517574f2250feaa8211edbdc6385f39836c9cf"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-teal.svg",
+    "source_sha256": "ede2f1f01def93c4f9da660e584f46e2cf17be5fa42a86de6685e5196f07c857",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-teal.svg",
+    "export_sha256": "ede2f1f01def93c4f9da660e584f46e2cf17be5fa42a86de6685e5196f07c857"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-avatar.svg",
+    "source_sha256": "8e56efe0fe0d29bd356deae026030da52a91989db6fd54f61a3902de5de37fb8",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-avatar.svg",
+    "export_sha256": "8e56efe0fe0d29bd356deae026030da52a91989db6fd54f61a3902de5de37fb8"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-symbol-sky.svg",
+    "source_sha256": "fd9b4165b3ee2b61ff7d6d6094301bc7fa211e558886c2a10d4cf66792b27f6c",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-symbol-sky.svg",
+    "export_sha256": "fd9b4165b3ee2b61ff7d6d6094301bc7fa211e558886c2a10d4cf66792b27f6c"
+  },
+  {
+    "kind": "brand-asset",
+    "name": "logos/scoopfolk-wordmark-cream.svg",
+    "source_sha256": "2bab64a28da7f95688e00924ff3402e031385eb36b9f7bd9c25d8b849386cfb5",
+    "export": "scoopfolk-brand-actueel/logos/scoopfolk-wordmark-cream.svg",
+    "export_sha256": "2bab64a28da7f95688e00924ff3402e031385eb36b9f7bd9c25d8b849386cfb5"
+  }
+]

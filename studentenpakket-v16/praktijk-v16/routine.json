@@ -1,0 +1,16 @@
+{
+  "kind": "FICTIEVE OEFENCONFIGURATIE",
+  "project": "demo-brand",
+  "run_id": "batch-001",
+  "input": "voorbeelden/content/maandplanning.csv",
+  "output": "outputs/N16/batch-001",
+  "steps": [
+    "read",
+    "prepare",
+    "review",
+    "save"
+  ],
+  "retry_limit": 1,
+  "external_actions": false,
+  "status": "NOT_RUN"
+}

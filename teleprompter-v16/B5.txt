@@ -1,0 +1,11 @@
+Voorraad en planning worden interessanter als je een verwachting kunt maken van wat er gaat gebeuren. In deze educatieve demo gebruiken we TimesFM op een oefenreeks.
+
+We houden de laatste veertien dagen apart. Het model krijgt alleen de eerdere gegevens en voorspelt de volgende periode. Daarna leggen we de voorspelling naast de waarden die we hebben achtergehouden.
+
+We maken ook een simpele vergelijking: volgende week lijkt op deze week. Dan kun je zien of het model voor deze reeks echt iets toevoegt.
+
+Laat Codex de twee voorspellingen in een grafiek zetten en de fout uitrekenen. Kijk waar de verschillen zitten. Als de omstandigheden ineens veranderen, kan de verwachting ernaast zitten.
+
+De exacte modelgewichten hebben eigen gebruiksrechten. De vastgelegde TimesFM 3-route is hier een niet-commerciële oefening. Voor een klantoplossing kies je eerst een route waarvan de licentie dat gebruik toestaat.
+
+Je hebt nu de basis. Ik ga de voorspellingen naast de achtergehouden cijfers leggen, zoals ik dat zelf voor dit project zou doen.

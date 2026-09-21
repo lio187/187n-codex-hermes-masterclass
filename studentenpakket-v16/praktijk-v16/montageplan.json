@@ -1,0 +1,20 @@
+{
+  "status": "TEMPLATE_GEEN_RENDER",
+  "sources": {
+    "camera": null,
+    "scherm": null
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "source": "camera",
+      "start": 0,
+      "end": null,
+      "screen_source": "scherm",
+      "screen_start": null,
+      "reason": "Vul na transcriptanalyse in",
+      "captions": [],
+      "review": "NOT_RUN"
+    }
+  ]
+}

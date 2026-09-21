@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bron-oud",
+    "project": "demo-brand",
+    "date": "2026-09-01",
+    "key": "bundelprijs",
+    "value": "39 EUR",
+    "status": "confirmed",
+    "source": "FICTIEF: prijsbesluit 1"
+  },
+  {
+    "id": "bron-nieuw",
+    "project": "demo-brand",
+    "date": "2026-09-10",
+    "key": "bundelprijs",
+    "value": "45 EUR",
+    "status": "confirmed",
+    "source": "FICTIEF: prijsbesluit 2",
+    "supersedes": [
+      "bron-oud"
+    ]
+  },
+  {
+    "id": "bron-idee",
+    "project": "demo-brand",
+    "date": "2026-09-20",
+    "key": "bundelprijs",
+    "value": "29 EUR",
+    "status": "idea",
+    "source": "FICTIEF: brainstorm, niet goedgekeurd"
+  }
+]

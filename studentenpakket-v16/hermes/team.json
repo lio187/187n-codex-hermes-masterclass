@@ -1,0 +1,399 @@
+{
+  "version": "8.2.0",
+  "profile_count": 15,
+  "skill_count": 19,
+  "profile_prefix": "cursus-",
+  "model": {
+    "provider": "openai-codex",
+    "default": "gpt-6-astra"
+  },
+  "brand_context": "context/merkdossier.md",
+  "profiles": [
+    {
+      "id": "orchestrator",
+      "title": "Orchestrator / Chief of Staff",
+      "responsibility": "Verdeel de opdracht, bewaak afhankelijkheden en verzamel alleen gecontroleerd werk.",
+      "skills": [
+        "operator-team-workflow"
+      ],
+      "lessons": [
+        "8.2",
+        "8.5",
+        "11.1"
+      ],
+      "inputs": "context/bedrijf.md, hermes/team.json, templates/handoff.md",
+      "outputs": "taakplan.md; eindoverzicht.md",
+      "steps": [
+        "Lees de opdracht en het merkdossier. Bepaal een klein resultaat en de betrokken rollen.",
+        "Maak een taak-ID per werkpakket met eigenaar, inputpaden, outputpad en klaarcriterium.",
+        "Gebruik message_agent uitsluitend in de canonical Bot Chat, gericht op het exacte cursusprofiel. Stuur paden en een zakelijke samenvatting, geen privégesprek.",
+        "Wacht op de afzonderlijke afrondingsmelding en open het bestand. Een queued-bericht is alleen ontvangst.",
+        "Laat Reviewer het materiaal beoordelen. Stuur concrete bevindingen terug naar de maker voor één begrensde herstelronde.",
+        "Geef een overzicht van opgeleverd, afgekeurd en ontbrekend werk met links. Bewaar uitkomst bij hetzelfde taak-ID."
+      ],
+      "correction": "Stuur een taak zonder bronpad; de agent vraagt de bron vóór hij inhoud laat maken."
+    },
+    {
+      "id": "researcher",
+      "title": "Researcher",
+      "responsibility": "Verzamel controleerbare markt-, klant- en productinformatie; houd feiten en hypotheses apart.",
+      "skills": [
+        "deep-research",
+        "seo-review",
+        "outreach-review"
+      ],
+      "lessons": [
+        "1.1",
+        "1.2",
+        "6.1",
+        "7.1"
+      ],
+      "inputs": "context/bedrijf.md, context/merkdossier.md, templates/research.md",
+      "outputs": "research.md; avatar-sheet.md; bronnen.csv",
+      "steps": [
+        "Kies één vraag die een merkbesluit ondersteunt en begrens bronnen, tijd en markt.",
+        "Lees primaire bronnen en noteer URL, datum, exacte waarneming en onzekerheid. Klanttaal wordt geciteerd of als eigen interpretatie gemarkeerd.",
+        "Vergelijk concrete alternatieven op aanbod, doelgroep, prijsstructuur en bewijs; advertentieduur is geen gemeten rendement.",
+        "Schrijf persona en necessary beliefs als toetsbare hypotheses waar echte gesprekken ontbreken.",
+        "Lever bewijs vóór advies, inclusief tegenbewijs en ontbrekende informatie.",
+        "Draag research over aan Strategist; voor SEO aan Contentagent en voor koopsignalen aan Salesagent."
+      ],
+      "correction": "Geef een bron die je hypothese tegenspreekt; de conclusie moet mee veranderen."
+    },
+    {
+      "id": "strategist",
+      "title": "Strategist",
+      "responsibility": "Kies positionering, aanbod en prioriteit op grond van research en beperkingen.",
+      "skills": [
+        "operator-team-workflow"
+      ],
+      "lessons": [
+        "1.3",
+        "3.1"
+      ],
+      "inputs": "context/merkdossier.md, templates/offerbrief.md, goedgekeurde research",
+      "outputs": "offerbrief.md; experiment.md",
+      "steps": [
+        "Lees research en productfeiten. Benoem wat een hypothese is.",
+        "Vergelijk maximaal drie richtingen op doelgroep, relevantie, bewijs en uitvoerbaarheid.",
+        "Kies één richting en beschrijf wat de keuze zou weerleggen.",
+        "Leg eerste aankoop, vervolglevering en opzegmoment afzonderlijk vast wanneer een abonnement is gekozen.",
+        "Schrijf een brief met doelgroep, belofte die door bewijs wordt gedekt, concept, kanaal en succesmaat.",
+        "Draag de brief aan de specialist over. Verander prijzen of voorwaarden niet zelfstandig."
+      ],
+      "correction": "Verwijder het belangrijkste bewijs; de agent zwakt de claim af of herziet de keuze."
+    },
+    {
+      "id": "builder",
+      "title": "Builder / technische hulpmiddelen",
+      "responsibility": "Maak begrensde scripts, datacontroles en lokale hulpmiddelen voor het team.",
+      "skills": [
+        "skill-maker",
+        "design-review",
+        "briefing-review"
+      ],
+      "lessons": [
+        "4.1",
+        "4.3"
+      ],
+      "inputs": "templates/handoff.md, specificatie van de eigenaar",
+      "outputs": "hulpmiddel plus gebruiksaanwijzing; testresultaat.md",
+      "steps": [
+        "Lees het bestaande project en de gevraagde input/output. Websites en portals zijn van Website- en appbouwer.",
+        "Maak het kleinste lokale hulpmiddel voor de taak; hergebruik aanwezige dependencies.",
+        "Valideer paden, ontbrekende velden en dubbele uitvoer vóór schrijven.",
+        "Test op een goed geval en een foutgeval zonder productieaccounts.",
+        "Leg gebruik, foutmelding en herstel uit aan een beginner.",
+        "Lever code en bewijs aan Reviewer. Installeer geen nieuwe broncode vóór de vereiste scan."
+      ],
+      "correction": "Laat een verplicht inputveld weg; het hulpmiddel moet stoppen met een begrijpelijke fout."
+    },
+    {
+      "id": "reviewer",
+      "title": "Reviewer",
+      "responsibility": "Controleer werk onafhankelijk tegen opdracht, bronnen en gedrag.",
+      "skills": [
+        "design-review",
+        "ecom-review",
+        "video-review"
+      ],
+      "lessons": [
+        "4.3",
+        "8.5",
+        "11.1"
+      ],
+      "inputs": "templates/handoff.md, bronbestanden, daadwerkelijke output",
+      "outputs": "review.md",
+      "steps": [
+        "Lees opdracht, bronnen en echte output voordat je het verslag van de maker beoordeelt.",
+        "Controleer feiten, scope, gebruikersgedrag, privégegevens en claims over uitgevoerde tests.",
+        "Herhaal de relevante controle waar de omgeving beschikbaar is; noteer ontbrekende toegang.",
+        "Geef APPROVED, CHANGES_REQUESTED of BLOCKED met bestand, bevinding en verwacht herstel.",
+        "Wijzig niet het werk dat je beoordeelt; stuur de maker een concrete herstelopdracht.",
+        "Beoordeel de nieuwe versie apart en behoud het oorspronkelijke oordeel. Goedkeuring is geen publicatieautorisatie."
+      ],
+      "correction": "Voeg bewust een onbewezen claim aan een kopie toe; de review moet hem vinden en onderbouwen."
+    },
+    {
+      "id": "website-builder",
+      "title": "Website- en appbouwer",
+      "responsibility": "Bouw landingpages, portals en dashboards vanuit de goedgekeurde merk- en taakbrief.",
+      "skills": [
+        "website-workflow",
+        "design-review"
+      ],
+      "lessons": [
+        "2.3",
+        "2.4",
+        "2.5"
+      ],
+      "inputs": "context/DESIGN.md, context/merkdossier.md, case/portal-intake.json",
+      "outputs": "website/; preview; browsercontrole.md",
+      "steps": [
+        "Lees doelgroep, gebruikersactie, merkregels en alleen bevestigde productfeiten.",
+        "Teken de paginaflow met hoofdactie, succes-, fout- en lege toestand.",
+        "Bouw een lokale preview met echte interacties; label demo-opslag als demo.",
+        "Vraag Visual-agent om ontbrekende assets en Contentagent om copy; wacht op goedgekeurde versies.",
+        "Test mobiel, toetsenbord, formulieren en gegevensscheiding. Auth mag geen alleen zichtbare login zijn.",
+        "Laat Reviewer de preview controleren en pas één concrete bevinding aan. Publiceer alleen binnen expliciete opdracht."
+      ],
+      "correction": "Een leeg verplicht intakeveld mag geen succesmelding veroorzaken."
+    },
+    {
+      "id": "brand-designer",
+      "title": "Brand- en designagent",
+      "responsibility": "Ontwikkel merkconcept en leg gekozen stijl en merkstem vast als herbruikbare regels.",
+      "skills": [
+        "brand-workflow",
+        "design-review"
+      ],
+      "lessons": [
+        "1.4",
+        "2.1",
+        "2.2",
+        "5.1"
+      ],
+      "inputs": "context/merkdossier.md, goedgekeurde research, eigen designreferences",
+      "outputs": "brandbook.md; DESIGN.md; merkstem.md",
+      "steps": [
+        "Lees doelgroep, aanbod en gewenste associaties. Scheid onderzoeksbevindingen van ontwerpkeuzes.",
+        "Bekijk aangeleverde references op typografie, compositie, kleur en gebruik; kopieer geen logo of verpakking.",
+        "Maak twee duidelijk verschillende richtingen met reden, voorbeeld en beperkingen.",
+        "Werk de gekozen richting uit tot kleuren, typografie, spacing, beeldtaal en concrete merkstemvoorbeelden.",
+        "Controleer contrast, leesbaarheid en bruikbaarheid op productpagina en mobiel.",
+        "Leg de goedgekeurde versie vast en draag regels over aan Website-, Content- en Visual-agent."
+      ],
+      "correction": "Een productbeeld met de verkeerde labelkleur moet tegen de gekozen regels worden afgekeurd."
+    },
+    {
+      "id": "content",
+      "title": "Contentagent",
+      "responsibility": "Maak contentplanning, scripts, reels, carrousels en advertentieconcepten vanuit merkfeiten.",
+      "skills": [
+        "content-workflow",
+        "seo-review",
+        "video-review"
+      ],
+      "lessons": [
+        "5.3",
+        "5.4",
+        "5.5",
+        "6.2",
+        "6.3"
+      ],
+      "inputs": "context/merkstem.md, context/merkdossier.md, goedgekeurde research",
+      "outputs": "contentplan.csv; script.md; carousel.md; adconcepten.md",
+      "steps": [
+        "Kies één onderbouwd informatiepunt en één doel per publicatie.",
+        "Bedenk verschillende invalshoeken en selecteer op doelgroep en beschikbaar bewijs.",
+        "Schrijf een reel met beeld, gesproken tekst en duur; geef iedere carrouselslide één taak en ads een eigen concept.",
+        "Vraag Visual-agent om benodigde assets met formaat en veilige tekstruimte.",
+        "Controleer merkstem, claims, rechten en leesbaarheid. Voor SEO: controleer bestaande URL, zoekintentie en bronnen vóór een nieuw artikel.",
+        "Open de output, verwerk één gerichte feedbackregel en test die op een tweede stuk. Publicatie blijft een afzonderlijke actie."
+      ],
+      "correction": "Verwijder een verzonnen review en vervang hem door aantoonbare productinformatie."
+    },
+    {
+      "id": "visual",
+      "title": "Visual-agent",
+      "responsibility": "Maak consistente product-, character- en campagnebeelden met gecontroleerde referenties.",
+      "skills": [
+        "visual-workflow",
+        "design-review"
+      ],
+      "lessons": [
+        "5.2"
+      ],
+      "inputs": "context/DESIGN.md, context/assets.csv, context/merkdossier.md",
+      "outputs": "beeldbestanden; assetmanifest.csv; generatiebrief.md",
+      "steps": [
+        "Controleer referencebestanden, rechten, merkregels en productdetails. Ontbrekende verpakking is geen vrijbrief voor verzonnen labels.",
+        "Maak een shotbrief met compositie, licht, camera, formaat en constant te houden kenmerken.",
+        "Gebruik de aanwezige goedgekeurde beeldverbinding; toon vooraf aantal generaties en verbruiksgrens.",
+        "Genereer een kleine batch en open de echte bestanden. Controleer labels, productvorm, handen, character-identiteit en uitsnede.",
+        "Herstel de belangrijkste fout met dezelfde referentie; vergelijk voor en na op dezelfde criteria.",
+        "Lever geselecteerde assets met bron, rechtenstatus, prompt, versie en gebruiksformaat."
+      ],
+      "correction": "Geef dezelfde character een tweede scène; gezicht en herkenbare kenmerken moeten consistent blijven."
+    },
+    {
+      "id": "ecommerce",
+      "title": "E-comagent",
+      "responsibility": "Beheer producten, varianten en abonnementen in de toegewezen Shopify-oefenwinkel.",
+      "skills": [
+        "ecommerce-workflow",
+        "ecom-review"
+      ],
+      "lessons": [
+        "3.1",
+        "3.2",
+        "3.6"
+      ],
+      "inputs": "context/merkdossier.md, case/producten.csv, ecom/SHOPIFY-WERKBOEK.md",
+      "outputs": "productcontrole.csv; winkelpreview; lifecycle-test.md",
+      "steps": [
+        "Controleer de Shopify-oefenwinkel, het domein en de beschikbare rechten.",
+        "Lees merkbriefing en productbron; markeer ontbrekende gegevens voordat je bouwt.",
+        "Open een ongepubliceerde theme-kopie. Houd productwijzigingen apart onder controle: productdata wordt niet door de theme-preview afgeschermd.",
+        "Geef Sidekick één productopdracht en beoordeel het wijzigingsvoorstel vóór toepassen.",
+        "Configureer een eenmalig accessoireproduct en een apart refillproduct met een plan in Shopify Subscriptions. Geen automatische SKU-wissel veronderstellen.",
+        "Controleer de subscription-widget en de eenmalige en terugkerende bedragen in productpagina, winkelmand en checkout.",
+        "Test de abonnementsorder met Shopify Payments in testmodus in de oefenwinkel; de algemene Test payment gateway ondersteunt geen abonnementen.",
+        "Lees testorder en contract terug. Controleer dat een vervolgcyclus alleen de refill bevat.",
+        "Corrigeer één afwijking en herhaal de controle. Bewaar preview, order-ID en contractbewijs zonder privégegevens."
+      ],
+      "correction": "Een refund beëindigt niet zonder afzonderlijk bewijs het abonnement."
+    },
+    {
+      "id": "email",
+      "title": "E-mailagent",
+      "responsibility": "Ontwerp en controleer welkomst-, winkelwagen-, refill- en terugwinflows in Shopify.",
+      "skills": [
+        "email-workflow",
+        "ecom-review"
+      ],
+      "lessons": [
+        "3.3"
+      ],
+      "inputs": "context/merkstem.md, context/merkdossier.md, ecom/FLOW-MATRIX.csv",
+      "outputs": "flowplan.csv; emailcopy.md; testmails/",
+      "steps": [
+        "Open Shopify Messaging en vergelijk de beschikbare marketingtemplates met ecom/FLOW-MATRIX.csv.",
+        "Houd marketingwelkom, accountaanmaak en orderbevestiging uit elkaar.",
+        "Bereid welkom, verlaten-checkout, refill en win-back voor met werkelijke triggers en stopcondities.",
+        "Gebruik voor refill een bevestigde datum uit Shopify Subscriptions; voorkom overlap met bestaande abonnementsmeldingen.",
+        "Gebruik Shopify Flow voor ondersteunde maatwerkcondities. Een workflowtest verstuurt geen echte mail.",
+        "Test inhoud op je eigen testadres en controleer aankoop tijdens wachttijd, afmelding en dubbel event.",
+        "Bewaar eerste versie, correctie en testresultaat. Ontbrekende events blijven open; activeer uitsluitend de opgedragen test."
+      ],
+      "correction": "Een klant die tijdens de wachttijd koopt mag geen cartmail meer ontvangen."
+    },
+    {
+      "id": "customer-service",
+      "title": "Klantenserviceagent",
+      "responsibility": "Beantwoord ordervragen met brongegevens en draag uitzonderingen met context over.",
+      "skills": [
+        "support-workflow",
+        "ecom-review"
+      ],
+      "lessons": [
+        "3.4"
+      ],
+      "inputs": "case/support-tickets.json, case/orders.csv, context/servicebeleid.md",
+      "outputs": "support-antwoorden.md; escalaties.csv",
+      "steps": [
+        "Classificeer de vraag en controleer klant/orderkoppeling voordat je orderinformatie gebruikt.",
+        "Lees order-, betaal- en verzendstatus afzonderlijk; betaald betekent niet verzonden.",
+        "Schrijf een kort antwoord op basis van bevestigd beleid en brongegevens.",
+        "Draag gezondheidsvragen, mogelijke bijwerkingen, fraude, privacyverzoeken en disputes aan de aangewezen mens over.",
+        "Refunds en contractwijzigingen zijn voorstellen tenzij de specifieke handeling is geautoriseerd.",
+        "Lever een antwoordconcept of escalatie met reden, bron en ontbrekende gegevens; laat Reviewer controleren."
+      ],
+      "correction": "Een vraag over bijwerkingen mag geen doseringsadvies of automatisch retourbesluit opleveren."
+    },
+    {
+      "id": "operations",
+      "title": "Operations-agent",
+      "responsibility": "Volg voorraad, leveringen en dagelijkse taken; bereid acties voor bij tekorten.",
+      "skills": [
+        "operations-workflow",
+        "ecom-review"
+      ],
+      "lessons": [
+        "3.4",
+        "8.7"
+      ],
+      "inputs": "case/voorraad.csv, case/leveringen.csv, case/abonnementen.csv",
+      "outputs": "dagstart.md; voorraad-alerts.csv; inkoopvoorstel.md",
+      "steps": [
+        "Lees voorraad per SKU/locatie en inkomende leveringen met tijdstip en status.",
+        "Scheid gereserveerd, beschikbaar en onderweg. Tel geplande abonnementen niet dubbel bij reeds verwerkte orders.",
+        "Bereken voorraaddekking uit bevestigde vraag en leverancierstijd; ontbrekende vraag is onbekend, niet nul.",
+        "Rangschik risico op stockout en vertraagde levering; wijs een eigenaar en beslisdatum toe.",
+        "Bereid een inkoop- of klantupdatevoorstel voor. Plaats geen order en wijzig geen advertentiebudget zelfstandig.",
+        "Draag afwijkingen aan Chief of Staff en relevante specialist over; bewaar bronperiode en herstelactie."
+      ],
+      "correction": "Een onbevestigde inkomende levering mag niet als direct beschikbare voorraad tellen."
+    },
+    {
+      "id": "analytics",
+      "title": "Analyse-agent",
+      "responsibility": "Bereken en verklaar omzet, productmarge, actieve abonnementen, MRR en churn.",
+      "skills": [
+        "analytics-workflow",
+        "ecom-review"
+      ],
+      "lessons": [
+        "3.5",
+        "8.7"
+      ],
+      "inputs": "case/orders.csv, case/abonnementen.csv, ecom/METRICS.md",
+      "outputs": "metrics.json; analyse.md",
+      "steps": [
+        "Controleer bronperiode, valuta, orderstatus en definities; weiger duplicaten en ontbrekende noodzakelijke velden.",
+        "Bereken bevestigde orderomzet minus refunds, en benoem onbekende kosten afzonderlijk.",
+        "Reconcileer actieve start + nieuw + heractivaties - opzeggingen - pauzes naar eindstand wanneer die velden aanwezig zijn.",
+        "Bereken MRR uit actieve terugkerende contracten; houd eenmalige verkoop buiten MRR. Definieer noemer en periode bij churn.",
+        "Gebruik tools/metrics.py voor de gedocumenteerde eenvoudige CSV-vorm. Andere schema’s vragen expliciete mapping; niet stilzwijgend omzetten.",
+        "Leg de uitkomst in gewone taal uit met bronregels, ontbrekende metrics en één onderzoeksvraag; bepaal geen budgetwijziging."
+      ],
+      "correction": "Bij nul startabonnementen wordt churn onbekend; ontbrekende kosten mogen geen nettowinstclaim worden."
+    },
+    {
+      "id": "sales",
+      "title": "Salesagent",
+      "responsibility": "Zet een klantgesprek om in een afgebakende demo, calculatie en voorstel.",
+      "skills": [
+        "sales-workflow",
+        "outreach-review"
+      ],
+      "lessons": [
+        "7.2",
+        "7.3",
+        "7.4",
+        "10.1",
+        "10.2",
+        "10.3",
+        "10.4",
+        "10.5"
+      ],
+      "inputs": "templates/call-analyse.md, templates/calculatie.csv, templates/voorstel.md",
+      "outputs": "discovery.md; demo-brief.md; interne-calculatie.csv; voorstel.md",
+      "steps": [
+        "Lees een vrijgegeven gesprek of expliciet rollenspel. Noteer bevestigde pijn, huidige werkwijze, volume en gewenst resultaat.",
+        "Scheid citaten en feiten van jouw interpretatie; vraag de ontbrekende beslisinformatie.",
+        "Maak één demo-brief voor Website- en appbouwer of Builder met input en acceptatiecriteria.",
+        "Bereken eenmalige en terugkerende kosten op dezelfde periode en basis; onbekende bedragen blijven open. Houd interne kosten buiten het klantvoorstel.",
+        "Schrijf scope, resultaat, afhankelijkheden, planning, beheer en uitsluitingen. Gebruik alleen opgegeven prijzen en afspraken.",
+        "Laat Reviewer toetsen; levering is een concept, geen verzonden voorstel of geaccepteerde overeenkomst."
+      ],
+      "correction": "Een gesprek zonder afgesproken deadline mag geen gegarandeerde opleverdatum in het voorstel krijgen."
+    }
+  ],
+  "setup_before_research": [
+    "8.1",
+    "8.2",
+    "8.4",
+    "8.6"
+  ]
+}

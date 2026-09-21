@@ -1,0 +1,9 @@
+Oké, dit is een heel andere build. God’s Eye View zet openbare werelddata op een globe. Je kunt verschillende lagen bekijken en daar zelf functies omheen bouwen.
+
+Open de beoordeelde lokale versie en kies een beschikbare laag, bijvoorbeeld vliegtuigen of satellieten. Zoom naar een openbare locatie en klik een object aan. Kijk welke informatie de app laat zien en waar die vandaan komt.
+
+Nu geven we Codex een echte uitbreiding: maak een duidelijk infopaneel voor de actieve laag met bron en tijdstip. Laat het paneel meeveranderen wanneer je een andere laag kiest. Je bouwt dus verder op een bestaande app.
+
+De basis heeft een route zonder eigen API-keys. Sommige extra lagen, fotorealistische beelden en voice vragen aanvullende providers. We gebruiken de onderdelen die voor onze demo klaarstaan.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan de globe openen en mijn eigen uitbreiding bouwen. Ik laat je zien welke keuzes ik maak.

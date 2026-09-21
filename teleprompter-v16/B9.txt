@@ -1,0 +1,9 @@
+Met Hyperframes kun je een video opbouwen uit HTML, styling en animatie. Dat is interessant voor productads met sterke typografie, beelden en motion.
+
+Pak de angle uit onze advertentiebatch en de gekozen productbeelden. We bouwen een verticale video van vijftien seconden. Eerst de hook, dan het product en de belangrijkste uitleg, en aan het eind ons aanbod.
+
+Laat Codex de scènes maken en open de preview. Kijk naar het tempo. Staat de tekst lang genoeg in beeld? Is het product groot genoeg op een telefoon? Stuur dat bij voordat je exporteert.
+
+Daarna renderen we de MP4 met de beoordeelde Hyperframes-route. Kijk de hele export terug, ook het eerste en laatste frame.
+
+Je hebt nu de basis. Ik ga de advertentie met motion opbouwen en exporteren, zoals ik dat zelf voor dit project zou doen.

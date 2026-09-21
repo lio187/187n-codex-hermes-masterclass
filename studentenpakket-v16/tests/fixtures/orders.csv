@@ -1,0 +1,4 @@
+order_id,klant_id,sku,bedrag_eur,kost_eur,status
+TEST-001,TEST-A,TECH-A,20,6,betaald
+TEST-002,TEST-B,TECH-B,10,3,terugbetaald
+TEST-003,TEST-C,TECH-C,5,2,open

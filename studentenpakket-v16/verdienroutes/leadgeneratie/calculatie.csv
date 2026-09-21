@@ -1,0 +1,4 @@
+scenario,periode,eenheid,omzet_eur,uren,interne_uurkosten_eur,overige_bekende_kosten_eur,bekende_kosten_eur,bijdrage_eur,status
+normaal,bouw,20 onderzochte bedrijven,650,7,50,35,385,265,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+hoog_volume,bouw,20 onderzochte bedrijven,650,10.5,50,52.5,577.5,72.5,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+extra_herstel,bouw,20 onderzochte bedrijven,650,14,50,70,770,-120,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING

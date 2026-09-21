@@ -1,0 +1,7 @@
+concept_id,hook_id,route,angle,hooktype,hook,body_id,cta,bron_ids,bestandsnaam,status,ad_id,periode,metric,waarde,kosten,volgende_test
+A,A1,product,inhoud,Power Question,Wat krijg je eigenlijk bij je eerste bestelling?,A-body,Bekijk de productpagina.,NOG_INVULLEN,scoopfolk_A_video_A1_9x16.mp4,CONCEPT_NIET_GEGENEREERD,,,,,,
+A,A2,product,inhoud,Open Loop,Bekijk deze onderdelen voordat je je bestelling kiest.,A-body,Bekijk de productpagina.,NOG_INVULLEN,scoopfolk_A_video_A2_9x16.mp4,CONCEPT_NIET_GEGENEREERD,,,,,,
+B,B1,product,eerste en volgende levering,New Perspective,Je eerste bestelling en je refill kunnen verschillen.,B-body_NOG_SCHRIJVEN,Bekijk de productpagina.,NOG_INVULLEN,scoopfolk_B_video_B1_9x16.mp4,VOORBEREID,,,,,,
+B,B2,product,eerste en volgende levering,Power Question,Wat ontvang je als je voor herhaling kiest?,B-body_NOG_SCHRIJVEN,Bekijk de productpagina.,NOG_INVULLEN,scoopfolk_B_video_B2_9x16.mp4,VOORBEREID,,,,,,
+C,C1,product,bestelstappen,Presenter Story,Ik loop de bestelopties stap voor stap met je door.,C-body_NOG_SCHRIJVEN,Bekijk de productpagina.,NOG_INVULLEN,scoopfolk_C_video_C1_9x16.mp4,VOORBEREID,,,,,,
+C,C2,product,bestelstappen,Call Out,Twijfel je over de besteloptie? Kijk even mee.,C-body_NOG_SCHRIJVEN,Bekijk de productpagina.,NOG_INVULLEN,scoopfolk_C_video_C2_9x16.mp4,VOORBEREID,,,,,,

@@ -1,0 +1,9 @@
+Bij grotere GitHub-projecten wil je de code achter een bevinding kunnen begrijpen. De security-audit-skill van Cloudflare kan helpen bij die bronreview.
+
+We beoordelen deze skill eerst zelf volgens dezelfde installatieroute. Daarna geven we hem een concrete bevinding uit het rapport van een gekozen project.
+
+Laat de agent naar de relevante code kijken. Wat doet die functie? Welke input komt erin en welke bestanden of netwerkverbindingen gebruikt hij? Zo krijg je een onderbouwde uitleg van wat er aan de hand is.
+
+Dat vergelijken we met de oorspronkelijke scan. Als een melding verklaarbaar is, schrijven we de reden en begrenzing op. Is iets nog onduidelijk, dan blijft dat open.
+
+Oké, ik ga nu de code achter de bevinding onderzoeken. Kijk mee hoe ik dit zelf aanpak.

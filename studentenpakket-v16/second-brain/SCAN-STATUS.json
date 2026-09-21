@@ -1,0 +1,40 @@
+{
+  "verdict": "APPROVE",
+  "scope": "nieuw lokaal geschreven Librarian-profiel, zes procedures en oefenhulpmiddel",
+  "risk": {
+    "score": 0,
+    "severity": "LOW",
+    "recommendation": "SAFE",
+    "max_issue_severity": "NONE"
+  },
+  "coverage_percent": 100,
+  "components": 23,
+  "llm_scan": false,
+  "source_review": "Geen netwerk, secrets, shellhooks, dependencies of automatische installatie. Expliciete lokale bestandsinname en vault-output. Bron-ID, vervanging en projectscheiding gecontroleerd.",
+  "limits": "Geen garantie dat alle risico weg is; geen live Hermes-integratie getest. Bestaande werkplek-extra-status blijft leidend voor die snapshots.",
+  "files": {
+    "WORKFLOWS.md": "863d7c5b17cc07e552e17231710cb6c7e6b8fa0cad25485aadcdc095fe5b6420",
+    "START-HIER.md": "a8f38150f6c00ef48202b52c2f33b1889d0c265e7535b33d85274e48337653c3",
+    "HERKOMST.md": "e148b51e1d8ecbf07233364e91d32794cf1deaee6f0d3672fd7fc82695ae049c",
+    "REVIEW.md": "5a88324ba7a4005fb043282af3ac6768511ebfbd40c9ebf33b4d8af641257744",
+    "tools/brain.py": "821636b1c8d9b77667d2e645f488be3267d3510acae0645d367a067b85514852",
+    "profiel/SOUL.md": "832052dbe4f5f9beff612abb071e66eabe2a454b26e5898c12dcffa65c203b88",
+    "templates/project.md": "776ea8acb4dafae5b7d6289a7e99edc4b6bb02525688fbf46ef34196bded5d49",
+    "templates/handoff.md": "c9a270572eddc321b4be485c7e8f63abc214d704f39bc45bd362d46a2e31c886",
+    "fixtures/inname.json": "a29fa46a327811584fc3644e4ff08d2aa1df9d73f7b46008b0dce674894f89bd",
+    "fixtures/klanten.json": "fec020b0680176dfa84534cdabb144b35f4c4af7ff8bec906a8067babad13895",
+    "skills/librarian-inname/SKILL.md": "74c0c1e71fd14955f5a468e8708ba78863bca6070788f7a3135359988e45b133",
+    "skills/media-buyer-review/SKILL.md": "0b92f88cdfa4b866738119fc27790274a4f1c07e6b91b25eea69289670a26a6d",
+    "skills/librarian-actualisatie/SKILL.md": "919751f741107683a1a6bb6913e973ba8f294cc330963d8f6e54155fcbffd74b",
+    "skills/edit-secties/SKILL.md": "59063a51a7e3256fdbc9c2ed1cb724f435ffa9359608faf0aa2ad478d1bf171d",
+    "skills/routine-herstel/SKILL.md": "297a6e26e2ddc487906dfecd419089fbfb7cb8f7432cb2f0bc875cdc615ee7d5",
+    "skills/project-overdracht/SKILL.md": "96f9d99239169704be684c342914a301f86dea15c7d878fad6e3510a7824496c",
+    "voorbeelden/video-notitie.md": "4cdc6339a236f842acc9f6b072eb358a7b546f613d0ca29b3ac5cab3c43ba194",
+    "vault/INDEX.md": "6c44aadf02a51ae01352358095b5a359240196348acb358d4d3babaac33e9052",
+    "vault/projecten/LEESMIJ.md": "25f8ffbf28498675e13bb0b11a02f0e2c96f775fef40d67747e5dec94fc22830",
+    "vault/historie/LEESMIJ.md": "ad602957b443fe984768d1964f8cfe66983fb3e8669ac82e6eb121375a4ed745",
+    "vault/bronnen/LEESMIJ.md": "1165ac7d15afab3dfbe1e6f76cebde6dcc421816e923b8fe85b6d72470754d0b",
+    "vault/inname/LEESMIJ.md": "1c04eca9c7d3ff314f23d54a2311ab76d94f57f6efdec84907761799a05d4de6",
+    "vault/kennis/LEESMIJ.md": "192f78390d750b96af207c5dc34fd683abdf9c4ae396bd8235ab90cc11e375b1"
+  }
+}

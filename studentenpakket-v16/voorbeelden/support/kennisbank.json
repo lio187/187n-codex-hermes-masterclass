@@ -1,0 +1,26 @@
+[
+  {
+    "id": "KB-01",
+    "queries": [
+      "Wat zit in de starter?",
+      "Wat is de starter?"
+    ],
+    "antwoord": "De Oefenmerk-oefenstarter bevat een conceptpot en een conceptrefill. Dit is fictieve productinformatie voor de cursus."
+  },
+  {
+    "id": "KB-02",
+    "queries": [
+      "Wat is een refill?",
+      "Wat ontvang ik daarna?"
+    ],
+    "antwoord": "De refill is de volgende levering in de oefencase. Controleer de bevestigde productinhoud en het interval in een echte winkel."
+  },
+  {
+    "id": "KB-03",
+    "queries": [
+      "Kan ik pauzeren?",
+      "Hoe pauzeer ik?"
+    ],
+    "antwoord": "Een medewerker controleert in de echte winkel welke pauzeroute beschikbaar is. Deze lokale demo wijzigt geen abonnement."
+  }
+]

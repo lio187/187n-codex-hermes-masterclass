@@ -1,0 +1,9 @@
+Voor een grote opdracht kun je meerdere agents inzetten. De winst zit in werk dat onafhankelijk kan gebeuren. Daarom geef ik zo drie agents ieder een duidelijk stuk van dezelfde opdracht.
+
+Eén onderzoekt bezwaren uit onze beschikbare bronnen. Eén werkt op een eigen kopie van de productpagina. De derde beoordeelt de bestaande kooproute. Ze krijgen dezelfde merkcontext, maar ieder een andere uitkomst. We laten ze niet allemaal tegelijk hetzelfde bestand aanpassen.
+
+Daarna komt het werk terug bij de hoofdagent. Die moet verschillen oplossen. Als de researcher een nieuwe productclaim voorstelt die niet in onze productgegevens staat, gaat die niet vanzelf de pagina op. We vragen om de bron of laten de claim weg. De reviewer controleert de samengevoegde versie opnieuw.
+
+Ik wil je ook laten zien wanneer dit extra werk oplevert. Voor een kleine aanpassing ben je soms sneller met één agent. In de demo vergelijken we de totale doorlooptijd en de hoeveelheid herstelwerk. Je krijgt de opdrachten mee, zodat je zelf kunt testen bij welke builds deze verdeling voor jou werkt.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.

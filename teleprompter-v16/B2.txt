@@ -1,0 +1,9 @@
+Sommige opdrachten gebeuren nog gewoon in een browser. BrowserSkill is een andere route om een agent met die omgeving te laten werken.
+
+We gebruiken eerst de lokale oefenpagina om de verbinding te testen. Daarna kiezen we een toegestane browsertaak die past bij onze contentproductie: informatie uit een productpagina verzamelen voor een campagnebrief.
+
+Laat de agent de pagina openen, het juiste product vinden en de informatie bij elkaar zetten. Kijk mee naar wat hij daadwerkelijk ziet. Je wilt dat hij op de actuele pagina werkt.
+
+Geef daarna een andere productpagina mee en herhaal dezelfde opdracht. Als de opbouw anders is, moet de agent daar mee om kunnen gaan of aangeven wat hij niet kan vinden.
+
+Oké, ik ga nu de browsertaak met de agent uitvoeren. Kijk mee hoe ik dit zelf aanpak.

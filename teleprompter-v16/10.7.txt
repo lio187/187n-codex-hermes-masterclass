@@ -1,0 +1,11 @@
+Voor een supportbot beginnen we met de informatie die het bedrijf al heeft. Productuitleg, procedures, veelgestelde vragen en waar nodig orderinformatie.
+
+Laat de support-workflow daar een bruikbare kennisbasis van maken. Daarna zetten we een chatervaring neer waarin een klant een vraag kan stellen en een passend antwoord krijgt.
+
+We proberen vragen die echt voorkomen. Hoe gebruik ik het product? Waar is mijn bestelling? Welke keuze past bij mijn situatie? Je wilt dat de bot de juiste informatie erbij haalt en duidelijk antwoordt.
+
+Er zullen ook vragen zijn die de kennisbank niet beantwoordt. Dan moet er een goede route naar een medewerker zijn. Dat is onderdeel van de ervaring die je verkoopt.
+
+Voor een uitgebreidere documentomgeving kun je de WeKnora-route uit het bonusblok onderzoeken. De eerste versie bouwen we op de bronnen en tools die voor deze klant beschikbaar zijn.
+
+Je hebt nu de basis. Ik ga de supportbot met echte oefenvragen gebruiken, zoals ik dat zelf voor dit project zou doen.

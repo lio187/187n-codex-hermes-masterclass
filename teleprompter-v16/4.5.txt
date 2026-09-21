@@ -1,0 +1,11 @@
+Je hebt inmiddels werkwijzen gemaakt waarmee je iets kunt leveren. Die kun je ook bundelen voor mensen die dat werk zelf willen doen.
+
+Kies een duidelijk resultaat. Bijvoorbeeld een pakket waarmee een webshop zijn productcontent maakt, of een set agents voor een klein bureau. Geef erbij wat iemand nodig heeft, hoe hij start en een goed voorbeeld van de output.
+
+Wij maken nu een pakket rond één van onze eigen workflows. De skill, de prompt, voorbeeldinput en een korte walkthrough. Laat iemand vanuit een lege projectmap beginnen. Kan die persoon het resultaat maken zonder dat jij ernaast alles uitlegt?
+
+Dat laat ook zien wat er nog ontbreekt. Misschien gebruikt je skill ongemerkt een bestand dat alleen op jouw computer staat. Of de tooltoegang wordt nergens uitgelegd. Dat lossen we op voordat we het pakket opleveren.
+
+Je bepaalt vervolgens wat je verkoopt: alleen het materiaal, inrichting erbij of ook begeleiding. Dat zijn verschillende diensten met een andere hoeveelheid werk.
+
+Tijd om dit te bouwen. Ik ga onze workflow als bruikbaar product verpakken. Kijk even mee; ik vertel onderweg waarom ik iets doe.

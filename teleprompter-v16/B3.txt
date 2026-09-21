@@ -1,0 +1,9 @@
+Je hebt een sterke workflow gebouwd. Een klant wil soms in één oogopslag zien hoe die in zijn bedrijf past. Daar maken we een helder diagram voor.
+
+We gebruiken diagram-design en pakken onze campagneflow. Van product en research naar creatives, review en publicatievoorbereiding. Zet erbij wat iedere stap oplevert.
+
+Laat de tool daar een eigen HTML- of SVG-visual van maken in de stijl van jouw presentatie. Open hem en loop het proces even door. Kan iemand zien waar de input vandaan komt en waar hij zelf een keuze maakt?
+
+We maken ook een versie voor een dienstverlener. Dezelfde techniek, maar nu van klantvraag naar voorstel en levering. Zo kun je je oplossing in een salesgesprek laten zien.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan onze workflow visueel voor een klant uitwerken. Ik laat je zien welke keuzes ik maak.

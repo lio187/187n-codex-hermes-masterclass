@@ -1,0 +1,3 @@
+# Creativebrief · Oefenmerk-oefenconcept
+
+Doel: eerste en volgende levering begrijpelijk maken. Doelgroep: mensen die de aanbodstructuur willen begrijpen; geen bewezen klantonderzoek. Bron: voorbeelden/oefenmerk.md; voor eigen gebruik context/merkdossier.md en bevestigde productgegevens. Beeld: uitsluitend conceptasset of door de eigenaar vrijgegeven eigen productfoto. Drie invalshoeken: gemak, duidelijkheid, controle. Per concept twee hooks; de rest gelijk houden. Formaat eerste test: 9:16, captions binnen zichtbare veilige ruimte. Review: productnaam, interval, conceptlabel en assetrechten. Succesmetric en testpopulatie eerst in echte account vastleggen; geen testresultaat beschikbaar.

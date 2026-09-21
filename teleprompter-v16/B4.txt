@@ -1,0 +1,9 @@
+In deze repository staan veel beeldprompts en voorbeelden. We gebruiken hem om een visuele richting te vinden die bij ons product past.
+
+Kies één compositie. Misschien een product met hard licht, een bijzondere camerahoek of een sterke verdeling van kleur en ruimte. Beschrijf wat je eraan wilt gebruiken en geef onze eigen productreference mee.
+
+Daarna schrijven we een eigen prompt met onze brand, verpakking en gewenste toepassing. De generator die in jouw werkplek beschikbaar is maakt het beeld. De repository zelf is de inspiratiebron.
+
+Zet het resultaat naast de originele productreference. Klopt het product? Werkt de compositie voor een ad of voor de homepage? Geef één duidelijke correctie en maak de volgende versie.
+
+Tijd om dit te bouwen. Ik ga een beeldreference naar ons eigen product vertalen. Kijk even mee; ik vertel onderweg waarom ik iets doe.

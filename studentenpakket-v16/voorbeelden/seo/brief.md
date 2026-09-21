@@ -1,0 +1,3 @@
+# SEO-brief · Starterspakket of refill
+
+Fixture: voorbeelden/seo/zoekdata.csv, 1.000 impressies, 20 clicks, positie 11,2; testdata zonder echte meetperiode. Intentie: verschil in levering begrijpen. Voorstel: bestaande productuitleg aanvullen met twee duidelijke blokken. Bron: voorbeelden/oefenmerk.md; voor eigen gebruik context/merkdossier.md en bevestigde productgegevens; onbekende gezondheidsclaims niet gebruiken. Interne link als concept: /starter en /refill, vóór livegang op echte URL controleren. Acceptatie: inhoud en interval uit dezelfde bevestigde bron; conceptlabel behouden. Geen rankingclaim.

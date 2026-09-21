@@ -1,0 +1,11 @@
+Een bedrijf kan genoeg aanvragen krijgen en toch kansen missen doordat niemand de opvolging bijhoudt. Daar kun je een hele bruikbare workflow voor bouwen.
+
+We laten een nieuwe aanvraag in het CRM binnenkomen. De agent pakt de relevante informatie erbij, maakt een samenvatting en zet de volgende taak klaar. Na een gesprek wordt de status bijgewerkt en komt er een passend concept voor de opvolging.
+
+We verbinden de tools via Composio waar de benodigde acties beschikbaar zijn. Het CRM blijft de plek waar de klant en de status terug te vinden zijn. De agent helpt om het werk daaromheen uit te voeren.
+
+Laat drie situaties zien: een nieuwe lead, een geboekte afspraak en een klant die later wil praten. Voor iedere situatie moet de volgende stap logisch zijn.
+
+We bouwen er desgewenst een eenvoudig overzicht omheen, zodat het team meteen ziet wat er vandaag moet gebeuren. Dit is een concrete dienst die je aan een bedrijf kunt laten zien en opleveren.
+
+Tijd om dit te bouwen. Ik ga de CRM-opvolging van begin tot eind bouwen. Kijk even mee; ik vertel onderweg waarom ik iets doe.

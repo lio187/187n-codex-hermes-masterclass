@@ -1,0 +1,11 @@
+Je kunt bedrijven ook helpen om hun team zelf met AI te laten werken. Dan wil je dat mensen tijdens de training iets bouwen dat ze daarna blijven gebruiken.
+
+Kies een echte taak uit dat bedrijf. Een campagne maken, supportvragen verwerken of een klantvoorstel voorbereiden. We gebruiken die taak als rode draad en geven de deelnemers de juiste inputs en prompts.
+
+Je begint met een korte audit: hoe doen ze dit nu, welke tools gebruiken ze en waar zit de meeste winst in de werkwijze? Daar maak je de workshop omheen.
+
+Met OpenMAIC kun je als aanvullende route een interactieve les en quiz maken op basis van een geschikt document. Die GitHub-demo staat in het bonusblok. De kern van je training blijft dat de deelnemers de taak zelf uitvoeren.
+
+Aan het eind laat je ze hun resultaat openen en uitleggen wat ze ermee gaan doen. Daarna maak je een vervolgplan met de workflows die het bedrijf wil invoeren.
+
+Oké, ik ga nu van een bedrijfsproces een praktische training maken. Kijk mee hoe ik dit zelf aanpak.

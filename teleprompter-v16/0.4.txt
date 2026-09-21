@@ -1,0 +1,11 @@
+Voordat je Codex loslaat op je merk, moet hij weten wat jij verkoopt en hoe jij klinkt. Anders krijg je die standaard AI-teksten die je bij honderd andere bedrijven ook ziet. Daar gaan we dus meteen iets aan doen.
+
+Geef hem je product, je doelgroep en een stuk tekst waarvan jij zegt: zo praat ik. Dat mag een voice memo zijn die je hebt uitgeschreven, een goede salespagina of een bericht dat je zelf hebt geschreven. Ik gebruik mijn eigen uitleg over 187N. Jij gebruikt jouw woorden.
+
+Daarna laat je Codex jou interviewen. Wat verkoop je? Waarom kopen mensen het? Wat maakt het anders? Stel die vragen één voor één. Dan kun jij gewoon normaal antwoorden en bouwt Codex daar jouw bedrijfscontext van.
+
+Die informatie bewaren we in dit project. De werkafspraken komen in AGENTS.md. Je merk, aanbod en tone of voice krijgen hun eigen plek. Dat betekent dat we straks bij een productpagina, advertentie of e-mail op hetzelfde verhaal voortbouwen.
+
+Nu geven we hem een echte opdracht: schrijf de bovenkant van onze homepage. Wat ziet iemand als eerste? Wat beloven we? Waarom zou die persoon verder kijken? Lees het hardop. Klinkt het als jouw merk? Als jij een zin nooit zou zeggen, spreek dan jouw versie in en laat Codex die gebruiken.
+
+Je hebt nu de basis. Ik ga mijn eigen uitleg aan Codex geven en kijken wat hij ermee maakt, zoals ik dat zelf voor dit project zou doen.

@@ -1,0 +1,199 @@
+[
+  {
+    "id": "websites",
+    "title": "Websites en landingspagina’s verkopen",
+    "lessons": [
+      "2.3",
+      "2.4",
+      "2.5",
+      "10.3"
+    ],
+    "primary": "2.5",
+    "demo": "builds/studio/index.html#portal",
+    "files": [
+      "builds/studio/index.html",
+      "builds/studio/app.js",
+      "builds/studio/fixtures.json"
+    ]
+  },
+  {
+    "id": "contentbureau",
+    "title": "Een AI-contentbureau starten",
+    "lessons": [
+      "5.5",
+      "5.8",
+      "10.4"
+    ],
+    "primary": "5.8",
+    "demo": "builds/studio/index.html#content",
+    "files": [
+      "voorbeelden/content/maandplanning.csv",
+      "voorbeelden/content/reel.md",
+      "voorbeelden/content/carrousel.md"
+    ]
+  },
+  {
+    "id": "advertentiecreatives",
+    "title": "Advertentiecreatives als batch verkopen",
+    "lessons": [
+      "5.5",
+      "5.7"
+    ],
+    "primary": "5.7",
+    "demo": "voorbeelden/content/advertentiebatch.csv",
+    "files": [
+      "voorbeelden/content/advertentiebatch.csv",
+      "voorbeelden/content/creative-brief.md",
+      "voorbeelden/assets/oefenmerk-concept.svg"
+    ]
+  },
+  {
+    "id": "productfotografie-ugc",
+    "title": "AI-productfotografie en UGC-video’s leveren",
+    "lessons": [
+      "5.1",
+      "5.2",
+      "5.4",
+      "5.6"
+    ],
+    "primary": "5.6",
+    "demo": "voorbeelden/assets/contact-sheet.html",
+    "files": [
+      "voorbeelden/assets/contact-sheet.html",
+      "voorbeelden/assets/oefenmerk-concept.svg",
+      "voorbeelden/content/ugc-script.md",
+      "voorbeelden/content/editplan.json"
+    ]
+  },
+  {
+    "id": "seo",
+    "title": "SEO als maanddienst",
+    "lessons": [
+      "6.1",
+      "6.2",
+      "6.3"
+    ],
+    "primary": "6.3",
+    "demo": "voorbeelden/seo/maandrapport.md",
+    "files": [
+      "voorbeelden/seo/zoekdata.csv",
+      "voorbeelden/seo/brief.md",
+      "voorbeelden/seo/artikel.md",
+      "voorbeelden/seo/maandrapport.md"
+    ]
+  },
+  {
+    "id": "leadgeneratie",
+    "title": "Leadgeneratie en afsprakenservice",
+    "lessons": [
+      "7.1",
+      "7.2",
+      "7.3",
+      "7.4"
+    ],
+    "primary": "7.4",
+    "demo": "voorbeelden/outreach/kandidaten.csv",
+    "files": [
+      "voorbeelden/outreach/kandidaten.csv",
+      "voorbeelden/outreach/reacties.md",
+      "voorbeelden/outreach/bericht.md"
+    ]
+  },
+  {
+    "id": "crm-automations",
+    "title": "CRM-systemen en automations verkopen",
+    "lessons": [
+      "2.3",
+      "4.3",
+      "10.6"
+    ],
+    "primary": "10.6",
+    "demo": "builds/studio/index.html#crm",
+    "files": [
+      "builds/studio/app.js",
+      "voorbeelden/crm/events.json",
+      "voorbeelden/crm/workflow.md"
+    ]
+  },
+  {
+    "id": "supportbots",
+    "title": "Supportbots en kennisbanken verkopen",
+    "lessons": [
+      "3.4",
+      "4.3",
+      "10.7"
+    ],
+    "primary": "10.7",
+    "demo": "builds/studio/index.html#support",
+    "files": [
+      "voorbeelden/support/kennisbank.json",
+      "voorbeelden/support/testvragen.json",
+      "voorbeelden/support/antwoorden.md"
+    ]
+  },
+  {
+    "id": "micro-saas",
+    "title": "Een micro-SaaS of nichetool bouwen",
+    "lessons": [
+      "2.5",
+      "2.6",
+      "10.4"
+    ],
+    "primary": "2.6",
+    "demo": "builds/studio/index.html#checker",
+    "files": [
+      "builds/studio/app.js",
+      "voorbeelden/saas/briefings.json",
+      "voorbeelden/saas/pilot.md",
+      "voorbeelden/saas/product-checklist.md"
+    ]
+  },
+  {
+    "id": "digitale-pakketten",
+    "title": "Templates, skills en agentpakketten verkopen",
+    "lessons": [
+      "4.1",
+      "4.4",
+      "4.5"
+    ],
+    "primary": "4.5",
+    "demo": "verdienroutes/digitale-pakketten/voorbeeld.md",
+    "files": [
+      "templates/briefing.md",
+      "skills/briefing-review/SKILL.md",
+      "voorbeelden/saas/briefings.json"
+    ]
+  },
+  {
+    "id": "training-consultancy",
+    "title": "AI-training, audits en consultancy",
+    "lessons": [
+      "10.1",
+      "10.2",
+      "10.8"
+    ],
+    "primary": "10.8",
+    "demo": "voorbeelden/training/workshop.md",
+    "files": [
+      "voorbeelden/training/workshop.md",
+      "voorbeelden/training/audit.md",
+      "voorbeelden/training/actieplan.md"
+    ]
+  },
+  {
+    "id": "white-label",
+    "title": "White-label bouwen voor bureaus",
+    "lessons": [
+      "10.3",
+      "10.5",
+      "10.9"
+    ],
+    "primary": "10.9",
+    "demo": "voorbeelden/white-label/overdracht.md",
+    "files": [
+      "voorbeelden/white-label/briefing.md",
+      "voorbeelden/white-label/overdracht.md",
+      "builds/studio/index.html"
+    ]
+  }
+]

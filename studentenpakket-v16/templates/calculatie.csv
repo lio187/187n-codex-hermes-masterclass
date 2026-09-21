@@ -1,0 +1,4 @@
+scenario,eenmalige_omzet,eenmalige_kosten,maand_omzet,hosting,modelkosten,tools,supporturen,uurtarief,status
+normaal,0,0,0,0,0,0,0,0,INVULLEN_GEEN_PRIJSADVIES
+hoog_volume,0,0,0,0,0,0,0,0,INVULLEN_GEEN_PRIJSADVIES
+extra_herstel,0,0,0,0,0,0,0,0,INVULLEN_GEEN_PRIJSADVIES

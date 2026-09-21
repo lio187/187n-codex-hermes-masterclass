@@ -1,0 +1,11 @@
+Je hebt niet alleen bezoekers nodig. Je wilt ook iets doen met de mensen die interesse tonen, afhaken of al hebben gekocht. Daarom bouwen we nu vier e-mailflows voor onze store.
+
+De welcome-flow laat iemand kennismaken met het merk. De abandoned-checkout-flow pakt de twijfel rond een niet-afgeronde bestelling op. Na aankoop helpen we de klant het product te gebruiken. En bij een herhaalproduct kijken we naar het moment waarop een nieuwe bestelling relevant wordt.
+
+Geef de e-mail-workflow onze brand, het aanbod en de research. Laat hem per flow de trigger, timing en berichten uitwerken. We schrijven de mails in dezelfde stem als de webshop. De klant moet ons merk blijven herkennen.
+
+Ik open één flow helemaal. Waarom krijgt iemand deze mail? Wat zeggen we? Waar gaat de knop naartoe? Daarna zetten we de concepten klaar in het gekozen e-mailplatform via de beschikbare verbinding.
+
+Bij een abonnement gebruiken we de echte aankoop- en contractinformatie. Een klant die al heeft gekocht, moet niet dezelfde verlaten-checkoutmail blijven krijgen. Dat stellen we in wanneer we de flow aansluiten.
+
+Tijd om dit te bouwen. Ik ga de e-mailflows voor dit merk uitwerken. Kijk even mee; ik vertel onderweg waarom ik iets doe.

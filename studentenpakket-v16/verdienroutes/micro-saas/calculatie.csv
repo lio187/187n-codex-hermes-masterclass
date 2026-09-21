@@ -1,0 +1,7 @@
+scenario,periode,eenheid,omzet_eur,uren,interne_uurkosten_eur,overige_bekende_kosten_eur,bekende_kosten_eur,bijdrage_eur,status
+normaal,bouw,pilot met 3 teams,0,20,50,5,1005,-1005,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+normaal,maand,pilot met 3 teams,39,0.2,50,5,15.0,24.0,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+hoog_volume,bouw,pilot met 3 teams,0,30.0,50,7.5,1507.5,-1507.5,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+hoog_volume,maand,pilot met 3 teams,39,0.3,50,7.5,22.5,16.5,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+extra_herstel,bouw,pilot met 3 teams,0,40,50,10,2010,-2010,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING
+extra_herstel,maand,pilot met 3 teams,39,0.4,50,10,30.0,9.0,FICTIEVE_AANNAME_VOOR_OVERIGE_KOSTEN_EN_BELASTING

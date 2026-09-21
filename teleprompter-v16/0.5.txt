@@ -1,0 +1,9 @@
+We gaan vandaag veel meer maken dan één pagina. Daarom wil je dat Codex onthoudt welk merk we bouwen en welke keuzes jij al hebt gemaakt.
+
+Ik houd de webshopbuild bij elkaar in één project. Research krijgt een eigen gesprek, het bouwen ook, en voor een nieuwe contentbatch start ik weer een gerichte opdracht. Die gesprekken gebruiken dezelfde projectbestanden. Zo kan de content-workflow met de echte brandregels werken die we net hebben gekozen.
+
+Aan het eind van een grote stap vraag ik Codex om de stand van zaken te bewaren. Wat is af? Welke versie gebruiken we? Wat gaan we hierna maken? Als ik morgen terugkom, kan ik vanaf daar verder.
+
+Dat is ook handig als je een andere modelkeuze wilt proberen. Je geeft het model het doel en de bestaande build mee. Je hoeft niet heel je verhaal opnieuw te vertellen. Voor een moeilijke Liquid-migratie kies je een sterke redeneerstand. Voor tien captionvarianten kun je een lichtere route vergelijken.
+
+Oké, ik ga nu in een nieuwe chat verder bouwen op de keuzes die al staan. Kijk mee hoe ik dit zelf aanpak.

@@ -1,0 +1,9 @@
+Pak je cameraopname en je schermopname erbij. We gaan bepalen welk verhaal je daarmee vertelt en welk beeld op ieder moment iets toevoegt. Je agent krijgt dus de hele demonstratie als materiaal.
+
+Eerst maken of lezen we het transcript met tijdstippen. Daarna markeren we de uitleg die nodig is om de demo te begrijpen, de momenten waarop je resultaat zichtbaar wordt en de stukken die opnieuw moeten. Een verspreking kun je vaak knippen. Een ontbrekende uitleg moet je soms gewoon nog opnemen.
+
+Vervolgens kiest de agent waar we jouw gezicht zien en waar het scherm belangrijker is. Bij een kleine interfacehandeling moet de kijker kunnen volgen waar je klikt. Tijdens een uitleg over je keuzes kan de camera juist weer beter werken.
+
+We slaan dit op als montageplan met verwijzingen naar de originele opnames. Ik loop dat plan door voordat we gaan renderen. Je kunt hier heel makkelijk zeggen: dit stuk mag sneller, hier moet het resultaat langer in beeld en deze zijstap halen we eruit. Dan weet de editor precies wat hij gaat bouwen.
+
+Ik ga dit nu op ons project uitvoeren. Kijk vooral mee hoe ik de output beoordeel en bijstuur.

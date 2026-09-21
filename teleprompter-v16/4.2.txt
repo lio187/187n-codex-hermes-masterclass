@@ -1,0 +1,9 @@
+Je ziet online een tutorial en denkt: dit wil ik ook kunnen. Dan kun je die informatie gebruiken om jouw eigen workflow verder te bouwen.
+
+Pak één tutorial die echt aansluit op het werk dat je wilt doen. Bijvoorbeeld een specifieke productvideo of een Shopify-effect. Geef Codex de toegankelijke uitleg en laat hem uitzoeken welke inputs, tools en stappen daarvoor nodig zijn.
+
+Daarna passen we het toe op ons eigen product. We nemen de techniek mee, maar maken onze eigen uitvoering. Laat de agent een werkplan maken en de beschikbare stappen uitvoeren. Ontbreekt er een bronbestand of tool, dan pakken we dat gericht op.
+
+Pas wanneer je de workflow zelf hebt doorlopen, maak je er een skill van. Je weet dan welke stap in de tutorial te snel ging en welke instelling voor jouw situatie anders moest.
+
+Je hebt nu de basis. Ik ga een goede tutorial vertalen naar ons eigen project, zoals ik dat zelf voor dit project zou doen.

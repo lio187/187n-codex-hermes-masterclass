@@ -1,0 +1,11 @@
+De store ziet er goed uit. Nu sluiten we de aankoop aan. Een bezoeker kiest zijn product of variant, voegt het toe aan de winkelmand en gaat door naar de Shopify-checkout.
+
+Laat Codex die route uitwerken voor ons aanbod. Bij een variant moet de juiste variant in de winkelmand terechtkomen. Bij een abonnement hoort het gekozen plan erbij. We gebruiken daarvoor de ondersteunde Shopify-route en de abonnementsconfiguratie van de winkel.
+
+Open de productpagina en doe het zelf even. Kies de optie, pas de hoeveelheid aan en kijk in de winkelmand. Klopt wat je krijgt? Dan doen we een testbestelling in onze oefenwinkel.
+
+Dat is ook het moment waarop we de bevestiging en de gegevens voor de volgende workflows krijgen. De e-mailflow moet weten wat iemand heeft gekocht. Customer support moet de order kunnen terugvinden. De analyse moet het juiste bedrag gebruiken.
+
+Je ziet nu dat de website en de automatisering bij elkaar horen. We bouwen de voorkant waar de klant koopt en sluiten daar het werk achter de schermen op aan.
+
+Ik pak mijn eigen voorbeeld erbij. We gaan de hele aankooproute in de oefenwinkel doorlopen. Ik laat je zien welke keuzes ik maak.

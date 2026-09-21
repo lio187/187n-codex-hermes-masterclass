@@ -1,0 +1,11 @@
+Dit is waar alles samenkomt. We hebben het aanbod, de copy, de branding en de references. Nu gaan we de complete storefront bouwen.
+
+Geef Codex de opdracht om de homepage en productpagina samen uit te werken. Bovenaan moet het merk meteen goed staan. Verderop vertellen we waarom dit product interessant is, laten we het zien en beantwoorden we de vragen uit onze research. De koopactie moet overal logisch terugkomen.
+
+Ik laat eerst de homepage bouwen. We openen de preview en kijken naar de hele flow. Waar trekt de pagina je mee? Waar zakt het in? Een hero kan heel mooi zijn terwijl de rest nog voelt als een standaardtemplate. Dan sturen we juist dat stuk bij.
+
+Daarna bouwen we de productpagina. Grote productbeelden, de juiste bestelopties, uitleg en de informatie die iemand nodig heeft om te kiezen. Alles in dezelfde stijl.
+
+Open ook mobiel. Daar moet het product goed in beeld blijven en moet je direct snappen wat je kunt bestellen. We geven Codex feedback op beide schermen en laten hem de build afmaken.
+
+Tijd om dit te bouwen. Ik ga de storefront bouwen en onderweg laten zien wat ik zou aanpassen. Kijk even mee; ik vertel onderweg waarom ik iets doe.

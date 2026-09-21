@@ -1,0 +1,11 @@
+Nu gaan we van onze eigen build naar een echte Shopify-store. Het ontwerp staat. We willen datzelfde design in Shopify kunnen gebruiken en aanpassen.
+
+Liquid is de templatingtaal van Shopify. Daarmee laat je jouw ontwerp werken met de producten, beelden en gegevens uit je winkel. We gaan dus de hardcoded productinformatie uit onze preview vervangen door Shopify-data.
+
+Laat Codex onze storefront opdelen in herbruikbare sections. De hero, het productverhaal, de vergelijking, de FAQ. Onderdelen die je vaker gebruikt worden snippets. De paginaopbouw komt in de templates.
+
+Begin met de homepage. Codex zet die om en we openen de Shopify-preview ernaast. Herken je dezelfde typografie, spacing en beelden? Daarna doen we de productpagina en koppelen we het juiste product.
+
+Ik wil ook dat je dit zelf kunt blijven aanpassen in de theme editor. Dus teksten, beelden en instellingen die jij vaak wijzigt, maken we daar beschikbaar. Je hoeft dan niet voor iedere headline weer de code in.
+
+Je hebt nu de basis. Ik ga ons eigen ontwerp naar Shopify Liquid omzetten, zoals ik dat zelf voor dit project zou doen.
